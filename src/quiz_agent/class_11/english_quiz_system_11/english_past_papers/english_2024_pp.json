@@ -1,0 +1,256 @@
+{
+  "year": 2024,
+  "subject": "ENGLISH",
+  "groups": ["Pre-Medical", "Pre-Engineering", "Home Economics"],
+  "time": "3 Hours",
+  "total_marks": 100,
+  "sections": [
+    {
+      "name": "SECTION A - Multiple Choice Questions (MCQs)",
+      "instructions": "This section consists of 20 part questions and all are to be answered. Each question carries one mark. Do not copy the part questions in your answer book. Write only the answer in full against the proper number of the question and its part.",
+      "questions": [
+        {
+          "number": "i",
+          "question": "According to the Quaid-e-Azam, the first duty of a government is to maintain:",
+          "options": ["law and order", "Discipline", "Peace", "constitution"],
+          "correct_answer": "law and order"
+        },
+        {
+          "number": "ii",
+          "question": "In the lesson, 'Once more to the Lake', the writer used to visit the lake in the month of:",
+          "options": ["June", "July", "August", "September"],
+          "correct_answer": "August"
+        },
+        {
+          "number": "iii", 
+          "question": "In the sentence, 'The car arrived late', the underlined verb is:",
+          "options": ["transitive", "intransitive", "modal", "auxiliary"],
+          "correct_answer": "intransitive"
+        },
+        {
+          "number": "iv",
+          "question": "The actual worth of the necklace was:",
+          "options": ["4 hundred francs", "5 hundred francs", "6 hundred francs", "7 hundred francs"],
+          "correct_answer": "5 hundred francs"
+        },
+        {
+          "number": "v",
+          "question": "'May I come in?' Here the modal verb 'may' indicates:",
+          "options": ["ability", "obligation", "advice", "permission"],
+          "correct_answer": "permission"
+        },
+        {
+          "number": "vi",
+          "question": "Lewis Ruffner wanted thing; to be done promptly and:",
+          "options": ["quickly", "happily", "systematically", "completely"],
+          "correct_answer": "systematically"
+        },
+        {
+          "number": "vii",
+          "question": "The cleaning stuff infected the area to avoid the spread of disease. (choose the correct prefix of the underlined word):",
+          "options": ["re", "mis", "dis", "un"],
+          "correct_answer": "dis"
+        },
+        {
+          "number": "viii",
+          "question": "The word 'maxim' means:",
+          "options": ["top", "saying", "climax", "maximum"],
+          "correct_answer": "maximum"
+        },
+        {
+          "number": "ix",
+          "question": "King John was jealous of Abbot's high:",
+          "options": ["living standard", "respect", "renown", "repute"],
+          "correct_answer": "renown"
+        },
+        {
+          "number": "x",
+          "question": "Lucy Gray sings a:",
+          "options": ["sweet song", "solitary song", "melodious song", "sad song"],
+          "correct_answer": "solitary song"
+        },
+        {
+          "number": "xi",
+          "question": "'He is the wisest fool of them all, this sentence contains the literacy device:",
+          "options": ["alliteration", "metaphor", "oxymoron", "simile"],
+          "correct_answer": "oxymoron"
+        },
+        {
+          "number": "xii",
+          "question": "The past participle of 'be' is:",
+          "options": ["was", "were", "had", "been"],
+          "correct_answer": "been"
+        },
+        {
+          "number": "xiii",
+          "question": "Khahoris trouble their bodies to attain their:",
+          "options": ["objective", "goal", "target", "profit"],
+          "correct_answer": "profit"
+        },
+        {
+          "number": "xiv",
+          "question": "'A Visit to a Small Planet' is a:",
+          "options": ["comedy", "tragedy", "fiction", "science fiction"],
+          "correct_answer": "science fiction"
+        },
+        {
+          "number": "xv",
+          "question": "Kreton considers human civilization as:",
+          "options": ["decent", "primitive", "modern", "ancient"],
+          "correct_answer": "primitive"
+        },
+        {
+          "number": "xvi",
+          "question": "'For thirty pence our savior was sold' It is the line from the poem':",
+          "options": ["Ozymandias", "Lucy Gray", "Don't Quit", "The Abbot of Canterbury"],
+          "correct_answer": "The Abbot of Canterbury"
+        },
+        {
+          "number": "xvii",
+          "question": "According to the author of 'Self Reliance' imitation is:",
+          "options": ["suicide", "bliss", "ignorance", "envy"],
+          "correct_answer": "suicide"
+        },
+        {
+          "number": "xviii",
+          "question": "Government of Singapore spends twenty five percent of its income on:",
+          "options": ["sports", "education", "health", "trade"],
+          "correct_answer": "education"
+        },
+        {
+          "number": "xix",
+          "question": "The comparative degree of the word bad is:",
+          "options": ["more worse", "worse", "most worse", "worst"],
+          "correct_answer": "worse"
+        },
+        {
+          "number": "xx",
+          "question": "Ozymandias was a Greek name for the Egyptian:",
+          "options": ["King", "emperor", "pharaoh", "hero"],
+          "correct_answer": "pharaoh"
+        }
+      ]
+    },
+    {
+      "name": "SECTION B - Short Answer Questions",
+      "total_marks": 40,
+      "instructions": "Attempt Ten part questions from this section, taking at least Two part questions from each sub-section. All questions carry equal marks.",
+      "subsections": [
+        {
+          "name": "SUB-SECTION I (Reading Comprehension)",
+          "questions": [
+            "What mistake did Stephen Leacock make while writing a cheque?",
+            "Why does the writer take a vacation at the lake in Maine?",
+            "Why did Booker T. Washington not make a favourable impression on the head teacher?",
+            "What is the difference between a job and a career?"
+          ]
+        },
+        {
+          "name": "SUB-SECTION II (Poetry)", 
+          "questions": [
+            "Why do Khahoris spend their days and nights?",
+            "What was the dispute between the King and the Abbot?",
+            "Why does the poet suggest people to be like 'Good Timber'?",
+            "What does Edgar A. Guest mean by the line 'Life is queer with its twists and terms?'"
+          ]
+        },
+        {
+          "name": "SUB-SECTION III (Play - A Visit to a Small Planet)",
+          "questions": [
+            "Who is Aide What is his role in the play?",
+            "How does Kreton prove his extraordinary powers?",
+            "What is the ionic element about Spelding's broadcast at the beginning of the play?",
+            "Describe the reaction of the General Powers to Kreton's visit on earth."
+          ]
+        },
+        {
+          "name": "SUB-SECTION IV (Grammar)",
+          "questions": [
+            {
+              "type": "narration_change",
+              "instructions": "Change the narration:",
+              "sentences": [
+                "She said, 'I may buy a dress.'",
+                "The policeman said, 'Where are the weapons?'",
+                "Adil said to Asim, 'Honesty is the best policy.'",
+                "The man said, 'Ah! I am ruined.'"
+              ]
+            },
+            {
+              "type": "voice_change", 
+              "instructions": "Change the voice:",
+              "sentences": [
+                "Birds build nests.",
+                "Who taught you English?",
+                "I was sending the email.",
+                "We have bought his house."
+              ]
+            },
+            {
+              "type": "grammar_exercises",
+              "instructions": "Do as directed:",
+              "exercises": [
+                "If I went to Paris, ……………… (complete the sentence)",
+                "Sana said to Sara my cat is dead (Insert the punctuation marks)",
+                "I go to the park. (Put the adverb 'rarely' in the right place)",
+                "She goes to the beach. She takes her food. (Make a compound sentence)"
+              ]
+            },
+            {
+              "type": "error_correction",
+              "instructions": "Spot the errors, and correct the verb, preposition & article in the following sentences:",
+              "sentences": [
+                "He is afraid from snakes.",
+                "An apple a day keeps a doctor away.",
+                "He sees two young sailors yesterday.",
+                "These boys are playing cricket since 10 o'clock"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SECTION C - Detailed Answer Questions",
+      "total_marks": 20,
+      "instructions": "Answer all questions from the section. All questions carry equal marks.",
+      "questions": [
+        {
+          "type": "comprehension_or_precis",
+          "options": [
+            "Read the following passage and answer the questions that follow.",
+            "Make a precis of the following and suggest a suitable title to it:"
+          ],
+          "passage": "Bullying is a repeated and international use of words or actions against someone or a group of people to cause distress and risk to their wellbeing. It is a global phenomenon that has existed for centuries, its trend has now evolved due to increasing rise of interest and social media, where people's daily each other through online comments. Being bullied can have a detrimental impact on one's life. It also leads to negative outcome among the individuals involved. Typically, bullying can be categorized into four main types physical, verbal, social and a recent addition online at cyber. People with mental and physical disabilities are likely to be bullied more than normal people. Individuals suffering from disabilities are at risk to develop poor mental health once bullied. It is probable that they will experience anxiety, depression, low self-esteem and other risks that are associated with bullying.",
+          "questions": [
+            "What are the impacts of bullying on the human health?",
+            "Who are likely to be affected by bullying?", 
+            "How can bullying be categorized into different types?",
+            "Give the parts of speech of the following words: a) bullying b) typically c) evolved d) where"
+          ]
+        },
+        {
+          "type": "email_or_report",
+          "options": [
+            "Write a formal email to you Principal requesting him/her to arrange a study tour to a historical place Moen Jo Daro.",
+            "Write a report about prize distribution ceremony held in your college. (Including events, days and dates)."
+          ]
+        },
+        {
+          "type": "essay",
+          "instructions": "Write an essay to compare and contrast on any One of the following:",
+          "topics": [
+            "Paper books vs E-books",
+            "Artificial Intelligence vs Human Intelligence", 
+            "Video Games vs Outdoor Games"
+          ]
+        },
+        {
+          "type": "job_application",
+          "instructions": "Draft a covering letter with CV in response to the following advertisement:",
+          "advertisement": "A well reputed organization requires a receptionist who is fresh graduate. Send a detailed CV/Resume to P.O Box No. 4040 GO Down, Karachi."
+        }
+      ]
+    }
+  ]
+}

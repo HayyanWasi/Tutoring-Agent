@@ -1,0 +1,244 @@
+{
+  "subject": "COMPUTER",
+  "year": 2019,
+  "time": "20 Minutes",
+  "max_marks": 15,
+  "sections": {
+    "A": {
+      "title": "Multiple Choice Questions",
+      "instructions": "Choose the correct answer for each from the given options",
+      "questions": [
+        {
+          "number": "i",
+          "question": "Dot Matrix is a type of:",
+          "options": ["Impact Printer", "Non-Impact Printer", "Scanner", "Plotter"],
+          "correct_answer": "Impact Printer"
+        },
+        {
+          "number": "ii",
+          "question": "DOS Linux and Unix are the types of:",
+          "options": ["Operating Systems", "Viruses", "Translators"],
+          "correct_answer": "Operating Systems"
+        },
+        {
+          "number": "iii",
+          "question": "This is a computer crime:",
+          "options": ["Formatting", "Backup", "Restoring", "Hacking"],
+          "correct_answer": "Hacking"
+        },
+        {
+          "number": "iv",
+          "question": "This software is stored permanently on the ROM chip by the manufacturer:",
+          "options": ["Spyware", "Firmware", "Hardware", "software"],
+          "correct_answer": "Firmware"
+        },
+        {
+          "number": "v",
+          "question": "Telephone line is an example of:",
+          "options": ["Simplex Mode", "Half-duplex Mode", "Half-simplex Mode", "Full-duplex Mode"],
+          "correct_answer": "Half-duplex Mode"
+        },
+        {
+          "number": "vi",
+          "question": "This software enables the user to interact with computer hardware:",
+          "options": ["Operating System", "Application Software", "Firmware", "Malware"],
+          "correct_answer": "Operating System"
+        },
+        {
+          "number": "vii",
+          "question": "A bar-code Reader is an example of:",
+          "options": ["Input Unit", "Output Unit", "Storage Unit", "Processing Unit"],
+          "correct_answer": "Input Unit"
+        },
+        {
+          "number": "viii",
+          "question": "This number of bits or bytes that a microprocessor can manipulate as a unit is called:",
+          "options": ["Word", "unit", "byte", "string"],
+          "correct_answer": "Word"
+        },
+        {
+          "number": "ix",
+          "question": "It is used to transmit data from memory to microprocessor and vice versa:",
+          "options": ["data bus", "address bus", "control bus", "central bus"],
+          "correct_answer": "data bus"
+        },
+        {
+          "number": "x",
+          "question": "It is also known as Memory Data Register:",
+          "options": ["Memory Address Register", "Memory Buffer Register", "Instruction Register", "Program counter"],
+          "correct_answer": "Memory Buffer Register"
+        },
+        {
+          "number": "xi",
+          "question": "FM stands for:",
+          "options": ["Frequency modification", "Frequency modulation", "Functional module"],
+          "correct_answer": "Frequency modulation"
+        },
+        {
+          "number": "xii",
+          "question": "It is the most common network used to connect two or more computers which are lying in the same office or building:",
+          "options": ["GAN", "MAN", "LAN", "WAN"],
+          "correct_answer": "LAN"
+        },
+        {
+          "number": "xiii",
+          "question": "The physical layout of a LAN is called:",
+          "options": ["link", "layer cake", "contention", "topology"],
+          "correct_answer": "topology"
+        },
+        {
+          "number": "xiv",
+          "question": "This is the fastest data communication media:",
+          "options": ["Coaxial Cable", "Twisted Pair", "Microwave", "Fiber Optic"],
+          "correct_answer": "Fiber Optic"
+        }
+      ]
+    },
+    "B": {
+      "title": "Short-Answer Questions",
+      "time": "2 Hours 40 Minutes",
+      "marks": 60,
+      "instructions": "Answer any 12 questions from this section",
+      "questions": [
+        {
+          "number": "i",
+          "question": "Define Protocol and name any three."
+        },
+        {
+          "number": "ii",
+          "question": "Define any two of the following:\n* Bridge * Router * Gateway"
+        },
+        {
+          "number": "iii",
+          "question": "Which mode of Data transmission is suitable for communication from a computer to a printer?"
+        },
+        {
+          "number": "iv",
+          "question": "Write the full forms of the following:\n* HTTP * URL * SIMM"
+        },
+        {
+          "number": "v",
+          "question": "Define Ring topology and give its advantages."
+        },
+        {
+          "number": "vi",
+          "question": "Differentiate between Volatile memory and Non-Volatile memory."
+        },
+        {
+          "number": "vii",
+          "question": "Define Impact Printer and Non-Impact Printer."
+        },
+        {
+          "number": "viii",
+          "question": "Define Analog Signal and Digital Signal."
+        },
+        {
+          "number": "ix",
+          "question": "Draw the block diagram of a Digital Computer."
+        },
+        {
+          "number": "x",
+          "question": "How is Internet useful in the field of education?"
+        },
+        {
+          "number": "xi",
+          "question": "Why is an Address Bus called unidirectional?"
+        },
+        {
+          "number": "xii",
+          "question": "Why is an operating System necessary for a computer?"
+        },
+        {
+          "number": "xiii",
+          "question": "What are the components of LAN?"
+        },
+        {
+          "number": "xiv",
+          "question": "Who are the basic hardware needs for internet?"
+        },
+        {
+          "number": "xv",
+          "question": "Name any two Full-duplex devices."
+        },
+        {
+          "number": "xvi",
+          "question": "What is Computer crime?"
+        },
+        {
+          "number": "xvii",
+          "question": "Draw the layer cake of OSI model."
+        },
+        {
+          "number": "xviii",
+          "type": "matching",
+          "question": "Match the terms of column A with those of column B",
+          "pairs": {
+            "Keyboard": "Input device",
+            "Non-Volatile": "ROM",
+            "Byte": "8 bits",
+            "DOS": "Operating System",
+            "BIOS": "Firmware",
+            "Local Area Network": "LAN"
+          }
+        }
+      ]
+    },
+    "C": {
+      "title": "Detailed Answer Questions",
+      "instructions": "Answer any Two questions from this section",
+      "questions": [
+        {
+          "number": "3",
+          "parts": [
+            {
+              "part": "a",
+              "question": "What is Internet Browser? Describe its various types."
+            },
+            {
+              "part": "b",
+              "question": "What is a Computer Virus? What preventive measures can be taken to protect our computer from its attacks?"
+            },
+            {
+              "part": "c",
+              "question": "Define the term Bus. Describe the functions of any two Buses."
+            }
+          ]
+        },
+        {
+          "number": "4",
+          "parts": [
+            {
+              "part": "a",
+              "question": "State Copyright law. Give its advantages."
+            },
+            {
+              "part": "b",
+              "question": "What is Stack? Explain its operations with examples."
+            },
+            {
+              "part": "c",
+              "question": "Define System Software and explain its three categories."
+            }
+          ]
+        },
+        {
+          "number": "5",
+          "parts": [
+            {
+              "part": "a",
+              "question": "Define Synchronous and Asynchronous transmissions with diagrams."
+            },
+            {
+              "part": "b",
+              "question": "Explain the important features of an Operating System."
+            },
+            {
+              "part": "c",
+              "question": "Who is meant by Primary and Secondary Storages? Define any three types of secondary storage."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

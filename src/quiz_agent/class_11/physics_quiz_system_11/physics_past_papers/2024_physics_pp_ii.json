@@ -1,0 +1,227 @@
+{
+  "subject": "PHYSICS",
+  "year": 2024,
+  "group": "Science General Group",
+  "time": "3 Hours",
+  "total_marks": 85,
+  "sections": {
+    "A": {
+      "title": "Multiple Choice Questions",
+      "marks": 17,
+      "instructions": "i) This section consists of 17 part questions and all are to be answered. Each question carries 1 mark.\nii) Do not copy the part questions in your answer book. Write only the answer in full against the proper number of the question and its part.\niii) The use of scientific calculator is allowed. All notations are used in their usual meanings",
+      "questions": [
+        {
+          "number": "i",
+          "question": "A sky diver falls through the air with terminal velocity. The force of air resistance on bless is:",
+          "options": ["half of his weight", "equal to his weight", "twice of his weight", "zero"],
+          "correct_answer": "equal to his weight"
+        },
+        {
+          "number": "ii",
+          "question": "The resistance of superconductor is:",
+          "options": ["Finite", "infinite", "Change with every conductor", "Zero"],
+          "correct_answer": "Zero"
+        },
+        {
+          "number": "iii",
+          "question": "In SHM kinetic energy is maximum at:",
+          "options": ["mean position", "extreme position", "all positions", "mean & extreme positions"],
+          "correct_answer": "mean position"
+        },
+        {
+          "number": "iv",
+          "question": "Energy stored in the capacitor is equal to:",
+          "options": ["½ C²V", "½ CV²", "½ CV²", "½ CV²"],
+          "correct_answer": "½ CV²"
+        },
+        {
+          "number": "v",
+          "question": "This force is called as self-adjusting force:",
+          "options": ["weight", "tension", "thrust", "friction"],
+          "correct_answer": "friction"
+        },
+        {
+          "number": "vi",
+          "question": "The dimensions of angular momentum are given by:",
+          "options": ["ML⁻¹T⁻²", "ML²T⁻¹", "L²T⁻¹", "MLT⁻⁴"],
+          "correct_answer": "ML²T⁻¹"
+        },
+        {
+          "number": "vii",
+          "question": "A communication channel does not consist of:",
+          "options": ["Transmission line", "Optical fiber", "Free space", "Receiving equipment"],
+          "correct_answer": "Free space"
+        },
+        {
+          "number": "viii",
+          "question": "A body suspended by a weighing scale weighs 10N out of water and 7N when submerged in water. This is the buoyant force on the body:",
+          "options": ["3N", "5N", "7N", "10N"],
+          "correct_answer": "3N"
+        },
+        {
+          "number": "ix",
+          "question": "This pair of angles a projectile will obtain the equal horizontal range for a given velocity:",
+          "options": ["(18°,74°)", "(23°,58°)", "(33°,57°)", "(37°,70°)"],
+          "correct_answer": "(33°,57°)"
+        },
+        {
+          "number": "x",
+          "question": "A jet engine plane develops a forward force of 2000N when the velocity of flying at 200 m/s. The power of the engine will be:",
+          "options": ["4 × 10⁵ hp", "4 × 10⁵ kW", "4 × 10⁵ W", "4 × 10⁵ MW"],
+          "correct_answer": "4 × 10⁵ W"
+        },
+        {
+          "number": "xi",
+          "question": "A mass spring oscillator has a time period T, if the mass is doubled, the time period will become:",
+          "options": ["T", "2T", "√2T", "T/√2"],
+          "correct_answer": "√2T"
+        },
+        {
+          "number": "xii",
+          "question": "A charge of 5C is moved from one point to another point in an electric field and 1000J of work is done by the field. The potential difference between the two points will be:",
+          "options": ["100V", "200V", "500V", "800V"],
+          "correct_answer": "200V"
+        },
+        {
+          "number": "xiii",
+          "question": "Electric resistance of a conductor does not depend upon:",
+          "options": ["Length of conductor", "Temperature of conductor", "Area of cross-section of conductor", "Potential difference between the sides of the conductor"],
+          "correct_answer": "Potential difference between the sides of the conductor"
+        },
+        {
+          "number": "xiv",
+          "question": "This electromagnetic wave in the given option has the shortest wavelength:",
+          "options": ["Radio waves", "ultraviolet waves", "microwaves", "infrared waves"],
+          "correct_answer": "ultraviolet waves"
+        },
+        {
+          "number": "xv",
+          "question": "The locus of all points in the same phase of vibration is called:",
+          "options": ["wave number", "wave pulse", "wavelength", "wave front"],
+          "correct_answer": "wave front"
+        },
+        {
+          "number": "xvi",
+          "question": "The maximum number of beats that can be heard by human earth:",
+          "options": ["3", "5", "7", "9"],
+          "correct_answer": "7"
+        },
+        {
+          "number": "xvii",
+          "question": "A body moving along the circular path may have constant:",
+          "options": ["Velocity", "Acceleration", "Momentum", "Speed"],
+          "correct_answer": "Speed"
+        }
+      ]
+    },
+    "B": {
+      "title": "Short-Answer Questions",
+      "marks": 36,
+      "instructions": "Answer any NINE part questions from this section. All questions carry equal marks. Draw diagrams where necessary. Use of scientific calculator is allowed. All notations are used in their usual meanings",
+      "questions": [
+        {
+          "number": "i",
+          "question": "Prove that following equations are dimensionally correct:\n• T = 2π√(L/g)\n• S = v₁t + ½ at²"
+        },
+        {
+          "number": "ii",
+          "question": "A 50g bullet is fired into a 10kg block that is suspended by a long cord so that it can swing as a pendulum. If the block is displaced so that its center of gravity rises by 10cm, find the initial velocity of bullet."
+        },
+        {
+          "number": "iii",
+          "question": "Define escape velocity. Derive the expression for escape velocity on earth's surface."
+        },
+        {
+          "number": "iv",
+          "question": "Calculate the viscous drag on a drop of oil of 0.1mm radius falling through air at its terminal velocity. (viscosity of air 1.8 × 10⁵ Pa-s, density of oil = 850 kg/m³)"
+        },
+        {
+          "number": "v",
+          "question": "Define Electric flux, give its SI unit. Under what condition the electric flux through a surface will be:\na) maximum\nb) minimum"
+        },
+        {
+          "number": "vi",
+          "question": "Derive an expression for the equivalent capacitance of three unequal capacitors connected in series OR parallel."
+        },
+        {
+          "number": "vii",
+          "question": "Derive an equation for balanced Wheatstone bridge."
+        },
+        {
+          "number": "viii",
+          "question": "Three resistors of 1Ω, 2Ω and 3Ω are connected in series. What is the total resistance of the combination? If the combination is connected to a battery of emf 24 V and negligible internal resistance. Find the potential drop across each resistor."
+        },
+        {
+          "number": "ix",
+          "question": "If the speed of sound in air at 27°C is 345 m/s. Find the speed at 127°C"
+        },
+        {
+          "number": "x",
+          "question": "How many lines per centimeter are there in a grating which gives 1st order spectrum at an angle of when the wavelength of light is"
+        },
+        {
+          "number": "xi",
+          "question": "A helicopter is ascending at a rate of . At a height of 80m above the ground, a packet is dropped. Find the time taken by packet to reach the ground."
+        },
+        {
+          "number": "xii",
+          "question": "State Pascal's law. Give the working of hydraulic lift."
+        },
+        {
+          "number": "xiii",
+          "question": "A source of sound and listener are moving towards each other with velocities 0.5 and 0.2 times the speed of sound respectively. If the source is emitting 2kHz tone, calculate the frequency heard by the listener. (Speed of sound = )"
+        },
+        {
+          "number": "xiv",
+          "question": "Derive an expression for centripetal acceleration = —"
+        }
+      ]
+    },
+    "C": {
+      "title": "Detailed Answer Questions",
+      "marks": 32,
+      "instructions": "Attempt any TWO questions from this section. All questions carry equal marks. Draw diagrams where necessary.",
+      "questions": [
+        {
+          "number": "3",
+          "parts": [
+            {
+              "part": "a",
+              "question": "Two vectors and making angles and with the horizontal. Describe addition of these vectors by rectangular component method also derive formula for magnitude of resultant vector and its direction."
+            },
+            {
+              "part": "b",
+              "question": "Define simple Harmonic motion, 'A particle is moving in a circle with constant speed, prove that its projection execute simple harmonic motion on one of the diameter of the circle."
+            }
+          ]
+        },
+        {
+          "number": "4",
+          "parts": [
+            {
+              "part": "a",
+              "question": "What is an electric dipole? Derive the expression for electric field intensity due to an electric dipole at a point which is at a perpendicular distance 'y' from the centre of the dipole."
+            },
+            {
+              "part": "b",
+              "question": "What is stationary waves? Stationary waves are establish in the stretched string, derive the expressions for the frequencies if the sting is vibrating in:\ni) one loop\nii) two loops\niii) three loops\niv) n loops"
+            }
+          ]
+        },
+        {
+          "number": "5",
+          "parts": [
+            {
+              "part": "a",
+              "question": "Two smooth, rigid and not-rotating spheres of masses and moving with initial velocities and collide elastically in one dimension. Derive the expressions for the final velocities of the spheres after the collision."
+            },
+            {
+              "part": "b",
+              "question": "What are Newton's rings? Explain the process of their formation? Derive the expressions for the radius of bright and dark rings."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

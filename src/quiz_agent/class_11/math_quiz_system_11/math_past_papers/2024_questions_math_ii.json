@@ -1,0 +1,222 @@
+{
+  "subject": "MATHEMATICS",
+  "year": 2024,
+  "group": "Science General",
+  "time": "3 Hours",
+  "total_marks": 100,
+  "sections": {
+    "A": {
+      "title": "Multiple Choice Questions",
+      "marks": 40,
+      "instructions": "This section consists of 20 part questions and all are to be answered. Each part question carries one mark. Do not copy the part questions in your answer script. Write only the answer in full against the proper number of the question and its part.",
+      "questions": [
+        {
+          "number": "i",
+          "question": "If Z = 3i + 4 then Z + Z̄ =:",
+          "options": ["6", "-6", "8", "-8"]
+        },
+        {
+          "number": "ii",
+          "question": "The product of two conjugate complex numbers is:",
+          "options": ["a real number", "an imaginary number", "zero", "undefined"]
+        },
+        {
+          "number": "iii",
+          "question": "If A is the singular matrix, then AA⁻¹ is:",
+          "options": ["A⁻¹A", "I", "0", "undefined"]
+        },
+        {
+          "number": "iv",
+          "question": "A square matrix A is called idempotent matrix if:",
+          "options": ["A² = A", "A³ = A", "A² = I", "A² = 0"]
+        },
+        {
+          "number": "v",
+          "question": "1/5.0/6 - 1/3.2/4 =:",
+          "options": ["-2√π", "4", "8", "10"]
+        },
+        {
+          "number": "vi",
+          "question": "If |a × b| = |a · b|, then the angle between a and b =:",
+          "options": ["0", "π/4", "π/2", "π"]
+        },
+        {
+          "number": "vii",
+          "question": "The position vector of the point (1, 0, 2) is:",
+          "options": ["i + j + 2k", "i + 2j", "2i + 2k", "i + 2k"]
+        },
+        {
+          "number": "viii",
+          "question": "The A.M's between 4 and 10 is:",
+          "options": ["4", "5", "6", "7"]
+        },
+        {
+          "number": "ix",
+          "question": "A sequence is a function whose domain is a set of:",
+          "options": ["integers", "rational numbers", "real numbers", "natural numbers"]
+        },
+        {
+          "number": "x",
+          "question": "∑₁⁵⁰ n =:",
+          "options": ["1274", "1275", "1280", "1285"]
+        },
+        {
+          "number": "xi",
+          "question": "Probability of getting 7 in throwing a dice is:",
+          "options": ["0", "1", "-1", "undefined"]
+        },
+        {
+          "number": "xii",
+          "question": "The sum of the expansion of (a + b)²ⁿ is:",
+          "options": ["n", "n+1", "2n+1", "2n"]
+        },
+        {
+          "number": "xiii",
+          "question": "If n = 0, then (n + 1)! =:",
+          "options": ["0", "n", "1", "∞"]
+        },
+        {
+          "number": "xiv",
+          "question": "If f(x,y) = 5x + 4y is an objective function and the corner points of the feasible region are (5,4), (0,0), (0,6) and (4,0) then the function is maximum at:",
+          "options": ["(4,0)", "(0,6)", "(0,0)", "(5,4)"]
+        },
+        {
+          "number": "xv",
+          "question": "The region of solution in L.P. problem is called:",
+          "options": ["Infeasible region", "Unbounded region", "Infinite region", "feasible region"]
+        },
+        {
+          "number": "xvi",
+          "question": "1 + cosθ =:",
+          "options": ["2sin²(θ/2)", "sin²(θ/2)", "2cos²(θ/2)", "cos²(θ/2)"]
+        },
+        {
+          "number": "xvii",
+          "question": "abc(sinα sinβ sinγ) =:",
+          "options": ["Δ", "Δ²", "½Δ", "2Δ"]
+        },
+        {
+          "number": "xviii",
+          "question": "sin(α/2) is equal to:",
+          "options": ["±√[(1+sinα)/2]", "±√[(1-cosα)/2]", "±√[(1+cosα)/2]", "±√[(1-sinα)/2]"]
+        },
+        {
+          "number": "xix",
+          "question": "Period of cosα is:",
+          "options": ["π/2", "π", "2π", "3π"]
+        },
+        {
+          "number": "xx",
+          "question": "cos(sin⁻¹(1/√2)) =:",
+          "options": ["1/√2", "-1/√2", "√3/2", "-1/2"]
+        }
+      ]
+    },
+    "B": {
+      "title": "Short-Answer Questions",
+      "marks": 40,
+      "instructions": "Attempt any TEN part questions in all. All questions carry equal marks. (i.e. 4 marks of each part).",
+      "questions": [
+        {
+          "number": "i",
+          "question": "Find the real and imaginary parts of the ((1-i)/(2-i))⁻¹"
+        },
+        {
+          "number": "ii",
+          "question": "Show that the A = [[-5,-8,0],[3,5,0],[1,2,-1]] is an involutory matrix"
+        },
+        {
+          "number": "iii",
+          "question": "Without expanding show that |x+1 x+3 x+5; x+4 x+6 x+8; x+7 x+9 x+11| = 0"
+        },
+        {
+          "number": "iv",
+          "question": "If α, β, γ are the direction angles of a vector then show sin²α + sin²β + sin²γ = 2"
+        },
+        {
+          "number": "v",
+          "question": "Find three consecutive numbers in G.P whose sum is 39 and their product is 729"
+        },
+        {
+          "number": "vi",
+          "question": "Sum the series 1 + 2.5 + 3.5² + 4.5³ + ... to 30 terms"
+        },
+        {
+          "number": "vii",
+          "question": "How many distinct permutations of letters of the word 'ESSENTIAL' are possible?"
+        },
+        {
+          "number": "viii",
+          "question": "Prove the preposition by mathematical induction for every positive integer n: 1 + 4 + 7 + ... + (3n-2) = n(3n-1)/2"
+        },
+        {
+          "number": "ix",
+          "question": "Find the middle term in the expansion of (a/b - b/a)¹⁸ OR Use binomial theorem to find the value of (19)⁴"
+        },
+        {
+          "number": "x",
+          "question": "Let f: R → R be the function defined by f(x) = -5x + 1, find the value of f⁻¹(0)"
+        },
+        {
+          "number": "xi",
+          "question": "The sides of a parallelogram are 25cm and 35cm long and one of its angle is 36°. Find the length of the diagonal(s)"
+        },
+        {
+          "number": "xii",
+          "question": "Prove that: r = 4R sin(α/2) sin(β/2) sin(γ/2)"
+        },
+        {
+          "number": "xiii",
+          "question": "Draw the graph of y = -sinθ; where 0 ≤ θ ≤ π OR Show that cos⁻¹(y) + cos⁻¹(-y) = π"
+        },
+        {
+          "number": "xiv",
+          "question": "If α + β + γ = 180°, then show that cos((β+γ)/2) = sin(α/2)"
+        },
+        {
+          "number": "xv",
+          "question": "Find the equation of the graph of the function of the type y = ax² + bx + c which crosses the x-axis at the points (-4,0) and (3,0) and also passes through the point (2,-4)"
+        }
+      ]
+    },
+    "C": {
+      "title": "Detailed Answer Questions",
+      "marks": 40,
+      "instructions": "Attempt any FIVE question from this section. All questions carry equal marks.",
+      "questions": [
+        {
+          "number": "3",
+          "question": "Use Gauss Jordan method to solve the system of linear equations: 2x + 2y - z = 4, x - 2y + z = 2, x + y = 0"
+        },
+        {
+          "number": "4",
+          "question": "If the pth term of a H.P is q, the qth term is p, then the (p+q)th term is pq/(p+q)"
+        },
+        {
+          "number": "5",
+          "question": "The king, the queen and the jack of clubs are removed from a deck of 52 playing cards and then shuffled. A card is drawn from the remaining cards. Find the probability of getting: (i) A heart (ii) A Queen (iii) A Club"
+        },
+        {
+          "number": "6",
+          "question": "Use Binomial Theorem to show that 4x² - 2x - 1 = 0 If 1/x = 2/5 + (1.3)/2!(2/5)² + (1.3.5)/3!(2/5)³ + ..."
+        },
+        {
+          "number": "7",
+          "question": "The points A(1,1), B(5,4), C(8,9) and D(0,3) represent the position vectors. Show that the ABCD is a Trapezium"
+        },
+        {
+          "number": "8",
+          "question": "Solve the linear programming problem when x ≥ 0 and y ≥ 0. Maximize Z(x,y) = 30x + 36y, subject to: 4x + 2y ≤ 12; 6x + 5y ≤ 20"
+        },
+        {
+          "number": "9",
+          "question": "If cosθ = 3/5, where 0 < θ < π/2, then find the value of tan3θ"
+        },
+        {
+          "number": "10",
+          "question": "Find the general solution of the trigonometric equation 4cos²x - 8sinx + 1 = 0. Also verify the solution"
+        }
+      ]
+    }
+  }
+}

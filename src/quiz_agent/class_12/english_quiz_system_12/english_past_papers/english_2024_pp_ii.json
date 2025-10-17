@@ -1,0 +1,324 @@
+{
+  "subject": "ENGLISH",
+  "year": 2024,
+  "groups": ["Pre-Medical", "Pre-Engineering", "Home Economics"],
+  "time": "3 Hours",
+  "total_marks": 100,
+  "sections": {
+    "A": {
+      "title": "Multiple Choice Questions (MCQs)",
+      "marks": 20,
+      "instructions": "(i) This section consists of 20 part questions and all are to be answered. Each question carries one mark.\n(ii) Do not copy the part questions in your answer book. Write only the answer in full against the proper number of the question and its part.",
+      "questions": [
+        {
+          "number": "i",
+          "question": "The charges against Mr. Jones were:",
+          "options": ["two", "three", "four", "five"],
+          "correct_answer": "two"
+        },
+        {
+          "number": "ii",
+          "question": "According to Sir James Jeans, we find this universe terrifying because of:",
+          "options": ["its vastness", "being indifferent to life", "being too cold and too hot", "its strange shape"],
+          "correct_answer": "its vastness"
+        },
+        {
+          "number": "iii",
+          "question": "The play 'Twenty Minutes with Mrs. Oakentubb' is a:",
+          "options": ["tragedy", "story", "satire", "melodrama"],
+          "correct_answer": "melodrama"
+        },
+        {
+          "number": "iv",
+          "question": "Rudolf Rassendyll was aged:",
+          "options": ["28 years", "30 years", "29 years", "26 years"],
+          "correct_answer": "29 years"
+        },
+        {
+          "number": "v",
+          "question": "G. Allana has used the phrase, 'Primeval Spark' in the poem 'The Lost Star' for:",
+          "options": ["Prophetic Powers", "Angelic Powers", "Godly Powers", "Mortal Powers"],
+          "correct_answer": "Prophetic Powers"
+        },
+        {
+          "number": "vi",
+          "question": "The next heir to the throne of Ruritania was:",
+          "options": ["Rudolf Elphberg", "Black Micheal", "Princess Flavia", "Rudolf Rassendyll"],
+          "correct_answer": "Princess Flavia"
+        },
+        {
+          "number": "vii",
+          "question": "'Creeping like snail, unwillingly to school' is an example of:",
+          "options": ["metaphor", "rhyme", "simile", "allegory"],
+          "correct_answer": "simile"
+        },
+        {
+          "number": "viii",
+          "question": "The word 'sluggish' means:",
+          "options": ["inactive", "healthy", "weak", "fast"],
+          "correct_answer": "inactive"
+        },
+        {
+          "number": "ix",
+          "question": "James Thurber is one of the foremost American:",
+          "options": ["humorist", "critics", "Philosopher", "novelist"],
+          "correct_answer": "humorist"
+        },
+        {
+          "number": "x",
+          "question": "'Honour is superior to love' is the message conveyed in:",
+          "options": ["The Prisoner of Zenda", "The Devoted friend", "As You Like it", "Twenty Minutes with Mrs. Oakentubb"],
+          "correct_answer": "The Prisoner of Zenda"
+        },
+        {
+          "number": "xi",
+          "question": "The book 'Past and Present' is the masterpiece of:",
+          "options": ["Hardy", "Wordsworth", "Carlyle", "Eliot"],
+          "correct_answer": "Carlyle"
+        },
+        {
+          "number": "xii",
+          "question": "According to Shakespeare, being a soldier, is this stage of man's life:",
+          "options": ["third", "fourth", "fifth", "sixth"],
+          "correct_answer": "fourth"
+        },
+        {
+          "number": "xiii",
+          "question": "'Act III of the Silver Box' criticizes:",
+          "options": ["dual standard of justice", "moral justice", "utopian justice", "social justice"],
+          "correct_answer": "dual standard of justice"
+        },
+        {
+          "number": "xiv",
+          "question": "Ulysses is a hero of this mythology:",
+          "options": ["Latin", "Greek", "German", "Italian"],
+          "correct_answer": "Greek"
+        },
+        {
+          "number": "xv",
+          "question": "Wealth of the man of life upright is:",
+          "options": ["estate", "property", "land", "a well-spent age"],
+          "correct_answer": "a well-spent age"
+        },
+        {
+          "number": "xvi",
+          "question": "Ruritania is this kind of country:",
+          "options": ["imaginary", "real", "ideal", "popular"],
+          "correct_answer": "imaginary"
+        },
+        {
+          "number": "xvii",
+          "question": "Countess Helga is a Lady – in – waiting to:",
+          "options": ["Black Micheal", "Fritz", "Madam de Mauban", "Princess Flavia"],
+          "correct_answer": "Princess Flavia"
+        },
+        {
+          "number": "xviii",
+          "question": "The word 'saws' means:",
+          "options": ["sayings", "respect", "farmer", "sickle"],
+          "correct_answer": "sayings"
+        },
+        {
+          "number": "xix",
+          "question": "'Vengeance' means:",
+          "options": ["wickedness", "misery", "revenge", "evil"],
+          "correct_answer": "revenge"
+        },
+        {
+          "number": "xx",
+          "question": "John Keats in the literary figure of this generation of romantic poets:",
+          "options": ["1st", "2nd", "3rd", "4th"],
+          "correct_answer": "2nd"
+        }
+      ]
+    },
+    "B": {
+      "title": "Short Answer Questions",
+      "marks": 40,
+      "instructions": "Attempt Ten part-questions from this section, selecting at least Two part questions from each sub-section. All questions carry equal marks.",
+      "subsections": [
+        {
+          "name": "SUB-SECTION I (Intermediate English Book II)",
+          "questions": [
+            {
+              "number": "i",
+              "question": "'Our administrative machinery had to be built up from scratch.' What does this sentence mean?"
+            },
+            {
+              "number": "ii",
+              "question": "Why does Bertrand Russell consider it useless to resist industrialization?"
+            },
+            {
+              "number": "iii",
+              "question": "What was the supreme manifestation of the Miller's selfishness which caused Hans to lose his life?"
+            },
+            {
+              "number": "iv",
+              "question": "What is Einstein's attitude towards property, outward success and luxury?"
+            }
+          ]
+        },
+        {
+          "name": "SUB-SECTION II (Selections From English Verse Part-II)",
+          "questions": [
+            {
+              "number": "v",
+              "question": "How did Samson destroy his enemies?"
+            },
+            {
+              "number": "vi",
+              "question": "Describe the fifth stage in the 'The Seven Ages of Man'."
+            },
+            {
+              "number": "vii",
+              "question": "What is the message of the poem, 'Say Not Struggle Naught Avalieth'."
+            },
+            {
+              "number": "viii",
+              "question": "Explain the line, 'A thing of beauty is a joy forever.'"
+            }
+          ]
+        },
+        {
+          "name": "SUB-SECTION III (The Prisoner of Zenda)",
+          "questions": [
+            {
+              "number": "ix",
+              "question": "What do you understand by morganatic marriage with particular reference to 'The Prisoner of Zenda'?"
+            },
+            {
+              "number": "x",
+              "question": "Describe 'Ball.' What was the purpose of arranging it?"
+            },
+            {
+              "number": "xi",
+              "question": "Compare and contrast the characters of Rudolf Rassendyll and Rudolf Elphberg."
+            },
+            {
+              "number": "xii",
+              "question": "How does Rassendyll respond when he is asked to impersonate the King?"
+            }
+          ]
+        },
+        {
+          "name": "SUB-SECTION IV (Grammar)",
+          "questions": [
+            {
+              "number": "xiii",
+              "type": "word_usage",
+              "question": "Use any Two of the following pair of words in your sentences:",
+              "word_pairs": [
+                ["pair", "pear"],
+                ["principal", "principle"],
+                ["made", "maid"],
+                ["desert", "dessert"],
+                ["deer", "dear"]
+              ]
+            },
+            {
+              "number": "xiv",
+              "type": "phrasal_verbs",
+              "question": "Use any Two of the following phrasal verbs in your sentences:",
+              "verbs": ["die down", "walk out", "make out", "pass away", "bring up", "take after"]
+            },
+            {
+              "number": "xv",
+              "type": "matching",
+              "question": "Match any Four of the following words of column 'A' with the meanings in column 'B':",
+              "pairs": {
+                "jeopardy": "danger",
+                "oblivion": "forgetfulness",
+                "insular": "narrow mindedness",
+                "blot out": "eliminate",
+                "peg out": "die"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "C": {
+      "title": "Detailed Answer Questions",
+      "marks": 40,
+      "instructions": "Answer all questions from this section. All questions carry equal marks.",
+      "questions": [
+        {
+          "number": "3",
+          "type": "choice",
+          "options": [
+            {
+              "type": "character_sketch",
+              "question": "Write a character sketch of Princess Flavia."
+            },
+            {
+              "type": "critical_appreciation",
+              "question": "Give the critical appreciation of the poem, 'The Man of Life Upright'."
+            }
+          ]
+        },
+        {
+          "number": "4",
+          "type": "essay",
+          "question": "Write an essay on any One of the following topics:",
+          "topics": [
+            "Career Counselling for Students",
+            "Role of Media in Everyday life",
+            "Artificial Intelligence",
+            "My Formula of Happiness"
+          ]
+        },
+        {
+          "number": "5",
+          "type": "narration_change",
+          "question": "Change the narration:",
+          "sentences": [
+            "He said, 'No'",
+            "My mother said to me, 'Do not lie to me'",
+            "My friend said to me, 'Where are you going now?'",
+            "She said, 'What a great day!'",
+            "The teacher says to her, 'Do you understand when I am saying?'"
+          ]
+        },
+        {
+          "number": "6",
+          "type": "comprehension",
+          "question": "Read the following passage and answer the questions given below:",
+          "passage": "'You are very lazy. Really, considering that I am going to give you my wheel barrow, I think you might work Harder. Idleness is a great sin and I certainly don't like any of my friends to be idle or sluggish. You must not mind my speaking quite plainly to you. Of course, I should not dream of doing so if I were not your friend. But what is the good of friendship if one cannot say exactly what one means? Anybody can say charming things and try to please and to flatter, but a true friend always says unpleasant things and does not mind giving pain.'",
+          "questions": [
+            {
+              "type": "identification",
+              "question": "Identify the title of the text and the writer.",
+              "marks": 2
+            },
+            {
+              "type": "identification",
+              "question": "Who is the speaker of the above mentioned lines?",
+              "marks": 2
+            },
+            {
+              "type": "vocabulary",
+              "question": "Give the meaning of the following words:",
+              "words": ["Idleness", "charming", "flatter", "unpleasant"],
+              "marks": 4
+            },
+            {
+              "type": "true_false",
+              "question": "Mark whether following statements are true or false:",
+              "statements": [
+                {
+                  "statement": "I certainly don't like any of my friends to be idle or sluggish",
+                  "answer": true
+                },
+                {
+                  "statement": "A true friend always says pleasant things.",
+                  "answer": false
+                }
+              ],
+              "marks": 2
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

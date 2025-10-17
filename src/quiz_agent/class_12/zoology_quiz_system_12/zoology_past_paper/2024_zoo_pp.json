@@ -1,0 +1,301 @@
+{
+  "exam": {
+    "subject": "ZOOLOGY",
+    "year": 2024,
+    "group": "Science Pre-Medical Groups",
+    "time": "2 Hours",
+    "total_marks": 45,
+    "sections": [
+      {
+        "section_name": "SECTION A",
+        "description": "Multiple Choice Questions",
+        "marks": 9,
+        "notes": [
+          "This section consists of 18 part questions and all are to be answered. Each question carries ½ mark.",
+          "Do not copy the part questions in your answerbook. Write only the answer in full against the proper number of the question and its part."
+        ],
+        "questions": [
+          {
+            "number": "i",
+            "question": "Renal cortex produces an important hormone necessary for the synthesis of RBC's:",
+            "options": [
+              "Erythropoietin",
+              "Leukopoietin",
+              "Thromobopoietin",
+              "Renin"
+            ]
+          },
+          {
+            "number": "ii",
+            "question": "These joints hold the bone by dense connective tissues contain collagenous fibers:",
+            "options": [
+              "Fibrous joints",
+              "Syndemosis",
+              "Gornphoses",
+              "Synovial joint"
+            ]
+          },
+          {
+            "number": "iii",
+            "question": "The largest part of human Brain is:",
+            "options": [
+              "Mid - Brain",
+              "Fore - Brain",
+              "Hind - Brain",
+              "Pons"
+            ]
+          },
+          {
+            "number": "iv",
+            "question": "This hormone stimulates the contraction of uterine muscles:",
+            "options": [
+              "Oxytocin",
+              "Thyroxin",
+              "Growth Hormone",
+              "Insuline"
+            ]
+          },
+          {
+            "number": "v",
+            "question": "Skinner Box was used for:",
+            "options": [
+              "Classic conditioning",
+              "Insight learning",
+              "Operant learning",
+              "latent learning"
+            ]
+          },
+          {
+            "number": "vi",
+            "question": "The Hypothalamus is the part of brain contains clusters of these specialized cells:",
+            "options": [
+              "Neurons",
+              "Neurosecretory cells",
+              "Neuroginal cells",
+              "Schwann cells"
+            ]
+          },
+          {
+            "number": "vii",
+            "question": "Human embryonic development occurs in the:",
+            "options": [
+              "Uterus",
+              "Fallopian Tube",
+              "Cervix",
+              "Vagina"
+            ]
+          },
+          {
+            "number": "viii",
+            "question": "These are worker Honey Bees:",
+            "options": [
+              "Fertile females",
+              "Fertile Males",
+              "Sterile females",
+              "Sterile Males"
+            ]
+          },
+          {
+            "number": "ix",
+            "question": "Aging is characterized by:",
+            "options": [
+              "Increase in the consumption of oxygen",
+              "A decrease in the metabolic activities",
+              "Increased anabolic activity",
+              "Increased metabolic activity"
+            ]
+          },
+          {
+            "number": "x",
+            "question": "The important organ for osmoregulation and excretion in human body is:",
+            "options": [
+              "Liver",
+              "Kidney",
+              "Lungs",
+              "Stomach"
+            ]
+          },
+          {
+            "number": "xi",
+            "question": "The ignorance of an animal to a repeated stimulus is called:",
+            "options": [
+              "Insight Learning",
+              "Habituation",
+              "Imprinting",
+              "Operant Learning"
+            ]
+          },
+          {
+            "number": "xii",
+            "question": "The outer most layer of uterus is:",
+            "options": [
+              "Perimetrium",
+              "Myometrium",
+              "Endometrium",
+              "Perimysium"
+            ]
+          },
+          {
+            "number": "xiii",
+            "question": "The hormones of short chain amino acids are:",
+            "options": [
+              "Protein hormones",
+              "Steroid hormones",
+              "Biogenic amines",
+              "Peptide hormones"
+            ]
+          },
+          {
+            "number": "xiv",
+            "question": "The cells in seminiferous tubules that produce sperms are:",
+            "options": [
+              "Germ cells",
+              "Sertoli cells",
+              "Epithelial cells",
+              "Interstitial cells"
+            ]
+          },
+          {
+            "number": "xv",
+            "question": "The number of bones in pectoral girdles and fore limbs are:",
+            "options": [
+              "62",
+              "68",
+              "64",
+              "60"
+            ]
+          },
+          {
+            "number": "xvi",
+            "question": "The stimulus which is not capable to produce any response, is called:",
+            "options": [
+              "Polarized",
+              "Sub-Polarized",
+              "Threshold",
+              "Sub-Threshold"
+            ]
+          },
+          {
+            "number": "xvii",
+            "question": "This part of sperm contains enzyme used in penetration:",
+            "options": [
+              "Head",
+              "Tail",
+              "Acrosome",
+              "Neck"
+            ]
+          },
+          {
+            "number": "xviii",
+            "question": "The presence stone in kidneys is called:",
+            "options": [
+              "Urolithiasis",
+              "Lithonephritis",
+              "Urethritis",
+              "Cystitis"
+            ]
+          }
+        ]
+      },
+      {
+        "section_name": "SECTION B",
+        "description": "Short Answer Question",
+        "marks": 18,
+        "note": "Attempt any NINE part questions in all. Select FIVE Reasoning Questions and FOUR Non-Reasoning Questions. All part questions carry equal marks.",
+        "question_groups": [
+          {
+            "type": "REASONING QUESTIONS",
+            "questions": [
+              {
+                "number": "i",
+                "question": "How do aquatic osmoregulator animals overcome the osmoregulatory problems?"
+              },
+              {
+                "number": "ii",
+                "question": "Why receptors are called Transducers?"
+              },
+              {
+                "number": "iii",
+                "question": "Why inner uterus wall thickens during secretory phase?"
+              },
+              {
+                "number": "iv",
+                "question": "Why testes descend down in human male foetus before birth?"
+              },
+              {
+                "number": "v",
+                "question": "Why monozygotic twins having same sex?"
+              },
+              {
+                "number": "vi",
+                "question": "Why are skeletal muscles get fatigued while cardiac muscles do not?"
+              },
+              {
+                "number": "vii",
+                "question": "Why does the pancreas function as both kinds of endocrine and exocrine gland?"
+              },
+              {
+                "number": "viii",
+                "question": "Why three spined stickleback fish shows aggressive behavior?"
+              }
+            ]
+          },
+          {
+            "type": "NON-REASONING QUESTIONS",
+            "questions": [
+              {
+                "number": "ix",
+                "question": "Differentiate miscarriage and abortion."
+              },
+              {
+                "number": "x",
+                "question": "Write note on Rubella or abnormal Neural Tube Defects (NTDs)."
+              },
+              {
+                "number": "xi",
+                "question": "Write the names, causes and symptoms of disorders of Urinary Tract."
+              },
+              {
+                "number": "xii",
+                "question": "Write a note on autonomic nervous system."
+              },
+              {
+                "number": "xiii",
+                "question": "Write any two skeletal disorder of man."
+              },
+              {
+                "number": "xiv",
+                "question": "Name any four releasing and inhibiting hormones of Hypothalamus."
+              },
+              {
+                "number": "xv",
+                "question": "What is taxis? Give their types with examples."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_name": "SECTION C",
+        "description": "Detailed-Answer Question",
+        "marks": 18,
+        "note": "Attempt any TWO question from this section. All questions carry equal marks.",
+        "questions": [
+          {
+            "number": "3",
+            "question": "Define Skeletal Muscles. Describe the mechanisms of contraction of skeletal muscles with the help of diagram."
+          },
+          {
+            "number": "4",
+            "question": "Define Nerve Impulse. Explain resting membrane potential, actional potential, depolarization, repolarization and synapse."
+          },
+          {
+            "number": "5",
+            "question": "What is Nephron? Describe the functions of nephron with the help of diagram.",
+            "alternative": "OR—Explain the stages of development in human in terms of first, second and third Trimester."
+          }
+        ]
+      }
+    ]
+  }
+}

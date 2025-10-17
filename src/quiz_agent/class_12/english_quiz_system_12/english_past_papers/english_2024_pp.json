@@ -1,0 +1,246 @@
+{
+  "past_papers": [
+    {
+      "subject": "ENGLISH",
+      "year": 2024,
+      "group": "Science General",
+      "time": "3 Hours",
+      "total_marks": 100,
+      "sections": {
+        "A": {
+          "title": "Multiple Choice Questions (MCQs)",
+          "marks": 20,
+          "instructions": "Choose the correct answer from the given options:",
+          "questions": [
+            {
+              "number": "i",
+              "question": "'The Prisoner of Zenda' is narrated by:",
+              "options": ["Rudolf Elphberg", "Colonel Sapt", "Princess Flavia", "Rudolf Rassendyll"],
+              "correct_answer": "Rudolf Rassendyll"
+            },
+            {
+              "number": "ii",
+              "question": "Rudolf Rassendyll belongs to the family of:",
+              "options": ["Royals", "Burlesdons", "Elphbergs", "Cernogratz"],
+              "correct_answer": "Burlesdons"
+            },
+            {
+              "number": "iii",
+              "question": "James Thurber wrote 'The Day the Dam Broke' after this number of years of incidence:",
+              "options": ["ten", "fifteen", "twenty", "thirty"],
+              "correct_answer": "twenty"
+            },
+            {
+              "number": "iv",
+              "question": "Sir Jacob Borrodalie was going to have an embassy where he would take Rassendyll as a/an:",
+              "options": ["attaché", "servant", "guide", "ambassador"],
+              "correct_answer": "attaché"
+            },
+            {
+              "number": "v",
+              "question": "The poem 'An Essay on Man' is a philosophical and religious dissertation on:",
+              "options": ["human existence", "human ignorance", "human will", "fate"],
+              "correct_answer": "human existence"
+            },
+            {
+              "number": "vi",
+              "question": "The story 'The Devoted Friend' begins with the conversation of:",
+              "options": ["Hans and the Miller", "Water-rat and duck", "Water rat and linnet", "The Miller and his sons"],
+              "correct_answer": "Water rat and linnet"
+            },
+            {
+              "number": "vii",
+              "question": "Einstein hates property, outward success and:",
+              "options": ["wealth", "falsehood", "luxury", "hypocrisy"],
+              "correct_answer": "luxury"
+            },
+            {
+              "number": "viii",
+              "question": "Black Michael is the son of the previous king from his marriage called:",
+              "options": ["royal", "morganatic", "polygenic", "monogenic"],
+              "correct_answer": "morganatic"
+            },
+            {
+              "number": "ix",
+              "question": "'As a man grows old he believes in fate. Fate send you here, Fate send you now to Strelsau.' These words were spoken by:",
+              "options": ["Marshal Strakencz", "Colonel Sapt", "Fritz", "Michael"],
+              "correct_answer": "Colonel Sapt"
+            },
+            {
+              "number": "x",
+              "question": "James Jones was found guilty of:",
+              "options": ["Corruption", "assault on the police", "breaking into Barthwick's house", "Misconduct against the magistrate"],
+              "correct_answer": "assault on the police"
+            },
+            {
+              "number": "xi",
+              "question": "The novelist uses 'big boar' as a metaphor for:",
+              "options": ["Max Hoff", "Black Michael", "Rupert of Hentzau", "Detchard"],
+              "correct_answer": "Black Michael"
+            },
+            {
+              "number": "xii",
+              "question": "'Heaven does not always make the right men kings.' The speaker is:",
+              "options": ["Col. Sapt", "Capt. Fritz", "Princess Flavia", "Rupert of Hentzau"],
+              "correct_answer": "Capt. Fritz"
+            },
+            {
+              "number": "xiii",
+              "question": "'The path of glory leads but to the grave.' The line is taken from the poem:",
+              "options": ["Samson Agonistes", "Ulysses", "Elegy Written in a Country Churchyard", "Lost Star"],
+              "correct_answer": "Elegy Written in a Country Churchyard"
+            },
+            {
+              "number": "xiv",
+              "question": "Mr. Jones was a supporter of this party:",
+              "options": ["Conservative", "Whigs", "Tory", "Liberal"],
+              "correct_answer": "Conservative"
+            },
+            {
+              "number": "xv",
+              "question": "Europe took lead in power after the rise of Greece and the conquests of:",
+              "options": ["the USA", "Alexander", "Napoleon", "The Great Britain"],
+              "correct_answer": "Alexander"
+            },
+            {
+              "number": "xvi",
+              "question": "Darius Conningway, a lawyer in the text 'The Day the Dam Broke' was speaking in the language of:",
+              "options": ["Aristotle", "Churchill", "King", "Julius Caesar"],
+              "correct_answer": "Julius Caesar"
+            },
+            {
+              "number": "xvii",
+              "question": "The Miller refused to give this object to Hans for fetching doctor for his son:",
+              "options": ["lantern", "lamp", "horse", "search light"],
+              "correct_answer": "lantern"
+            },
+            {
+              "number": "xviii",
+              "question": "Alexander Pope calls it blessing for future:",
+              "options": ["Hope", "Nature", "Blindness/Ignorance", "Death"],
+              "correct_answer": "Blindness/Ignorance"
+            },
+            {
+              "number": "xix",
+              "question": "The word 'satchel' means a:",
+              "options": ["lady's purse", "small pouch", "cupboard", "school bag"],
+              "correct_answer": "school bag"
+            },
+            {
+              "number": "xx",
+              "question": "The person who became the Prisoner of Zenda was:",
+              "options": ["Michael", "Rassendyll", "Elphberg", "Rupert"],
+              "correct_answer": "Elphberg"
+            }
+          ]
+        },
+        "B": {
+          "title": "Short Answer Questions",
+          "marks": 40,
+          "instructions": "Attempt TEN part-questions from this section, selecting at least TWO part questions from each sub-section. All questions carry equal marks.",
+          "subsections": {
+            "I": {
+              "title": "Intermediate English Book II",
+              "questions": [
+                {
+                  "number": "i",
+                  "question": "What are Einstein's views about democracy?"
+                },
+                {
+                  "number": "ii",
+                  "question": "What according to Bertrand Russell, the Asia countries should accept and reject from the West?"
+                },
+                {
+                  "number": "iii",
+                  "question": "James Jones does not get a fair trial because of this poverty. Describe in terms of Act III of 'The Silver Box.'"
+                },
+                {
+                  "number": "iv",
+                  "question": "What was the effect upon the character 'He' after meeting the Korean girl? OR How can we say that the Miller was responsible for Hans' death?"
+                }
+              ]
+            },
+            "II": {
+              "title": "Selections From English Verse: Part-II",
+              "questions": [
+                {
+                  "number": "v",
+                  "question": "In what way is death a great teacher in the eyes of Alexander Pope?"
+                },
+                {
+                  "number": "vi",
+                  "question": "What does Wordsworth guess about the theme of the girl's song in the poem 'The Solitary Reaper?'"
+                },
+                {
+                  "number": "vii",
+                  "question": "How did Ulysses motivate his mariners to go on the last voyage?"
+                },
+                {
+                  "number": "viii",
+                  "question": "What is the theme of 'Music When Soft Voices Die?'"
+                }
+              ]
+            },
+            "III": {
+              "title": "The Prisoner of Zenda",
+              "questions": [
+                {
+                  "number": "ix",
+                  "question": "Why did Black Michael hire 'The Six'?"
+                },
+                {
+                  "number": "x",
+                  "question": "Who persuades Rassendyll to impersonate as the king of Ruritania and why?"
+                },
+                {
+                  "number": "xi",
+                  "question": "How does Flavia sacrifice her love for the sake of her duty towards the state of Ruritania?"
+                }
+              ]
+            },
+            "IV": {
+              "title": "Grammar",
+              "questions": [
+                {
+                  "number": "xii",
+                  "question": "Use any Two of the following pair of words in sentences (Four Sentences): sight, site; break, brake; stationery, stationary; their, there; eligible, illegible; dual, duel"
+                },
+                {
+                  "number": "xiii",
+                  "question": "Use any Two of the following phrasal verbs in sentences: take off, get on, run short of, check out, bring about"
+                },
+                {
+                  "number": "xiv",
+                  "question": "Match any Four of the following words of column 'A' with their meanings in column 'B'"
+                }
+              ]
+            }
+          }
+        },
+        "C": {
+          "title": "Detailed Answer Questions",
+          "marks": 40,
+          "instructions": "Answer all questions from this section. All questions carry equal marks.",
+          "questions": [
+            {
+              "number": "3",
+              "question": "Write a character sketch of Duke Michael. OR Write the critical analysis of the poem, 'Lines From An Essay on Man' OR 'The Seven Ages of Man'."
+            },
+            {
+              "number": "4",
+              "question": "Write an essay on any One of the following topics: i) Benefits of Chat GPT and AI ii) Influence of Social Media on Student's Performance iii) Importance of Cultural Diversity in Society iv) Pleasure of Reading Novels"
+            },
+            {
+              "number": "5",
+              "question": "Change the narration of the given sentences."
+            },
+            {
+              "number": "6",
+              "question": "Read the following passage and answer the questions given below."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

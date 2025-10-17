@@ -1,0 +1,226 @@
+{
+  "past_papers": {
+
+      "year": 2019,
+      "time": "20 Minutes + 2 Hours 40 Minutes",
+      "total_marks": 68,
+      "sections": {
+        "A": {
+          "title": "Multiple Choice Questions",
+          "instructions": "Choose the correct answer for each from the given options.",
+          "questions": [
+            {
+              "number": "i",
+              "question": "The number has five significant figures:",
+              "options": ["391.10", "300002", "30000", "10300"]
+            },
+            {
+              "number": "ii",
+              "question": "At S.T.P., the volume of 3.01 × 10²³ molecules of H₂ gas is",
+              "options": ["22.5 dm³", "22.4 dm³", "11.2 dm³", "2.24 dm³"]
+            },
+            {
+              "number": "iii",
+              "question": "An ideal gas obeys gas laws at:",
+              "options": ["high temperature", "high pressure", "all temperatures & pressure", "low temperature"]
+            },
+            {
+              "number": "iv",
+              "question": "The process of direct conversion of solid into vapour is called:",
+              "options": ["Condensation", "Sublimation", "Evaporation", "Neutralization"]
+            },
+            {
+              "number": "v",
+              "question": "Capillary action of liquids is due to:",
+              "options": ["Viscosity", "Surface tension", "Density", "Fluidity"]
+            },
+            {
+              "number": "vi",
+              "question": "(n+1) value for 5d orbital is:",
+              "options": ["4", "5", "6", "7"]
+            },
+            {
+              "number": "vii",
+              "question": "The colour has the shortest wavelength in the visible spectrum of light:",
+              "options": ["Red", "Violet", "Green", "Yellow"]
+            },
+            {
+              "number": "viii",
+              "question": "This series of lines is produced when the electron jumps from the 4th orbit to the 2nd orbit:",
+              "options": ["Lyman", "Balmer", "Brackett", "Paschen"]
+            },
+            {
+              "number": "ix",
+              "question": "The maximum number of electron can be accommodated in f orbital is:",
+              "options": ["7", "10", "14", "15"]
+            },
+            {
+              "number": "x",
+              "question": "This Hydrogen halide has the highest percentage of ionic character:",
+              "options": ["HF", "HCl", "HBr", "HI"]
+            },
+            {
+              "number": "xi",
+              "question": "The molecule has zero dipole moment:",
+              "options": ["NH₃", "CO₂", "HCl", "H₂O"]
+            },
+            {
+              "number": "xii",
+              "question": "1 Debye is equal to:",
+              "options": ["2.25 × 10⁻¹³ Cm", "3.4 × 10⁻⁴⁰ Cm", "3.335 × 10⁻²³ Cm", "3.335 × 10⁻³⁰ Cm"]
+            },
+            {
+              "number": "xiii",
+              "question": "One joule is equal to:",
+              "options": ["0.239 cal", "0.391 cal", "0.398 cal", "4.184 cal"]
+            },
+            {
+              "number": "xiv",
+              "question": "In the following reaction, Kp > Kc:",
+              "options": ["H₂ + I₂ = 2HI", "PCl₅ = PCl₃ + Cl₂", "2SO₂ + O₂ = 2SO₃", "2NO₂ = N₂O₄"]
+            },
+            {
+              "number": "xv",
+              "question": "Universal indicator in acid given:",
+              "options": ["Green colour", "Yellow colour", "Pink colour", "Red colour"]
+            },
+            {
+              "number": "xvi",
+              "question": "The oxidation number of Mn in K₂MnO₄ is:",
+              "options": ["+2", "+4", "+6", "+7"]
+            },
+            {
+              "number": "xxii",
+              "question": "A powdered solid is more reactive than its chunks due to its:",
+              "options": ["Higher temperature", "Greater volume", "Greater surface area", "Higher pressure"]
+            }
+          ]
+        },
+        "B": {
+          "title": "Short-Answer Questions",
+          "instructions": "Answer any Ten part questions.",
+          "marks": 40,
+          "questions": [
+            {
+              "number": "i",
+              "question": "Define the following: Random error, Exponential notation, Heat of formation, Rate expression"
+            },
+            {
+              "number": "ii",
+              "question": "Zinc reacts with H₂SO₄ (dil) as given below: Zn + H₂SO₄ → ZnSO₄ + H₂. Calculate the mass of ZnSO₄, the volume of H₂ gas at S.T.P. and the number of molecules of H₂ gas which will be produced by reacting 163.5g of Zn with H₂SO₄."
+            },
+            {
+              "number": "iii",
+              "question": "An organic compound contains 40% carbon, 6.67% hydrogen and 53.33% oxygen by mass. The molecular mass of the compound is 180. Find its empirical and molecular formulae."
+            },
+            {
+              "number": "iv",
+              "question": "A 500 cm³ vessel contains H₂ gas at 400 torr pressure and another 1 dm³ vessel contains O₂ gas at 600 torr pressure. If these gases are transferred to 2 dm³ empty vessel, calculate the pressure of the mixture of gases."
+            },
+            {
+              "number": "v",
+              "question": "What is Ideal gas. Derive the Ideal gas equation."
+            },
+            {
+              "number": "vi",
+              "question": "Give any four scientific reasons of the following: Evaporation is a cooling process; Water has higher B.P. than Hydrogen fluoride although fluorine is more electronegative than Oxygen; The order of reaction is zero of photochemical reactions; Na⁺ is smaller in size than Na atom; Milk sours more rapidly in summer than in winter."
+            },
+            {
+              "number": "vii",
+              "question": "State (n + l) rule. Write the electronic configuration of the following: Cu(Z = 29), Sr²⁺(Z = 38), S⁻(Z = 16)"
+            },
+            {
+              "number": "viii",
+              "question": "What is Covalent bond? Explain the ionic character of Covalent bond."
+            },
+            {
+              "number": "ix",
+              "question": "Calculate the heat of formation of Fe₂O₃ at 25°C using given thermochemical equations."
+            },
+            {
+              "number": "x",
+              "question": "State and explain Hess's Law of Constant heat summation with its applications."
+            },
+            {
+              "number": "xi",
+              "question": "State Le-Chatelier's Principle. Give its applications in the manufacture of SO₃ by Contact process."
+            },
+            {
+              "number": "xii",
+              "question": "The Kc for the reaction 2HI ⇌ H₂ + I₂ is 1.3 × 10⁻². Predict the direction in which the reaction moves to achieve equilibrium with given concentrations."
+            },
+            {
+              "number": "xiii",
+              "question": "What are the main postulates of Arrhenius theory of ionization?"
+            },
+            {
+              "number": "xiv",
+              "question": "Define Activation energy. Give its relationship with the speed of reaction."
+            },
+            {
+              "number": "xv",
+              "question": "Determine the order of reaction for A + B → Products from given data."
+            }
+          ]
+        },
+        "C": {
+          "title": "Detailed-Answer Questions",
+          "instructions": "Answer 2 questions from this section.",
+          "marks": 28,
+          "questions": [
+            {
+              "number": "3",
+              "parts": [
+                {
+                  "letter": "a",
+                  "question": "Starting from ΔE = E₂ - E₁, derive the expression for the wave number for hydrogen atom."
+                },
+                {
+                  "letter": "b",
+                  "question": "Define Radioactivity. Describe the characteristic of Alpha and Beta rays."
+                },
+                {
+                  "letter": "c",
+                  "question": "What is Unit cell? Sketch a unit cell and label the dimensions a, b, c and angles α, β, γ. How do cubic and tetragonal systems differ?"
+                }
+              ]
+            },
+            {
+              "number": "4",
+              "parts": [
+                {
+                  "letter": "a",
+                  "question": "Define Orbital Hybridization. Explain the shape of Ethene, C₂H₄ on the basis of hybridization."
+                },
+                {
+                  "letter": "b",
+                  "question": "Explain the structure of BeCl₂ and NH₃ on the basis of Electron pair repulsion model and Hybrid orbital model."
+                },
+                {
+                  "letter": "c",
+                  "question": "Differentiate any two of the following: Sigma bond and Pi bond; Hydration and Hydrolysis; Line spectrum & Continuous spectrum"
+                }
+              ]
+            },
+            {
+              "number": "5",
+              "parts": [
+                {
+                  "letter": "a",
+                  "question": "What is Standard Electrode potential? How is the electrode potential of Copper determined? Explain."
+                },
+                {
+                  "letter": "b",
+                  "question": "Balance any one of the following equations by ion-electron method: Cr(OH)₃ + SO₄²⁻ → CrO₄²⁻ + SO₃²⁻ (Basic Medium); MnO₄⁻ + Cl⁻ → Mn²⁺ + Cl₂ (Acidic Medium)"
+                },
+                {
+                  "letter": "c",
+                  "question": "Will Cadmium hydroxide precipitate from 0.02M solution of CdCl₂ at pH = 10? Ksp of Cd(OH)₂ = 2.5 × 10⁻¹⁴ mole²/dm⁶"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }

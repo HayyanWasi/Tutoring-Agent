@@ -1,0 +1,252 @@
+{
+  "past_papers": [
+    {
+      "subject": "BOTANY",
+      "year": 2019,
+      "time": "15 Minutes + 1 Hour 45 Minutes",
+      "total_marks": 45,
+      "sections": {
+        "A": {
+          "title": "Multiple Choice Questions",
+          "marks": 9,
+          "instructions": "Choose the correct answer for each from the given options:",
+          "questions": [
+            {
+              "number": "i",
+              "question": "These appendages help in the conjugation of bacteria:",
+              "options": ["Flagella", "Pili", "Cilia", "Capsule"]
+            },
+            {
+              "number": "ii",
+              "question": "Aspergillus flavus produces carcinogenic toxin:",
+              "options": ["Aflatoxin", "Neurotoxin", "Haematoxin", "Mycotoxin"]
+            },
+            {
+              "number": "iii",
+              "question": "Lycopersicum esculentum is the botanical name of:",
+              "options": ["Brinjal", "Potato", "Tomato", "Apple"]
+            },
+            {
+              "number": "iv",
+              "question": "It is a heterosporous plant:",
+              "options": ["Rhynia", "Selaginella", "Moss", "Lycopodium"]
+            },
+            {
+              "number": "v",
+              "question": "Flow of energy in an ecosystem is:",
+              "options": ["cyclic", "non-cyclic", "unidirectional", "multidirectional"]
+            },
+            {
+              "number": "vi",
+              "question": "Absorption of water by a hydrophilic substance is called:",
+              "options": ["imbibition", "Plasmolysis", "Transpiration", "Translocation"]
+            },
+            {
+              "number": "vii",
+              "question": "The movement of ions or molecules through carrier protein is called:",
+              "options": ["facilitated diffusion", "osmosis", "simple diffusion", "pressure potential"]
+            },
+            {
+              "number": "viii",
+              "question": "Chloroplast contains these stacks of thylakoid:",
+              "options": ["stroma", "grana", "frets", "matrix"]
+            },
+            {
+              "number": "ix",
+              "question": "Carnivorous plants grow in soil deficient of:",
+              "options": ["Potassium", "Nitrogen", "Calcium", "Phosphorous"]
+            },
+            {
+              "number": "x",
+              "question": "Vacuole is surrounded by this membrane:",
+              "options": ["Leucoplast", "Chloroplast", "Chromoplast", "Tonoplast"]
+            },
+            {
+              "number": "xi",
+              "question": "The number of chromosomes in sporophyte of ulva is:",
+              "options": ["12", "13", "24", "26"]
+            },
+            {
+              "number": "xii",
+              "question": "These Bacteria are surrounded by flagella:",
+              "options": ["Atrichous", "Peritrichous", "Amphitrichous", "Monotrichous"]
+            },
+            {
+              "number": "xiii",
+              "question": "It is a C₄ plant:",
+              "options": ["Cactus", "Pineapple", "Sugar cane", "Apple"]
+            },
+            {
+              "number": "xiv",
+              "question": "Rusts and smuts belong to:",
+              "options": ["Zygomycota", "Basidiomycota", "Ascomycota", "Deuteromycota"]
+            },
+            {
+              "number": "xv",
+              "question": "Ribosomes are manufactured in:",
+              "options": ["Mitochondria", "Endoplasmic reticulum", "Golgi bodies", "Nucleus"]
+            },
+            {
+              "number": "xvi",
+              "question": "Glycolysis takes place in:",
+              "options": ["Cytosol", "Vacuole", "Chloroplast", "Mitochondria"]
+            },
+            {
+              "number": "xvii",
+              "question": "These Tracheophytes have neither roots nor leaves:",
+              "options": ["Psilopsida", "Lycopsida", "Sphenopsida", "Pteropsida"]
+            },
+            {
+              "number": "xviii",
+              "question": "This controls the opening and closing of stomata:",
+              "options": ["Guard cells", "Epidermal cells", "Mesophyll cells", "Xylem vessels"]
+            }
+          ]
+        },
+        "B": {
+          "title": "Short-Answer Questions",
+          "marks": 22,
+          "instructions": "Answer any 10 part questions from section 2 and any 6 part questions from section 3",
+          "section_2": {
+            "title": "Section 2 Questions",
+            "questions": [
+              {
+                "number": "i",
+                "question": "Name the pathways available for water to enter the Xylem."
+              },
+              {
+                "number": "ii",
+                "question": "Name any two diseases caused by Virus."
+              },
+              {
+                "number": "iii",
+                "question": "Why is Deuteromycota called Fungi imperfect?"
+              },
+              {
+                "number": "iv",
+                "question": "Name the phases of Bacterial growth."
+              },
+              {
+                "number": "v",
+                "question": "Write the botanical names of any two of the following: Rice, Potato, Almond"
+              },
+              {
+                "number": "vi",
+                "question": "Why are lysosomes called suicidal sacs?"
+              },
+              {
+                "number": "vii",
+                "question": "Write only the name of the methods of Genetic recombination in bacteria."
+              },
+              {
+                "number": "viii",
+                "question": "What is Double fertilization?"
+              },
+              {
+                "number": "ix",
+                "question": "Why is ATP called the Currency of energy?"
+              },
+              {
+                "number": "x",
+                "question": "Write names of reactants & products of Photosynthesis"
+              },
+              {
+                "number": "xi",
+                "question": "Name the two processes of gaseous exchange in plants"
+              },
+              {
+                "number": "xii",
+                "question": "Write the names of five groups of Vascular plants."
+              },
+              {
+                "number": "xiii",
+                "question": "Draw a neat and labeled diagram of a Bacterial cell."
+              },
+              {
+                "number": "xiv",
+                "question": "Name four groups of Fungi."
+              },
+              {
+                "number": "xv",
+                "question": "What are prions?"
+              },
+              {
+                "number": "xvi",
+                "question": "Name the five Kingdoms of living organism."
+              }
+            ]
+          },
+          "section_3": {
+            "title": "Section 3 Questions",
+            "questions": [
+              {
+                "number": "i",
+                "question": "State Root Pressure Theory."
+              },
+              {
+                "number": "ii",
+                "question": "Draw graphical life cycle of Ulva."
+              },
+              {
+                "number": "iii",
+                "question": "Write the salient features of Cyanobacteria."
+              },
+              {
+                "number": "iv",
+                "question": "Differentiate between Lysogenic and Lytic cycle."
+              },
+              {
+                "number": "v",
+                "question": "Write note on transmission of HIV virus."
+              },
+              {
+                "number": "vi",
+                "question": "Define any two of the following: Plasmolysis, Diffusion, Water Potential"
+              },
+              {
+                "number": "vii",
+                "question": "Write note on any one of the following: Evolution of Leaf, Evolution of Seed"
+              },
+              {
+                "number": "viii",
+                "question": "Draw a chart showing the efficiency of Food chain."
+              },
+              {
+                "number": "ix",
+                "question": "Discuss the diversity of Kingdom Protocista."
+              }
+            ]
+          }
+        },
+        "C": {
+          "title": "Detailed-Answer Questions",
+          "marks": 14,
+          "instructions": "Answer 2 question from this section",
+          "questions": [
+            {
+              "number": "4",
+              "parts": [
+                {
+                  "letter": "a",
+                  "question": "Describe the floral characters and economic importance of family Rosaceae."
+                },
+                {
+                  "letter": "b",
+                  "question": "Write the floral formula and draw the floral diagram of family Fabaceae."
+                }
+              ]
+            },
+            {
+              "number": "5",
+              "question": "Define Cellular Respiration. Elucidate oxidative degradation of Pyruvic acid."
+            },
+            {
+              "number": "6",
+              "question": "Draw and describe the structure and reproduction of Zygomycota fungi. OR With the help of diagram, describe the life cycle of Moss."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "past_papers": [
+    {
+      "subject": "MATHEMATICS",
+      "year": 2019,
+      "time": "20 Minutes + 2 Hours 40 Minutes",
+      "total_marks": 100,
+      "sections": {
+        "A": {
+          "title": "Multiple Choice Questions",
+          "marks": 20,
+          "instructions": "Choose the correct answer for each from the given options:",
+          "questions": [
+            {
+              "number": "i",
+              "question": "The slope of the bisector of the 1st & the 3rd quadrant is:",
+              "options": ["0", "-1", "1", "∞"]
+            },
+            {
+              "number": "ii",
+              "question": "The distance of point (2,3) from x-axis is:",
+              "options": ["5", "3", "2", "1"]
+            },
+            {
+              "number": "iii",
+              "question": "The length of the tangent from the point (1,2) to the circle x² + y² - 2 = 0 is:",
+              "options": ["√2", "1", "√6", "√3"]
+            },
+            {
+              "number": "iv",
+              "question": "Two lines, represented by ax² + 2hxy + by² = 0, where a,h,b are not all zero, will be orthogonal, if:",
+              "options": ["a - b = 0", "a + b = 0", "h = 0", "a = 0"]
+            },
+            {
+              "number": "v",
+              "question": "The radius of the circle x² + y² + 2gx + 2fy + c = 0 is:",
+              "options": ["√(g² + f² - c)", "√(g² + f² + c)", "√(g² - f² - c)", "√(g² + f² - c²)"]
+            },
+            {
+              "number": "vi",
+              "question": "d/dx ln x² =",
+              "options": ["2x^(2-1)", "2/x", "x² ln x", "2² ln 2"]
+            },
+            {
+              "number": "vii",
+              "question": "The necessary condition for f(x) to have extreme value is:",
+              "options": ["f''(x) = 0", "f'(x) = 0", "f(x) = 0", "f'(x) = 1"]
+            },
+            {
+              "number": "viii",
+              "question": "∫x⁴ dx =",
+              "options": ["x⁵ + c", "1/x + c", "1/x⁴ + c", "ln x + c"]
+            },
+            {
+              "number": "ix",
+              "question": "∫cosec²x dx =",
+              "options": ["-cosec x + c", "-cot x + c", "cosec x cot x + c", "ln cot x + c"]
+            },
+            {
+              "number": "x",
+              "question": "The distance between foci of an ellipse x²/a² + y²/b² = 1 is:",
+              "options": ["2a/e", "2a", "2ae", "2b²/a"]
+            },
+            {
+              "number": "xi",
+              "question": "If e = 3/2, then the conic is a:",
+              "options": ["circle", "ellipse", "parabola", "Hyperbola"]
+            },
+            {
+              "number": "xii",
+              "question": "The vertex of parabola (y + 2)² = 4(x - 1) is:",
+              "options": ["(1, 2)", "(-2, 1)", "(1, -2)", "(-1, 2)"]
+            },
+            {
+              "number": "xiii",
+              "question": "If two vectors A ≠ 0 and B ≠ 0 are such that A·B = 0, then the vectors are:",
+              "options": ["parallel", "perpendicular", "opposite", "equal"]
+            },
+            {
+              "number": "xiv",
+              "question": "The position vector of a point P(x,y,z) is:",
+              "options": ["P", "|OP|", "|P|", "OP"]
+            },
+            {
+              "number": "xv",
+              "question": "∫f'(x)/f(x) dx =",
+              "options": ["ln f(x) + c", "ln f'(x) + c", "1/f(x) + c", "f(x) + c"]
+            },
+            {
+              "number": "xvi",
+              "question": "The domain of the function f(x) = (x+1)/(x-1) is:",
+              "options": ["R - {1}", "R - {-1}", "R - {0}", "R"]
+            },
+            {
+              "number": "xvii",
+              "question": "lim[n→∞] [1 + 1/n]⁻ⁿ =",
+              "options": ["-1", "1", "e", "1/e"]
+            },
+            {
+              "number": "xviii",
+              "question": "lim[x→0] sin6x/2x =",
+              "options": ["1/2", "3", "2", "1/3"]
+            },
+            {
+              "number": "xix",
+              "question": "A function f(x) = x + |x| is:",
+              "options": ["even function", "odd function", "neither even nor odd function", "circular function"]
+            },
+            {
+              "number": "xx",
+              "question": "If A is two-third the way from P to Q, then A divides PQ in the ratio:",
+              "options": ["2:1", "1:2", "2:3", "3:2"]
+            }
+          ]
+        },
+        "B": {
+          "title": "Short-Answer Questions",
+          "marks": 50,
+          "instructions": "Answer any 10 questions from this section. At least three question from each section.",
+          "subsections": {
+            "analytic_geometry_straight_line_vector": {
+              "title": "Analytic Geometry (Straight Line & Vector Algebra)",
+              "questions": [
+                {
+                  "number": "2(i)",
+                  "question": "The centroid of triangle, whose two vertices are (2, 4) and (3, -4), is found to be (3, 1). Find its third vertex. OR In what ratio is the line segment joining (1, 3) and (2, 7) divided by 3x + y = 9?"
+                },
+                {
+                  "number": "2(ii)",
+                  "question": "Find the equation of the line which is perpendicular to 2x + 3y + 4 = 0 and passes through (2, -1)."
+                },
+                {
+                  "number": "2(iii)",
+                  "question": "A line, whose y-intercept is 1 less than its x-intercept, forms with the coordinate axis a triangle of area 6 square units. What is its equation?"
+                },
+                {
+                  "number": "2(iv)",
+                  "question": "A particle, acted upon by the forces 4i + j - 3k and 3i + j - k, is displaced from the point (1, 2, 3) to point (5, 4, 1). Find the work done. OR Calculate (a × b) for vectors a = 2i + 3j + 4k and b = i - j + k"
+                },
+                {
+                  "number": "2(v)",
+                  "question": "Prove that: [a + b, b + c, c + a] = 2[a, b, c]"
+                }
+              ]
+            },
+            "analytic_geometry_conic_sections": {
+              "title": "Analytic Geometry (Conic Sections)",
+              "questions": [
+                {
+                  "number": "3(i)",
+                  "question": "Find the equation of the circle of radius α which passes through the two points on the x-axis which are at a distance b from the origin"
+                },
+                {
+                  "number": "3(ii)",
+                  "question": "Find the equation of the parabola with focus (3,4) and directrix x + y - 1 = 0."
+                },
+                {
+                  "number": "3(iii)",
+                  "question": "Find the equation of the ellipse whose centre is at (0,0), e = 2/3, latus rectum of length 20/3 and major axis is along y-axis."
+                },
+                {
+                  "number": "3(iv)",
+                  "question": "Find the eccentricity, foci and directrices of hyperbola 9x² - y² + 1 = 0."
+                },
+                {
+                  "number": "3(v)",
+                  "question": "The length of the major axis of an ellipse is 25 units and its foci are the points (±5,0). Find its equation. OR Show that the eccentricities e₁ and e₂ of two conjugate hyperbolae satisfy the relation: e₁² + e₂² = e₁²e₂²"
+                }
+              ]
+            },
+            "calculus": {
+              "title": "Calculus",
+              "questions": [
+                {
+                  "number": "4(i)",
+                  "question": "Find the derivative, by the first principle, at any point x = α in the domain D(f) of the function f(x) = cos²x OR f(x) = x^(2/3)"
+                },
+                {
+                  "number": "4(ii)",
+                  "question": "Evaluate any two of the following: (a) lim[x→0] (1 - cos x)/x² (b) lim[x→∞] (x² - 5x + 2)/(5x² + 6x - 4) (c) lim[x→0] (3e^x - e^(-x) - 2)/x"
+                },
+                {
+                  "number": "4(iii)",
+                  "question": "Find the approximate value of sin 46° using differentials."
+                },
+                {
+                  "number": "4(iv)",
+                  "question": "Two polynomial functions f and g are defined by f(x) = x² - 3x + 4 and g(x) = x + 1, ∀ x ∈ R. Find fog, gof and show that fog ≠ gof. OR Find the limit of the sequence 3/2, 2/3, 5/4, 4/5, …"
+                },
+                {
+                  "number": "4(v)",
+                  "question": "Solve the differential equation: 2 + 2y(dy/dx) = 1 + 3x², y(2) = 1"
+                }
+              ]
+            }
+          }
+        },
+        "C": {
+          "title": "Detailed-Answer Questions",
+          "marks": 30,
+          "instructions": "Answer 2 questions from this section.",
+          "questions": [
+            {
+              "number": "5",
+              "question": "Evaluate any four of the following integrals: (i) ∫(x³ + 1)^(7/6) x⁵ dx (ii) ∫e^x (1 + sin x)/(1 + cos x) dx (iii) ∫[-6,-3] (x² - 9)/x dx (iv) ∫dx/(x² - x + 1) (v) ∫(7x - 25)/[(x - 3)(x - 4)] dx (vi) ∫(sec x tan x)/(a + b sec x) dx"
+            },
+            {
+              "number": "6",
+              "parts": [
+                {
+                  "letter": "a",
+                  "question": "Find the centroid of the triangle the equation of whose sides are 12x² - 20xy + 7y² = 0 and 2x - 3y + 4 = 0."
+                },
+                {
+                  "letter": "b",
+                  "question": "The coordinates of two points A and B are (3,4) and (5,-2) respectively. Find the coordinates of any point P if |PA| = |PB| and the area of triangle PAB is 10 square units."
+                }
+              ]
+            },
+            {
+              "number": "7",
+              "parts": [
+                {
+                  "letter": "a",
+                  "question": "Three vertices A,B and C of a triangle are (2,1), (5,2) and (3,4) respectively. Find the coordinates of the circumcentre and the radius of the circumcircle of triangle ABC."
+                },
+                {
+                  "letter": "b",
+                  "question": "Evaluate dy/dx of any two of the following: (i) √(x² + y²) = ln(x² - y²) (ii) y = ln[(1 - x²)/(1 + x²)] (iii) x = a cos³θ, y = b sin³θ OR Find the relative maximum and minimum values of the function f(x) = e^x sin x"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

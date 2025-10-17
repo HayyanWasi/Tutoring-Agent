@@ -1,0 +1,249 @@
+{
+  "examination": {
+    "subject": "COMPUTER",
+    "year": 2022,
+    "option": "PROGRAMMING USING 'C'",
+    "duration": "3 Hours",
+    "total_marks": 75,
+    "sections": [
+      {
+        "section_name": "SECTION 'A' (Multiple Choice Questions)",
+        "total_marks": 29,
+        "instructions": "Choose the correct answer for each from the given options:",
+        "questions": [
+          {
+            "id": "i",
+            "question": "In x = 3.5 / a + 2 * n; this operation will be performed first:",
+            "options": ["3.5 / a", "a + 2", "2 * n", "depends upon compiler"]
+          },
+          {
+            "id": "ii",
+            "question": "Every function's body begins and ends with:",
+            "options": ["{ }", "( )", "[ ]", "< >"]
+          },
+          {
+            "id": "iii",
+            "question": "This operator takes only integer operands:",
+            "options": ["+", "*", "%", "/"]
+          },
+          {
+            "id": "iv",
+            "question": "This is not a logical operator:",
+            "options": ["&", "&&", "|", "||", "1"]
+          },
+          {
+            "id": "v",
+            "question": "If int a = 10 + 4.867 then the value of 'a' is:",
+            "options": ["a = 10", "a = 14.867", "a = 14", "compiler error"]
+          },
+          {
+            "id": "vi",
+            "question": "This operator takes only one operand:",
+            "options": ["!", "||", "&&", ">"]
+          },
+          {
+            "id": "vii",
+            "question": "This inversion specifier is used to display a floating point value in exponential notation:",
+            "options": ["e or E", "d or D", "g or G", "f or F"]
+          },
+          {
+            "id": "viii",
+            "question": "This statement can only test for equality:",
+            "options": ["break", "switch", "return", "if"]
+          },
+          {
+            "id": "ix",
+            "question": "This data type is used when the function does not return a value:",
+            "options": ["char", "double", "float", "void"]
+          },
+          {
+            "id": "x",
+            "question": "The declaration of a function is called its:",
+            "options": ["Function Call", "Prototype", "Function", "Function Definition"]
+          },
+          {
+            "id": "xi",
+            "question": "We use this operator to tell the compiler to store data at an address:",
+            "options": ["address operator (&)", "dereference operator (#)", "indirection operator (*)", "pointer operator (*)"]
+          },
+          {
+            "id": "xii",
+            "question": "A function can return only:",
+            "options": ["one values", "two values", "three values", "six values"]
+          },
+          {
+            "id": "xiii",
+            "question": "This is a default data type in MS-Access:",
+            "options": ["auto number", "text", "number", "data"]
+          },
+          {
+            "id": "xiv",
+            "question": "This MS Access object is considered primary:",
+            "options": ["table", "query", "form", "report"]
+          },
+          {
+            "id": "xv",
+            "question": "Key field must contain:",
+            "options": ["unique values", "default values", "null values", "duplicate values"]
+          },
+          {
+            "id": "xvi",
+            "question": "'One-to-many' refers to:",
+            "options": ["constraint", "join", "union", "cardinality"]
+          },
+          {
+            "id": "xvii",
+            "question": "This is the output of 4 % 5:",
+            "options": ["0", "1", "4", "5"]
+          },
+          {
+            "id": "xviii",
+            "question": "If n has the value 3, then the output of the statement, printf('%d%d',n++,++n) is:",
+            "options": ["3 5", "4 5", "4 4", "2 5"]
+          },
+          {
+            "id": "xix",
+            "question": "To retrieve information from a database, users can use this, an easy to use computer language:",
+            "options": ["data dictionary", "report generator", "query language", "low level language"]
+          },
+          {
+            "id": "xx",
+            "question": "The rules/formats for using programming language are called:",
+            "options": ["Sematic", "Rule", "Syntax", "Module"]
+          },
+          {
+            "id": "xxi",
+            "question": "This statement is used to exit the selection structure:",
+            "options": ["continue", "default", "break", "exit"]
+          },
+          {
+            "id": "xxii",
+            "question": "If a file is opened in 'w' mode, then:",
+            "options": ["Reading is possible", "Appending is possible", "Writing is possible", "there is no any 'w' mode"]
+          },
+          {
+            "id": "xxiii",
+            "question": "Data access must be sequential in:",
+            "options": ["Network Database Model", "Hierarchical Database Model", "Relational Model", "Flat Model"]
+          },
+          {
+            "id": "xxiv",
+            "question": "'<=' is an operator of the type:",
+            "options": ["Assignment", "Arithmetic", "Relational", "Logical"]
+          },
+          {
+            "id": "xxv",
+            "question": "This is used to share the data from two tables:",
+            "options": ["Table", "Form", "Relation", "Report"]
+          },
+          {
+            "id": "xxvi",
+            "question": "This data type is used to store long text entries in MS-Access:",
+            "options": ["Memo", "Text", "Number", "OLE object"]
+          },
+          {
+            "id": "xxvii",
+            "question": "In this database mode, data is organized into related groups much like a family tree:",
+            "options": ["Hierarchical", "Network", "Relational", "Flat"]
+          },
+          {
+            "id": "xxviii",
+            "question": "RDBMS consists of:",
+            "options": ["Collection of Records", "Collection of Keys", "Collection of Tables", "Collection of fields"]
+          },
+          {
+            "id": "xxix",
+            "question": "In MS-Access, this object is used to represent data in a printed format:",
+            "options": ["Query", "Form", "Report", "Macro"]
+          }
+        ]
+      },
+      {
+        "section_name": "SECTION 'B' (Short Answer Question)",
+        "total_marks": 30,
+        "instructions": "Attempt any TEN part questions in all. All part questions carry equal marks. Answer should not exceed 6 to 7 lines.",
+        "questions": [
+          {
+            "id": "2i",
+            "question": "Why is C language called 'case sensitive language'?"
+          },
+          {
+            "id": "2ii",
+            "question": "What will be the output of the following program segment? For(i = 1; i<5; i++) if (i == 3) continue; else printf('%d', i);"
+          },
+          {
+            "id": "2iii",
+            "question": "What is a function? What are the advantages of using a function?"
+          },
+          {
+            "id": "2iv",
+            "question": "Define any one of the following: a) DBMS b) Data dictionary"
+          },
+          {
+            "id": "2v",
+            "question": "Write a program that generates the following output: (use any loop) 2 4 3 6 4 8 5 10"
+          },
+          {
+            "id": "2vi",
+            "question": "Write a program that prints the factorial of given number."
+          },
+          {
+            "id": "2vii",
+            "question": "What are keywords in C language? Define only three."
+          },
+          {
+            "id": "2viii",
+            "question": "What are Escape sequences? Write the purpose of any three."
+          },
+          {
+            "id": "2ix",
+            "question": "Define: a) Table b) Query"
+          },
+          {
+            "id": "2x",
+            "question": "What is data redundancy?"
+          },
+          {
+            "id": "2xi",
+            "question": "Define increment operator and decrement operator. Give example of each operator."
+          },
+          {
+            "id": "2xii",
+            "question": "What is the difference between a primary key and a secondary key?"
+          },
+          {
+            "id": "2xiii",
+            "question": "Write equivalent C statement: a) x = (b² - c²)/2bc b) (x + y)ⁿ c) b = √(x + y + z²)"
+          },
+          {
+            "id": "2xiv",
+            "question": "Define scanf() with its syntax"
+          },
+          {
+            "id": "2xv",
+            "question": "Differentiate between Actual Parameter and Formal Parameters."
+          }
+        ]
+      },
+      {
+        "section_name": "SECTION 'C' (Detailed Answer Question)",
+        "total_marks": 16,
+        "instructions": "Attempt any TWO question from this section. All questions carry equal marks.",
+        "questions": [
+          {
+            "id": 3,
+            "question": "Explain arithmetic, relational and logical operators used in C."
+          },
+          {
+            "id": 4,
+            "question": "Define switch statement. Also write an example program of switch statement."
+          },
+          {
+            "id": 5,
+            "question": "Explain different types of database models."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "past_papers": [
+    {
+      "subject": "PHYSICS",
+      "year": 2024,
+      "groups": ["Science Pre-Engineering", "Pre-Medical"],
+      "time": "3 Hours",
+      "total_marks": 85,
+      "sections": {
+        "A": {
+          "title": "Multiple Choice Questions",
+          "marks": 17,
+          "instructions": "This section consists of 17 part questions and all are to be answered. Each question carries 1 mark. Do not copy the part questions in your answer book. Write only the answer in full against the proper number of the question and its part. The use of scientific calculator is allowed. All notations are used in their usual meanings.",
+          "questions": [
+            {
+              "number": "i",
+              "question": "A point charge q₁ = 2μC is located at a distance 'd' away from another point charge q₂ = 6μC. The ratio F₁₂/F₂₁ will be:",
+              "options": ["1", "3", "1/2", "1/3"],
+              "correct_answer": "1"
+            },
+            {
+              "number": "ii",
+              "question": "The work done by a centripetal force is always:",
+              "options": ["Maximum", "Half of maximum value", "Quarter of maximum value", "Zero"],
+              "correct_answer": "Zero"
+            },
+            {
+              "number": "iii",
+              "question": "If the cross-sectional area of a pipe decreases, then the velocity of fluid:",
+              "options": ["Increases", "Decreases", "Depends on the fluid density", "Remains the same"],
+              "correct_answer": "Increases"
+            },
+            {
+              "number": "iv",
+              "question": "The process of superimposing signal frequency on carrier wave is:",
+              "options": ["Transmission", "Detection", "Reception", "Modulation"],
+              "correct_answer": "Modulation"
+            },
+            {
+              "number": "v",
+              "question": "A heat sensitive device whose resistivity changes with the change in temperature is called:",
+              "options": ["Conductor", "Thermistor", "Resistor", "Thermometer"],
+              "correct_answer": "Thermistor"
+            },
+            {
+              "number": "vi",
+              "question": "A ray of light enters obliquely from air into water then these two or three quantities of the following change: (a) wavelength (b) frequency (c) speed (d) direction:",
+              "options": ["(a), (c) and (d)", "(a) and (b)", "(b) and (d)", "(b) and (c)"],
+              "correct_answer": "(a), (c) and (d)"
+            },
+            {
+              "number": "vii",
+              "question": "The dot product and cross product of two vectors are equal at this angle:",
+              "options": ["65°", "45°", "76°", "30°"],
+              "correct_answer": "45°"
+            },
+            {
+              "number": "viii",
+              "question": "The rate of change of linear momentum is:",
+              "options": ["Force", "Impulse", "Torque", "Power"],
+              "correct_answer": "Impulse"
+            },
+            {
+              "number": "ix",
+              "question": "One Degree (1°) is equal to:",
+              "options": ["π radians", "180/π radians", "(π/180) radians", "2π radians"],
+              "correct_answer": "(π/180) radians"
+            },
+            {
+              "number": "x",
+              "question": "Dimensions of kinetic energy are the same as those of:",
+              "options": ["Force", "Work", "Momentum", "Power"],
+              "correct_answer": "Work"
+            },
+            {
+              "number": "xi",
+              "question": "A completely submerged object always displaces fluid equal to its:",
+              "options": ["Weight", "Volume", "Density", "Mass"],
+              "correct_answer": "Volume"
+            },
+            {
+              "number": "xii",
+              "question": "In Young's double slit experiment when the distance between slits and screen is doubled, while separation of slits in halved, then fringe spacing will be:",
+              "options": ["4 times", "1/4 times", "doubled", "unchanged"],
+              "correct_answer": "4 times"
+            },
+            {
+              "number": "xiii",
+              "question": "A wire of uniform area of cross-section 'A' length 'L' and resistance 'R' is cut into two equal parts. The resistivity of each part:",
+              "options": ["Becomes zero", "Is halved", "Is doubled", "Remains same"],
+              "correct_answer": "Remains same"
+            },
+            {
+              "number": "xiv",
+              "question": "A child is swinging on a swing in sitting position. If he stands up, then the time period of the swing will:",
+              "options": ["Increase", "Decrease", "Remains the same", "First increase and then decrease"],
+              "correct_answer": "Decrease"
+            },
+            {
+              "number": "xv",
+              "question": "The charging of a capacitor through a resistance follows:",
+              "options": ["Linear law", "Exponential law", "Inverse square law", "Power law"],
+              "correct_answer": "Exponential law"
+            },
+            {
+              "number": "xvi",
+              "question": "The physical quantity which remains constant during simple harmonic motion is:",
+              "options": ["Velocity", "Acceleration", "Energy", "Momentum"],
+              "correct_answer": "Energy"
+            },
+            {
+              "number": "xvii",
+              "question": "If Vₐ, Vₕ and Vₘ are the speed of sound in air, hydrogen and metal at same temperature, then:",
+              "options": ["Vₐ > Vₕ > Vₘ", "Vₘ > Vₕ > Vₐ", "Vₕ > Vₘ > Vₐ", "Vₘ > Vₐ > Vₕ"],
+              "correct_answer": "Vₘ > Vₐ > Vₕ"
+            }
+          ]
+        },
+        "B": {
+          "title": "Short-Answer Questions",
+          "marks": 36,
+          "instructions": "Answer any NINE part questions from this section. All questions carry equal marks. Draw diagrams where necessary. Use of scientific calculator is allowed.",
+          "questions": [
+            {
+              "number": "i",
+              "question": "With the help of diagram show the forces acting on a car moving on a banked curve and derive the mathematical expression for banking angle θ = tan⁻¹(v²/rg)"
+            },
+            {
+              "number": "ii",
+              "question": "How far apart must two protons be if the magnitude of the electrostatic force acting on either one due to the other is equal to the magnitude of the weight of a proton on earth's surface. (m = 1.67 × 10⁻²⁷ kg, q = 1.6 × 10⁻¹⁹ C)"
+            },
+            {
+              "number": "iii",
+              "question": "State Kirchhoff's first and second law. Draw diagram for both the laws."
+            },
+            {
+              "number": "iv",
+              "question": "A mortar shell is fired at a ground level target 500m distance with an initial velocity of 90ms⁻¹. What is the launch angle?"
+            },
+            {
+              "number": "v",
+              "question": "How energy is stored in a capacitor? Derive mathematical expression for the energy stored in capacitor."
+            },
+            {
+              "number": "vi",
+              "question": "Define escape velocity. Derive the relation vₑₛc = √(2gR) for escape velocity on earth's surface."
+            },
+            {
+              "number": "vii",
+              "question": "The small piston of a hydraulic press has an area of 10cm². If the applied force is 50N what must the area of the large piston to exert a pressing force of 4800 N."
+            },
+            {
+              "number": "viii",
+              "question": "A block is kept on a horizontal table. The table is undergoing simple harmonic motion of frequency 3Hz in a horizontal plane. The coefficient of static friction between the block and the table is 0.72. Find the maximum amplitude of the table at which the block does not slip on this table."
+            },
+            {
+              "number": "ix",
+              "question": "Derive Bragg's equation for X-ray diffraction."
+            },
+            {
+              "number": "x",
+              "question": "Calculate the viscous drag on a drop of oil of 1mm radius falling through air at its terminal velocity. (viscosity of air = 1.8 × 10⁻⁵ pas, density of oil = 850 kg/m³)"
+            },
+            {
+              "number": "xi",
+              "question": "A 20 meter long wire has a cross sectional area of 1mm² and having a resistance of 5ohm. Calculate the conductivity of the wire."
+            },
+            {
+              "number": "xii",
+              "question": "State the law of conservation of linear momentum. By using the law, calculate the speed of recoil of the gun, when a 100g bullet is fired from a 10kg gun with a speed of 1000m/s."
+            },
+            {
+              "number": "xiii",
+              "question": "Prove that following equations are dimensionally correct: T = 2π√(L/g) and x = mλ/2"
+            },
+            {
+              "number": "xiv",
+              "question": "Write Newton's formula for the speed of sound in air. What correction did Laplace made in it? Also give the corrected formula."
+            }
+          ]
+        },
+        "C": {
+          "title": "Detailed Answer Questions",
+          "marks": 32,
+          "instructions": "Attempt any TWO questions from this section. All questions carry equal marks. Draw diagrams where necessary.",
+          "questions": [
+            {
+              "number": "3",
+              "parts": [
+                {
+                  "letter": "a",
+                  "question": "What is Bernoulli's principle? Derive Bernoulli's equation for steady, incompressible, non-viscous and irrational flow of fluid."
+                },
+                {
+                  "letter": "b",
+                  "question": "What is an electric dipole? Derive the expression for electric field intensity due to electric dipole at a point which is at a perpendicular distance y from the centre of the dipole."
+                }
+              ]
+            },
+            {
+              "number": "4",
+              "parts": [
+                {
+                  "letter": "a",
+                  "question": "Describe the addition of vectors by Head to Tail method. Add two vectors P and Q making angles θ₁ and θ₂ with the horizontal by rectangular component method."
+                },
+                {
+                  "letter": "b",
+                  "question": "Name the acceleration due to the change in direction of linear velocity of a body moving in a circle. Derive the relevant expression for it in terms of linear and angular velocities."
+                }
+              ]
+            },
+            {
+              "number": "5",
+              "parts": [
+                {
+                  "letter": "a",
+                  "question": "Define simple harmonic motion. Using the expression of instantaneous velocity v = √(K/m)√(xₘ² - x²) of a body executing S.H.M, prove that the total energy of the body is constant."
+                },
+                {
+                  "letter": "b",
+                  "question": "What is Doppler Effect? Derive mathematical expression for apparent frequency heard by listener when: i) Listener moves towards stationary source ii) Source moves towards stationary listener"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

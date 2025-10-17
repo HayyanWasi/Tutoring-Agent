@@ -1,0 +1,251 @@
+{
+  "past_papers": [
+    {
+      "subject": "MATHEMATICS",
+      "year": 2019,
+      "time": "20 Minutes + 2 Hours 40 Minutes",
+      "total_marks": 100,
+      "sections": {
+        "A": {
+          "title": "Multiple Choice Questions",
+          "marks": 20,
+          "instructions": "Choose the correct answer for each from the given options:",
+          "questions": [
+            {
+              "number": "i",
+              "question": "cos (90° - θ) is equal to:",
+              "options": ["cos θ", "sin θ", "-sin θ", "-cos θ"]
+            },
+            {
+              "number": "ii",
+              "question": "ⁿPᵣ is equal to:",
+              "options": ["r!(n-r)!", "n!", "n!/(n-r)!", "n!/[r!(n-r)!]"]
+            },
+            {
+              "number": "iii",
+              "question": "If cot θ < 0 and cos θ < 0, then P(θ) lies in the:",
+              "options": ["1st quadrant", "2nd quadrant", "3rd quadrant", "4th quadrant"]
+            },
+            {
+              "number": "iv",
+              "question": "The inradius r of a triangle ABC is equal to:",
+              "options": ["sΔ", "Δ/s", "s/Δ", "Δ/(s-a)"]
+            },
+            {
+              "number": "v",
+              "question": "Cos 90° cos 30° − sin 90° sin 30° is equal to:",
+              "options": ["1/2", "√3/2", "-√3/2", "-1/2"]
+            },
+            {
+              "number": "vi",
+              "question": "If in a G.P., a = 3 and r = 2/3, then S∞ is equal to:",
+              "options": ["9", "12", "15", "18"]
+            },
+            {
+              "number": "vii",
+              "question": "The number of ways in which 5 persons can be seated in a row is:",
+              "options": ["120", "24", "6", "infinite"]
+            },
+            {
+              "number": "viii",
+              "question": "If |x| < 1, then 1 + 2x + 3x² + 4x³ + ... =",
+              "options": ["(1+x)⁻¹", "(1-x)⁻¹", "(1+x)⁻²", "(1-x)⁻²"]
+            },
+            {
+              "number": "ix",
+              "question": "(A∩A′) is equal to:",
+              "options": ["U", "φ", "A", "A′"]
+            },
+            {
+              "number": "x",
+              "question": "If i is an imaginary number, then i³:",
+              "options": ["i", "-i", "1", "-1"]
+            },
+            {
+              "number": "xi",
+              "question": "If z = 3i + 2, then z + z̄ =:",
+              "options": ["6i", "6", "0", "4"]
+            },
+            {
+              "number": "xii",
+              "question": "If ω is a complex cube root of unity, then ω⁵⁶ is:",
+              "options": ["-ω", "ω²", "ω", "1"]
+            },
+            {
+              "number": "xiii",
+              "question": "The sum of the roots of the equation y² − 2y + 8 = 0 is:",
+              "options": ["2", "4", "8", "-8"]
+            },
+            {
+              "number": "xiv",
+              "question": "If A = [[1,3,5],[2,4,7],[9,8,6]], then the cofactor A₃₁ is equal to:",
+              "options": ["1", "-1", "0", "2"]
+            },
+            {
+              "number": "xv",
+              "question": "If A, B are two matrices conformable for multiplication, then (AB)ᵗ is equal to:",
+              "options": ["AᵗBᵗ", "AB", "BAᵗ", "BᵗAᵗ"]
+            },
+            {
+              "number": "xvi",
+              "question": "⁶C₂,₃ is equal to:",
+              "options": ["1", "60", "120", "240"]
+            },
+            {
+              "number": "xvii",
+              "question": "If 2ˣ⁺³ = 1/32, then x is equal to:",
+              "options": ["2", "-2", "-8", "8"]
+            },
+            {
+              "number": "xviii",
+              "question": "The total number of terms in the expansion of (a + b)ⁿ, (n ∈ N) is:",
+              "options": ["n", "n+1", "n-1", "n+2"]
+            },
+            {
+              "number": "xix",
+              "question": "The Geometric Means between 2 and √2/2 are equal to:",
+              "options": ["±2", "±√2", "±1/√2", "±1"]
+            },
+            {
+              "number": "xx",
+              "question": "∑n³ is equal to:",
+              "options": ["n(n+1)/2", "[n(n+1)/2]²", "n(n+1)(2n+1)/6", "n²(n+1)²/2"]
+            }
+          ]
+        },
+        "B": {
+          "title": "Short-Answer Questions",
+          "marks": 50,
+          "instructions": "Answer any 10 part questions from this section, selecting at least three part questions from each question.",
+          "topics": {
+            "complex_number_algebra_matrices": {
+              "title": "COMPLEX NUMBER, ALGEBRA & MATRICES",
+              "questions": [
+                {
+                  "number": "2(i)",
+                  "question": "Solve the complex equation (x,y).(2,3) = (-4,7). OR Find the real and imaginary parts of (2-i)/3i"
+                },
+                {
+                  "number": "2(ii)",
+                  "question": "Solve the equation 4.2²ˣ⁺¹ - 9.2ˣ + 1 = 0"
+                },
+                {
+                  "number": "2(iii)",
+                  "question": "By using the properties of determinants, show that |4 a b+c; 4 b c+a; 4 c a+b| = 0"
+                },
+                {
+                  "number": "2(iv)",
+                  "question": "Form an equation whose roots are 1/2 and 1/6"
+                },
+                {
+                  "number": "2(v)",
+                  "question": "Determine the nature of roots of the equation 2x² + 9 = 9x OR Solve the equation: √(2x + 7) + √(x + 3) = 1"
+                }
+              ]
+            },
+            "groups_sequences_series_counting": {
+              "title": "GROUPS, SEQUENCES & SERIES AND COUNTING PROBLEMS",
+              "questions": [
+                {
+                  "number": "3(i)",
+                  "question": "Let * be defined in Z by m*n = m + n + 2. (a) Show that * is associative and commutative. (b) Identify w.r.t. * exists in Z. (c) Every element of Z has an inverse under *"
+                },
+                {
+                  "number": "3(ii)",
+                  "question": "Find the value of n so that (aⁿ⁺¹ + bⁿ⁺¹)/(aⁿ + bⁿ) may becomes the G.M. between a & b. OR Express 0.348 as a vulgar fraction"
+                },
+                {
+                  "number": "3(iii)",
+                  "question": "Prove by Mathematical induction, following preposition: 2 + 6 + 12 + ⋯ + n(n + 1) = 1/3 n(n + 1)(n + 2)"
+                },
+                {
+                  "number": "3(iv)",
+                  "question": "If in a G.P., the fifth term is 9 times the third term and its second term is 6, find the G.P. OR Insert 4 A.M.s between 18 & 3"
+                },
+                {
+                  "number": "3(v)",
+                  "question": "If there are 3 children in a family, what is probability that: (a) the third child is a girl (b) the two children are boys and one child is a girl?"
+                }
+              ]
+            },
+            "trigonometry": {
+              "title": "TRIGONOMETRY",
+              "questions": [
+                {
+                  "number": "4(i)",
+                  "question": "By using definition of Radian function, find the remaining trigonometric functions if tanθ = 1/3 and P(θ) is in 4th quadrant"
+                },
+                {
+                  "number": "4(ii)",
+                  "question": "Draw the graph of y = sin 2x, where 0 ≤ x ≤ π. OR Without using calculator, prove that: Sin 19° cos 11° + sin 11° = 1/2"
+                },
+                {
+                  "number": "4(iii)",
+                  "question": "Find the area of the triangle when: a = 9.1cm, b = 8.2cm, c = 7.3cm"
+                },
+                {
+                  "number": "4(iv)",
+                  "question": "Solve cos θ - 2 sin θ = 0"
+                },
+                {
+                  "number": "4(v)",
+                  "question": "Show that tan⁻¹ θ = sin⁻¹ (θ/√(1 + θ²))"
+                }
+              ]
+            }
+          }
+        },
+        "C": {
+          "title": "Detailed-Answer Questions",
+          "marks": 30,
+          "instructions": "Answer any Two questions from this section, including Question 5 which is compulsory.",
+          "questions": [
+            {
+              "number": "5",
+              "parts": [
+                {
+                  "letter": "a",
+                  "question": "The sums of the first n terms of two A.P.s are in the ratio 3n + 31 : 5n - 3. Show that their 9th terms are equal"
+                },
+                {
+                  "letter": "b",
+                  "question": "Prove the law of tangent (tan((α-β)/2))/(tan((α+β)/2)) = (a-b)/(a+b) OR In ΔABC, prove that the area of the triangle Δ = ½ ab sin γ"
+                }
+              ]
+            },
+            {
+              "number": "6",
+              "parts": [
+                {
+                  "letter": "a",
+                  "question": "Find the coefficient of x⁶ in expansion of (a³ + 3bx²)⁶"
+                },
+                {
+                  "letter": "b",
+                  "question": "Apply Cramer's rule to solve the following system of equation: x + y = 5; y + z = 7; z + x = 6"
+                }
+              ]
+            },
+            {
+              "number": "7",
+              "parts": [
+                {
+                  "letter": "a",
+                  "question": "An aeroplane is flying at a height of 9000 metres. If the angle of depression to a field marker measures 23°, find the aerial distance"
+                },
+                {
+                  "letter": "b",
+                  "question": "Prove any two of the following: (i) (tan θ + sin θ)/(cosec θ + cot θ) = tan θ sin θ, (cos θ ≠ 0, -1) (ii) (sin 3θ/sin θ) - (cos 3θ/cos θ) = 2 (iii) (1 + tan²(π/6))/(tan²(π/6)) = cosec²(π/6)"
+                },
+                {
+                  "letter": "c",
+                  "question": "Solve and check: 4x² + y² = 25; y² - 2x = 5"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

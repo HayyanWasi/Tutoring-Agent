@@ -1,0 +1,281 @@
+{
+  "year": 2024,
+  "subject": "ENGLISH",
+  "group": "Science General Group",
+  "time": "3 Hours",
+  "total_marks": 100,
+  "sections": [
+    {
+      "name": "SECTION A - Multiple Choice Questions (MCQs)",
+      "instructions": "This section consists of 20 part questions and all are to be answered. Each question carries one mark. Do not copy the part questions in your answer book. Write only the answer in full against the proper number of the question and its part.",
+      "questions": [
+        {
+          "number": "i",
+          "question": "The word 'Pakistan' was first used in a pamphlet named:",
+          "options": ["Now or Never", "Nonchal", "medicine", "property"],
+          "correct_answer": "Now or Never"
+        },
+        {
+          "number": "ii",
+          "question": "The main theme of the necklace is:",
+          "options": [
+            "We suffer for our vanities",
+            "It is unwise to borrow",
+            "Parties can lead to trouble",
+            "Friend should be honest"
+          ],
+          "correct_answer": "We suffer for our vanities"
+        },
+        {
+          "number": "iii",
+          "question": "The comparative degree of 'much' is:",
+          "options": ["merries", "many", "more", "most"],
+          "correct_answer": "more"
+        },
+        {
+          "number": "iv",
+          "question": "The traveler told the poet that he had seen in the desert this thing:",
+          "options": ["a statue", "sculptor", "an oasis", "a snake"],
+          "correct_answer": "a statue"
+        },
+        {
+          "number": "v",
+          "question": "The slave was fearful and thrown into the sea to:",
+          "options": ["catch fish", "gain experience", "save boat", "go drowning"],
+          "correct_answer": "gain experience"
+        },
+        {
+          "number": "vi",
+          "question": "During World War II, transmission of information was in this form:",
+          "options": ["material", "analogue", "electric", "catalogue"],
+          "correct_answer": "analogue"
+        },
+        {
+          "number": "vii",
+          "question": "Power accused Kreton of coming to earth:",
+          "options": [
+            "100 years to soon",
+            "to spread a mysterious disease",
+            "to discover some natural resources",
+            "to reconnoiter before an invasion"
+          ],
+          "correct_answer": "to reconnoiter before an invasion"
+        },
+        {
+          "number": "viii",
+          "question": "Society acquires new arts and loses old:",
+          "options": ["ways", "methods", "instincts", "approaches"],
+          "correct_answer": "instincts"
+        },
+        {
+          "number": "ix",
+          "question": "Singapore is called Mr. Clean because of:",
+          "options": ["row of flower", "grocery", "cleanliness", "seeing sight"],
+          "correct_answer": "cleanliness"
+        },
+        {
+          "number": "x",
+          "question": "The author of 'My bank Account' Stephen Leacock visited the bank:",
+          "options": ["first time", "monthly", "yearly", "daily"],
+          "correct_answer": "first time"
+        },
+        {
+          "number": "xi",
+          "question": "Kreton mistakenly thought that he had come to earth in this century:",
+          "options": ["18th", "19th", "20th", "21st"],
+          "correct_answer": "20th"
+        },
+        {
+          "number": "xii",
+          "question": "The phrase 'Golden Crown' means:",
+          "options": ["wealth", "power", "victory", "throne"],
+          "correct_answer": "victory"
+        },
+        {
+          "number": "xiii",
+          "question": "'The poem character of a Happy Life' describes that a happy man does not serve another's:",
+          "options": ["wish", "will", "order", "direction"],
+          "correct_answer": "will"
+        },
+        {
+          "number": "xiv",
+          "question": "Lucy's parents became certain of her death when they saw her:",
+          "options": ["footprints", "body", "lantern", "shoes"],
+          "correct_answer": "footprints"
+        },
+        {
+          "number": "xv",
+          "question": "This literary device is used in the line, 'My name is Ozymandias, Kings of Kings':",
+          "options": ["simile", "irony", "personification", "metaphor"],
+          "correct_answer": "simile"
+        },
+        {
+          "number": "xvi",
+          "question": "'No pain; no gain' is the theme of this poem:",
+          "options": [
+            "Good Timber",
+            "Sur Khaboris",
+            "Lucy Gray",
+            "The Abbot of Canterbury"
+          ],
+          "correct_answer": "Good Timber"
+        },
+        {
+          "number": "xvii",
+          "question": "'By sun and cold, By rain and Snow' is this literary device:",
+          "options": ["Metaphor", "Oxymoron", "Alliteration", "Simile"],
+          "correct_answer": "Metaphor"
+        },
+        {
+          "number": "xviii",
+          "question": "A career is this kind of journey:",
+          "options": ["moderate", "constant", "short term", "long term"],
+          "correct_answer": "long term"
+        },
+        {
+          "number": "xix",
+          "question": "Antonym of the word 'Solitude' is:",
+          "options": ["loneliness", "isolation", "company", "mob"],
+          "correct_answer": "company"
+        },
+        {
+          "number": "xx",
+          "question": "The group of people travelling together is called:",
+          "options": ["sages", "crew", "caravan", "shrewd men"],
+          "correct_answer": "caravan"
+        }
+      ]
+    },
+    {
+      "name": "SECTION B - Short Answer Questions",
+      "total_marks": 40,
+      "instructions": "Attempt Ten part questions from this section, taking at least Two part questions from each sub-section. All questions carry equal marks.",
+      "subsections": [
+        {
+          "name": "SUB-SECTION I (Reading Comprehension)",
+          "questions": [
+            "Describe any four interesting aspects of Singapore",
+            "What are the guided principles stated by the Quaid?",
+            "What kind of suggestion did Imam-Ghazali give to the people?",
+            "How had Mme. Loisel's sacrifices been in vain?"
+          ]
+        },
+        {
+          "name": "SUB-SECTION II (Poetry)",
+          "questions": [
+            "What was the shepherd's answer to the third question of the King?",
+            "What does the poet want to say when he says 'Where not a trace of birds is seen, fire is lit?'",
+            "What is the meaning of the phrase in the poem Ozymandias 'the heart that fed?'",
+            {
+              "type": "poem_identification",
+              "instructions": "Identify the poem and the poetic devices used in the following lines:",
+              "lines": "They followed from the Snowy bank\nThose footmarks, one by one,\nInto the middle of the plank\nAnd further there were none."
+            }
+          ]
+        },
+        {
+          "name": "SUB-SECTION III (Play - A Visit to a Small Planet)",
+          "questions": [
+            "Describe the main comic incidents of the play.",
+            "Describe the reaction of different characters to Kreton's visit.",
+            "How is media depicted in the play?",
+            "Write a few lines about Ellen or John Randolph"
+          ]
+        },
+        {
+          "name": "SUB-SECTION IV (Grammar)",
+          "questions": [
+            {
+              "type": "narration_change",
+              "instructions": "Change the narration:",
+              "sentences": [
+                "The frowning child said, 'help! help! help!'",
+                "He said, 'Man is mortal'.",
+                "My Mother said, 'You must focus on your study.'",
+                "They said, 'How will you play the match tomorrow?'"
+              ]
+            },
+            {
+              "type": "voice_change",
+              "instructions": "Change the voice:",
+              "sentences": [
+                "Will they not arrest the criminal tomorrow?",
+                "Lock the door",
+                "The Zebras were attacked by the Lion",
+                "Open your book at page no. 120"
+              ]
+            },
+            {
+              "type": "error_correction",
+              "instructions": "Spot the errors and do the correction of verb, article, preposition and adjective in the following sentences.",
+              "sentences": [
+                "copper is an useful metal.",
+                "I have very little faith on his judgement.",
+                "Shahbaz can run fast than me.",
+                "She walk along the railway fine."
+              ]
+            },
+            {
+              "type": "grammar_exercises",
+              "instructions": "Do as directed:",
+              "exercises": [
+                "He did not come yesterday. He was having high fever (make a compound sentence)",
+                "Tahir studies at the library in the afternoon. (Put the adverb often in the right place).",
+                "He said I did not buy fruits, vegetables, grocery and other provisions (punctuate).",
+                "If I found her address ……… (complete the sentence)."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SECTION C - Detailed Answer Questions",
+      "total_marks": 20,
+      "instructions": "Answer all questions from this section. All questions carry equal marks.",
+      "questions": [
+        {
+          "type": "comprehension_or_precis",
+          "options": [
+            "Read the following passage and answer the questions that follow.",
+            "Make a precis of the following and suggest a suitable title to it:"
+          ],
+          "passage": "Mustafa Kamal set about reforming the people of Turkey. He began with an apparently simple matter of clothes. The traditional garments of the Turks had to give place to more modern coats and hats and if people objected they were forced to obey. The laws of the lands also seemed to be clumsy and unjust. He abolished them and put in their place the German commercial, the Italian penal and the Swiss civil code of laws. He would borrow from any and every nation, but only ideas. These had to be worked by the Turks themselves, Kamal, with the help of his sister organized women's societies so in these were two women judges in Ankara and four women in the Municipal council of Istanbul.",
+          "questions": [
+            "What was the first reform of Kamal?",
+            "Why did he abolish the laws of his country?",
+            "From which country did he borrow the Laws?",
+            {
+              "type": "vocabulary",
+              "instructions": "Give the meaning of the following words:",
+              "words": ["Clumsy", "abolished", "apparently", "traditional"]
+            }
+          ]
+        },
+        {
+          "type": "email_or_report",
+          "options": [
+            "Write a formal email to your college principal asking/requesting him/her for extra classes.",
+            "Write report about the culture day held in the college (including, event days and dates)."
+          ]
+        },
+        {
+          "type": "narrative_or_essay",
+          "options": [
+            "Write a narrative account on street crime.",
+            {
+              "type": "compare_contrast_essay",
+              "instructions": "Write an essay to compare and contrast on any one of the following:",
+              "topics": ["Village Life v/s City Life", "Science v/s Arts"]
+            }
+          ]
+        },
+        {
+          "type": "job_application",
+          "instructions": "Draft a cover letter with CV in response to the following advertisement:",
+          "advertisement": "A well reputed business organization needs the services of an Assistant Accountant who must have a computer Knowledge, Minimum qualification is graduation. Send a detailed CV/Resume assuming necessary details."
+        }
+      ]
+    }
+  ]
+}

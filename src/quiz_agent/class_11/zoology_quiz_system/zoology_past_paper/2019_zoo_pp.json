@@ -1,0 +1,193 @@
+{
+  "past_papers": [
+    {
+      "subject": "ZOOLOGY",
+      "year": 2019,
+      "time": "15 Minutes + 1 Hour 45 Minutes",
+      "total_marks": 40,
+      "sections": {
+        "A": {
+          "title": "Multiple Choice Questions",
+          "marks": 8,
+          "instructions": "Choose the correct answer for each from the given options:",
+          "questions": [
+            {
+              "number": "i",
+              "question": "Massive accumulation of blood within tissues is:",
+              "options": ["Haemaloma", "Embolus", "Thrombosis", "Asclerosis"]
+            },
+            {
+              "number": "ii",
+              "question": "These are locomotary organelles in Amoeba:",
+              "options": ["Pseudopodia", "Cilia", "Myonemes", "Flagella"]
+            },
+            {
+              "number": "iii",
+              "question": "The protein part of holoenzyme is:",
+              "options": ["Apoenzyme", "Phytoenzyme", "Co-enzyme", "Lysozyme"]
+            },
+            {
+              "number": "iv",
+              "question": "The oldest fossil bird of the world is:",
+              "options": ["Echidna", "Archaeopteryx", "Hedgehog", "Dinosaur"]
+            },
+            {
+              "number": "v",
+              "question": "Human sex hormone is a:",
+              "options": ["Protein", "Polysaccharide", "Steroid", "Monosaccharide"]
+            },
+            {
+              "number": "vi",
+              "question": "The most abundant sugar found in fruits is:",
+              "options": ["Maltose", "Galactose", "Fructose", "Lactose"]
+            },
+            {
+              "number": "vii",
+              "question": "Magnesium is an inorganic activator for this enzyme:",
+              "options": ["Manganese", "Phosphatase", "Carbonic anhydrase", "Hexokinase"]
+            },
+            {
+              "number": "viii",
+              "question": "These animals feed upon the fragments of decomposing materials:",
+              "options": ["Parasites", "Detritivores", "Oviparous", "Viviparous"]
+            },
+            {
+              "number": "ix",
+              "question": "Most of the absorption of food takes place in:",
+              "options": ["Stomach", "Large intestine", "Small intestine", "Caecum"]
+            },
+            {
+              "number": "x",
+              "question": "In this disease, alveoli in lungs are ruptured:",
+              "options": ["Haemorrhoids", "Emphysema", "Malaria", "Hepatitis"]
+            },
+            {
+              "number": "xi",
+              "question": "This animal has two chambered heart:",
+              "options": ["Man", "Crocodile", "Frog", "Fish"]
+            },
+            {
+              "number": "xii",
+              "question": "RBC's are formed in:",
+              "options": ["Kidney", "Heart", "Brain", "Bone marrow"]
+            },
+            {
+              "number": "xiii",
+              "question": "The average lung capacity of human is:",
+              "options": ["Half litre", "One litre", "Five litres", "Ten litres"]
+            },
+            {
+              "number": "xiv",
+              "question": "This animal belongs to this class:",
+              "options": ["Chondrichthyes", "Osteichthyes", "Amphibia", "Mammalia"]
+            },
+            {
+              "number": "xv",
+              "question": "This is not an example of natural cloning:",
+              "options": ["Tumor", "Regeneration", "Dizygotic twins", "Monozygotic twins"]
+            },
+            {
+              "number": "xvi",
+              "question": "Farming of silkworm is:",
+              "options": ["Apiculture", "Sericulture", "Agriculture", "Aquaculture"]
+            }
+          ]
+        },
+        "B": {
+          "title": "Short-Answer Questions",
+          "marks": 20,
+          "instructions": "Answer 10 questions in all. Select five from Reasoning Questions & 5 from Non-reasoning questions",
+          "questions": {
+            "reasoning": [
+              {
+                "number": "i",
+                "question": "Why are glycolipids known as cerebrosides?"
+              },
+              {
+                "number": "ii",
+                "question": "Why do some animals undergo ecdysis or moulting?"
+              },
+              {
+                "number": "iii",
+                "question": "Why is the blood of insects colourless?"
+              },
+              {
+                "number": "iv",
+                "question": "How are saturated acylglycerols different from unsaturated acylglycerols?"
+              },
+              {
+                "number": "v",
+                "question": "Why are the lungs of birds more efficient than human lungs?"
+              },
+              {
+                "number": "vi",
+                "question": "Why are Amphibians unsuccessful land vertebrates?"
+              },
+              {
+                "number": "vii",
+                "question": "Why is liver called the metabolic factory of the human body?"
+              },
+              {
+                "number": "viii",
+                "question": "Why are valves absent in the lumen of artery?"
+              }
+            ],
+            "non_reasoning": [
+              {
+                "number": "ix",
+                "question": "Differentiate between Population and Community."
+              },
+              {
+                "number": "x",
+                "question": "Describe the important functions of carbohydrates."
+              },
+              {
+                "number": "xi",
+                "question": "Write note on Lock and Key Theory."
+              },
+              {
+                "number": "xii",
+                "question": "Write the name of the class of the following protozoans: Trypanosoma, Plasmodium, Entamoeba histolytica, Balantidium"
+              },
+              {
+                "number": "xiii",
+                "question": "Write note on Lung fish."
+              },
+              {
+                "number": "xiv",
+                "question": "Differentiate between Active Immunity and Passive immunity. OR Open type and closed type blood circulatory system."
+              },
+              {
+                "number": "xv",
+                "question": "Write flight adaptations of birds."
+              },
+              {
+                "number": "xvi",
+                "question": "Identify the given process. Write its significance with examples."
+              }
+            ]
+          }
+        },
+        "C": {
+          "title": "Detailed-Answer Questions",
+          "marks": 12,
+          "instructions": "Answer 2 question from this section",
+          "questions": [
+            {
+              "number": "3",
+              "question": "Define Lipids. Write name of their different groups. Explain Terpenoids and their types. OR Write the characteristics of prototheria, Metatheria and Eutheria with examples."
+            },
+            {
+              "number": "4",
+              "question": "Write the names of gastro intestinal tract disorders of man. Describe any five disorders. OR Define immune system. Explain innate immune system."
+            },
+            {
+              "number": "5",
+              "question": "Describe salient features of Phylum Annelida or Phylum Arthropoda. Classify it and write the characteristics of any three classes with examples."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

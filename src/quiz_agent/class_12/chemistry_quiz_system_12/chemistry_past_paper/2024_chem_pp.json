@@ -1,0 +1,263 @@
+{
+  "examination": {
+    "subject": "CHEMISTRY",
+    "year": 2024,
+    "groups": ["Science Pre-Engineering", "Pre-Medical"],
+    "duration": "3 Hours",
+    "total_marks": 85,
+    "sections": [
+      {
+        "section_name": "SECTION 'A' (Multiple Choice Questions)",
+        "total_marks": 17,
+        "instructions": "Choose the correct answer for each from the given options:",
+        "questions": [
+          {
+            "id": "i",
+            "question": "The colour of flame produced by Beryllium is",
+            "options": ["Red", "Silver White", "No Colour", "Deep Red"],
+            "correct_answer": "No Colour"
+          },
+          {
+            "id": "ii",
+            "question": "The reason that Benzene burns with soot is:",
+            "options": ["Inflammability", "Higher Carbon Content", "High Resonance Energy", "Aromaticity"],
+            "correct_answer": "Higher Carbon Content"
+          },
+          {
+            "id": "iii",
+            "question": "Drugs that make body temperature tomcat are called:",
+            "options": ["Antibiotic", "Antiallergic", "Antipyretic", "Antihistamin"],
+            "correct_answer": "Antipyretic"
+          },
+          {
+            "id": "iv",
+            "question": "This process is used to improve octane number of gasoline:",
+            "options": ["Reforming", "Refining", "Distillation", "Condensation"],
+            "correct_answer": "Reforming"
+          },
+          {
+            "id": "v",
+            "question": "The general formula of nitrides for alkaline earth metals is:",
+            "options": ["M₃", "M₂N₃", "M₃N", "M₃N₂"],
+            "correct_answer": "M₃N₂"
+          },
+          {
+            "id": "vi",
+            "question": "Formic acid is naturally found in:",
+            "options": ["Apple", "Bee's sting", "Vinegar", "Butter"],
+            "correct_answer": "Bee's sting",
+            "note": "There is an error in the options given in the board's Paper, and the correct options may: Apple, Ants, Vinegar, Butter"
+          },
+          {
+            "id": "vii",
+            "question": "An example of thermoplastic is:",
+            "options": ["Polythene", "PVC", "Nylon", "Bakelite"],
+            "correct_answer": "PVC"
+          },
+          {
+            "id": "viii",
+            "question": "The general formula for cycloalkane is:",
+            "options": ["CₙH₂ₙ", "CₙH₂ₙ₋₂", "CₙH₂ₙ₊₂", "CₙH₄ₙ"],
+            "correct_answer": "CₙH₂ₙ"
+          },
+          {
+            "id": "ix",
+            "question": "NMR spectroscopy is concerned with the interaction of molecules with:",
+            "options": ["Infrared radiation", "Ultraviolet radiation", "Radio waves", "Visible radiation"],
+            "correct_answer": "Radio waves"
+          },
+          {
+            "id": "x",
+            "question": "Oxidation state of manganese in KMnO₄ (potassium permanganate) is:",
+            "options": ["+4", "+2", "+7", "+5"],
+            "correct_answer": "+7"
+          },
+          {
+            "id": "xi",
+            "question": "The greenhouse gas is:",
+            "options": ["O₂", "N₂", "Ar", "CO₂"],
+            "correct_answer": "CO₂"
+          },
+          {
+            "id": "xii",
+            "question": "The extra glucose of bloodstream is converted into:",
+            "options": ["Fat", "Glycogen", "Gluconic acid", "Triglyceride"],
+            "correct_answer": "Glycogen"
+          },
+          {
+            "id": "xiii",
+            "question": "Beryllium is diagonally related to this:",
+            "options": ["Li", "Si", "Al", "Mg"],
+            "correct_answer": "Al"
+          },
+          {
+            "id": "xiv",
+            "question": "On oxidation, a secondary alcohol gives:",
+            "options": ["Ether", "Aldehyde", "Ketone", "Amine"],
+            "correct_answer": "Ketone"
+          },
+          {
+            "id": "xv",
+            "question": "The coordination number of cobalt in Na₃[Co(C₂O₄)₃] is:",
+            "options": ["3", "4", "6", "2"],
+            "correct_answer": "6"
+          },
+          {
+            "id": "xvi",
+            "question": "This element is not used in electroplating:",
+            "options": ["Zn", "Sn", "Cr", "Mn"],
+            "correct_answer": "Mn"
+          },
+          {
+            "id": "xvii",
+            "question": "Ozone depletion in upper atmosphere is mainly caused by:",
+            "options": ["SO₂", "NO", "CO", "CFC"],
+            "correct_answer": "CFC"
+          }
+        ]
+      },
+      {
+        "section_name": "SECTION 'B' (Short-Answer Questions)",
+        "total_marks": 36,
+        "instructions": "Answer any NINE part questions. Select FOUR part questions from Inorganic-General Chemistry and FIVE part questions from Organic Chemistry. All part questions carry equal marks.",
+        "subsections": [
+          {
+            "subsection_name": "INORGANIC-GENERAL CHEMISTRY",
+            "questions": [
+              {
+                "id": "2i",
+                "question": "Describe group trend of atomic radius and electronegativity in S - block. OR Describe reasons of the following: * HF is weaker acid than HCl acid. * Alkali metals are good conductor of electricity. * Fluorine is the strong, st oxidizing agent. * Transition elements have tendency to form alloys."
+              },
+              {
+                "id": "2ii",
+                "question": "What are outer transition elements? Describe any two of the following properties: * Variable Oxidation Conditions * Colour Formation * Magnetic Properties"
+              },
+              {
+                "id": "2iii",
+                "question": "Write the IUPAC names of following: * [Cu(en)₂]⁺² * [Ni(SCN)₄]²⁻ * [Ag(NH₃)₂]OH * K₃[Fe(CN)₆]"
+              },
+              {
+                "id": "2iv",
+                "question": "How is ozone layer formed? What are the causes of its depletion?"
+              },
+              {
+                "id": "2v",
+                "question": "What is diagonal relationship? Describe the diagonal relation between any two of the following: * Li & Mg * Be & Al * B & St"
+              },
+              {
+                "id": "2vi",
+                "question": "What are synthetic polymers? Explain PVC OR Nylon."
+              },
+              {
+                "id": "2vii",
+                "question": "What is spectrometry? Describe one use of each of the following: * IR * UV * Mass Spectroscopy"
+              }
+            ]
+          },
+          {
+            "subsection_name": "ORGANIC CHEMISTRY",
+            "questions": [
+              {
+                "id": "2viii",
+                "question": "Draw the structure of Ethene. By a chemical test distinguish between ethene and ethyne."
+              },
+              {
+                "id": "2ix",
+                "question": "Write the IUPAC name of the following: * CH₃ - CH₂ - CH - CH₂ - COOH * C₂H₅ - CH₂ - C - OCH(CH₃)₂ * C₂H₅ - O - CH₂ - C(CH₃)₃ * CH₂ = CH - C ≡ C - CH = CH₂"
+              },
+              {
+                "id": "2x",
+                "question": "What are organometallic compounds? Write the equation of methyl magnesium iodide with the following: * H₂O * CO₂ * CH₃NH₂"
+              },
+              {
+                "id": "2xi",
+                "question": "Write the chemical equations for the following: * Friedal Craft Alkylation * Friedal Craft Acylation"
+              },
+              {
+                "id": "2xii",
+                "question": "Define homologous series and write its three general properties."
+              },
+              {
+                "id": "2xiii",
+                "question": "Write the chemical equations for the following reactions: * Reaction of sodium ethanate in the presence of quick lime. * Oxidation of acetone with acidified K₂Cr₂O₇. * Hydration of ethyne in the presence of H₂SO₄/HgSO₄. * Reduction of acetic with LiAlH₄."
+              },
+              {
+                "id": "2xiv",
+                "question": "What is Nucleophilic substitution reaction? Write the mechanism SN¹⁻ reaction of (CH₃)₃CCl with NaOH."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_name": "SECTION 'C' (Detailed Answer Questions)",
+        "total_marks": 32,
+        "instructions": "Answer any Two questions – One question from Inorganic – General Chemistry and One from Organic Chemistry. Both questions carry equal marks.",
+        "subsections": [
+          {
+            "subsection_name": "INORGANIC-GENERAL CHEMISTRY",
+            "questions": [
+              {
+                "id": 3,
+                "parts": [
+                  {
+                    "part": "a",
+                    "question": "Describe the industrial manufacturing of caustic soda by Castner–Kellner's process with labelled diagram. Write advantages and disadvantages of the process."
+                  },
+                  {
+                    "part": "b",
+                    "question": "Write a balance chemical equation for the following reactions: * Nitrogen reacts with oxygen in the presence of a catalyst. * Bleaching powder reaction with HCl. * Reaction of potassium with ethyl alcohol. * A piece of copper is dipped in concentrated sulphuric acid. * Phosphorus is put into water. * Chromium reaction with steam. * Reaction of Mn with air. * Ferric chloride reaction with NaOH."
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "parts": [
+                  {
+                    "part": "a",
+                    "question": "Describe various steps involved as extraction of 99.99% pure copper from its ore, make diagram where needed."
+                  },
+                  {
+                    "part": "b",
+                    "question": "What is meant by Acid rain? Explain its causes an adverse effects on human life style. Also write equation for chemical reaction of sulphuric acid with carbon and aluminium. OR What is Bleaching powder? How it is prepared commercially explain with a diagram. Give its reaction with H₂O and HCl."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "subsection_name": "ORGANIC CHEMISTRY",
+            "questions": [
+              {
+                "id": 5,
+                "parts": [
+                  {
+                    "part": "a",
+                    "question": "What are elimination reactions? Explain E¹ & E² mechanism with suitable examples."
+                  },
+                  {
+                    "part": "b",
+                    "question": "Write the structures of the following: * Resorcinol * TNT * Neo-pentyl alcohol * Iso-butyr aldehyde * Benzophenone * Di-phenyl ether * Ethylene Glycol * Oxalic Acid"
+                  }
+                ]
+              },
+              {
+                "id": 6,
+                "parts": [
+                  {
+                    "part": "a",
+                    "question": "What are carbohydrates? Classify on the bases of structure and give their biological significance. OR What is meant by orientation in Benzene? What are ortho, para and meta director group? Give example for each. Give the equation for the preparation of m-nitrotoluene from benzene."
+                  },
+                  {
+                    "part": "b",
+                    "question": "Write the chemical equation of the following: * Reaction of propene with HCl. * Reaction of 2-butene with ozone. * Reaction of ethyne with water. * Reaction of propyl alcohol with thionyl chloride. * Reaction of phenol with concentration sulphuric acid at 100°C. * Reaction of benzene diazonium chloride with water at high temperature. * Reaction of hydrogen iodide with di-ethyl ether. * Reaction of ethanol with acetic acid at high temperature."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

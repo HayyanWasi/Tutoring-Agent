@@ -1,0 +1,225 @@
+{
+      "year": 2024,
+      "time": "3 Hours",
+      "total_marks": 85,
+      "sections": {
+        "A": {
+          "title": "Multiple Choice Questions",
+          "instructions": "This section consists of 17 part questions and all are to be answered. Each question carries one mark. Do not copy the part questions in your answer book. Write only the answer in full against the proper number of the question and its part.",
+          "questions": [
+            {
+              "number": "i",
+              "question": "Significant figures in 0.0880 are:",
+              "options": ["2", "3", "4", "5"],
+              "correct_answer": "3"
+            },
+            {
+              "number": "ii",
+              "question": "Alpha rays consist of:",
+              "options": ["Two protons and two electrons", "Two neutrons and two electrons", "Two protons and two neutrons", "Two neutrons and one proton"],
+              "correct_answer": "Two protons and two neutrons"
+            },
+            {
+              "number": "iii",
+              "question": "The number of orbitals in fourth energy level is:",
+              "options": ["4", "9", "16", "32"],
+              "correct_answer": "16"
+            },
+            {
+              "number": "iv",
+              "question": "The number of sigma and pi bonds in C₂H₂ are:",
+              "options": ["2 and 3", "2 and 2", "3 and 2", "3 and 3"],
+              "correct_answer": "3 and 2"
+            },
+            {
+              "number": "v",
+              "question": "This molecule has minimum bond angle:",
+              "options": ["CS₂", "H₂O", "NH₃", "BF₃"],
+              "correct_answer": "H₂O"
+            },
+            {
+              "number": "vi",
+              "question": "The geometry of NH₄⁺ and SO₄²⁻ ions is:",
+              "options": ["Tetrahedral", "Trigonal", "Pyramidal", "Square Planar"],
+              "correct_answer": "Tetrahedral"
+            },
+            {
+              "number": "vii",
+              "question": "These pairs do not obey Dalton's Law:",
+              "options": ["He and H₂", "H₂ and Ar", "HCl and NH₃", "He and NH₃"],
+              "correct_answer": "HCl and NH₃"
+            },
+            {
+              "number": "viii",
+              "question": "The vapour pressure of H₂O at 100°C is:",
+              "options": ["76 torr", "5 atms", "101325 Pascal", "12.5 psi"],
+              "correct_answer": "101325 Pascal"
+            },
+            {
+              "number": "ix",
+              "question": "London dispersion force is stronger in:",
+              "options": ["F₂", "Cl₂", "Br₂", "I₂"],
+              "correct_answer": "I₂"
+            },
+            {
+              "number": "x",
+              "question": "Diamond is an example of:",
+              "options": ["Metallic Solid", "Molecular Solid", "Ionic Solid", "Covalent Solid"],
+              "correct_answer": "Covalent Solid"
+            },
+            {
+              "number": "xi",
+              "question": "If a ≠ b ≠ c and α = γ = 90° but β ≠ 90°, then the crystal structure is:",
+              "options": ["Orthorhombic", "Hexagonal", "Monoclinic", "Triclinic"],
+              "correct_answer": "Monoclinic"
+            },
+            {
+              "number": "xii",
+              "question": "If a catalyst is added in a chemical system at equilibrium, the value of Kc:",
+              "options": ["will decrease", "will increase", "will become zero", "will not be changed"],
+              "correct_answer": "will not be changed"
+            },
+            {
+              "number": "xiii",
+              "question": "This oxide is amphoteric:",
+              "options": ["K₂O", "CO₂", "CaO", "Al₂O₃"],
+              "correct_answer": "Al₂O₃"
+            },
+            {
+              "number": "xiv",
+              "question": "If the rate law of reaction is R = K, its order of reaction is:",
+              "options": ["Zero", "first", "second", "third"],
+              "correct_answer": "Zero"
+            },
+            {
+              "number": "xv",
+              "question": "The oxidation numbers of N in NH₄NO₃ are:",
+              "options": ["-3, +5", "-3, +3", "-5, +5", "-1, +1"],
+              "correct_answer": "-3, +5"
+            },
+            {
+              "number": "xvi",
+              "question": "This compound gives acidic solution when dissolved in water:",
+              "options": ["NaCl", "NH₄Cl", "CH₃COONH₄", "Na₂SO₄"],
+              "correct_answer": "NH₄Cl"
+            },
+            {
+              "number": "xvii",
+              "question": "At pH = 0, the universal indicator shows this colour:",
+              "options": ["Red", "Orange", "Yellow", "Green"],
+              "correct_answer": "Red"
+            }
+          ]
+        },
+        "B": {
+          "title": "Short-Answer Questions",
+          "instructions": "Answer any NINE part questions. All questions carry equal marks.",
+          "marks": 36,
+          "questions": [
+            {
+              "number": "i",
+              "question": "Define any four of the following: Stoichiometry, Exponential notation, Unit Cell, Latent Heat of Fusion, Energy of Activation"
+            },
+            {
+              "number": "ii",
+              "question": "Chlorine gas is produced on an industrial scale by electrolysis of aqueous solution of NaCl. Calculate the volume of Cl₂ at S.T.P produced from 58.5 g of NaCl and the total number of molecules of Cl₂ produced."
+            },
+            {
+              "number": "iii",
+              "question": "53.5g of Aluminium is burnt with 22.4g of oxygen to give brilliant white flame of Al₂O₃. Which reactant is limiting reactant? Also find the mass of Al₂O₃ produced."
+            },
+            {
+              "number": "iv",
+              "question": "State Hund's rule. Write electronic configuration of the following: Cr(Z = 24), Sr²⁺(Z = 38), S²⁻(Z = 16)"
+            },
+            {
+              "number": "v",
+              "question": "Give any four scientific reasons for the following: Evaporation is a cooling process; Graphite conduct electricity but diamond does not; Boiling point of H₂O is higher than HF; Pressure cooker is used for rapid cooking; Milk sour more rapidly in summer than in winter"
+            },
+            {
+              "number": "vi",
+              "question": "A 100cm³ sample of hydrogen effuse four times as rapidly as 100cm³ of an unknown gas. Calculate the molecular mass of the unknown gas."
+            },
+            {
+              "number": "vii",
+              "question": "Drive Van der Waal's equation for real gases by correcting volume and pressure."
+            },
+            {
+              "number": "viii",
+              "question": "The solubility of Mg(OH)₂ at 25°C is 4.6 × 10⁻³ g/100 cm³, calculate the solubility product of the Mg(OH)₂."
+            },
+            {
+              "number": "ix",
+              "question": "Explain Bronsted Lowry Theory of acids and bases. Also explain conjugate acid-base pair."
+            },
+            {
+              "number": "x",
+              "question": "Determine the Rate law and find the order of reaction for 2NO + Cl₂ → 2NOCl from given experimental data."
+            },
+            {
+              "number": "xi",
+              "question": "Define Colligative properties. Explain elevation of boiling point and depression of freezing point."
+            },
+            {
+              "number": "xii",
+              "question": "Calculate the Heat of formation of Fe₂O₃ at 25°C using given thermochemical equations."
+            },
+            {
+              "number": "xiii",
+              "question": "Differentiate any two of the following: VBT and MOT; Line Spectrum and Continuous Spectrum; Ideal Solution and Non-ideal Solution"
+            },
+            {
+              "number": "xiv",
+              "question": "At 30°C the vapour pressure of water is 31.6 torr. If 30g of urea (molecular weight = 60) are dissolved in 180g of water. Calculate the lowering of vapour pressure."
+            }
+          ]
+        },
+        "C": {
+          "title": "Detailed Answer Questions",
+          "instructions": "Attempt any Two questions from this section. All questions carry equal marks.",
+          "marks": 32,
+          "questions": [
+            {
+              "number": "3",
+              "parts": [
+                {
+                  "letter": "a",
+                  "question": "Write the postulates of Bohr's atomic model. Starting from ΔE = E₂ - E₁ derive an expression for the wave number of radiations emitted by an electron."
+                },
+                {
+                  "letter": "b",
+                  "question": "Define Corrosion. Balance the following equations by ion-electron method: Cr(OH)₃ + SO₄²⁻ → CrO₄²⁻ + SO₃²⁻ (Basic medium); Cr₂O₇²⁻ + I₂ → Cr³⁺ + IO₃⁻ (Acidic medium)"
+                }
+              ]
+            },
+            {
+              "number": "4",
+              "parts": [
+                {
+                  "letter": "a",
+                  "question": "Write the postulates of VSEPR model. State the shapes of the following molecules with the help of hybridization H₂C, BF₂"
+                },
+                {
+                  "letter": "b",
+                  "question": "State law of mass action. Derive the expression of Kc for the general reversible reaction aA + bB ⇌ cC + dD and also give the relationship between Kp, Kc and Kx."
+                }
+              ]
+            },
+            {
+              "number": "5",
+              "parts": [
+                {
+                  "letter": "a",
+                  "question": "Define battery. Explain the working of lead storage battery and determined electrode potential of copper or zinc."
+                },
+                {
+                  "letter": "b",
+                  "question": "Give the characteristics of ionic and covalent solids. Kc for reaction is 55 at 700°C. Calculate the equilibrium concentration of reactants and products when the concentration of each reactant is 2.55 mol/dm³ for H₂ + I₂ ⇌ 2HI."
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  

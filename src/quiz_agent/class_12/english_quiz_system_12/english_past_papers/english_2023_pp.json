@@ -1,0 +1,249 @@
+{
+  "past_papers": [
+    {
+      "subject": "ENGLISH",
+      "year": 2023,
+      "time": "3 Hours",
+      "total_marks": 100,
+      "sections": {
+        "A": {
+          "title": "Multiple Choice Questions (MCQs)",
+          "marks": 20,
+          "instructions": "This section contains of 20 part questions and all are to be answered. Each question carries one mark. This section 'A' of Multiple Choice Questions (MCQs) must be solved on the provided OMR sheet. The correct answer bubble must be filled on OMR sheet. Use only blue/black ball point pen on OMR sheet. Avoid pencil / White-o pen / correction pen / ink remover and gel pen to solve the questions on OMR sheet.",
+          "questions": [
+            {
+              "number": "i",
+              "question": "Albert Einstein was awarded Nobel Prize for:",
+              "options": ["Mathematics", "Physics", "Astronomy", "Chemistry"],
+              "correct_answer": "Physics"
+            },
+            {
+              "number": "ii",
+              "question": "'A thing of beauty is a joy forever' is taken from the poem:",
+              "options": ["The Solitary Reaper", "Ulysses", "Endymion", "An Essay on Man"],
+              "correct_answer": "Endymion"
+            },
+            {
+              "number": "iii",
+              "question": "The name of Thurber's aunt was:",
+              "options": ["Julie Taylor", "James Taylor", "Jimmy Taylor", "Edith Taylor"],
+              "correct_answer": "Edith Taylor"
+            },
+            {
+              "number": "iv",
+              "question": "The idiom 'Achilles heel' means a:",
+              "options": ["strong point", "weak point", "common point", "main point"],
+              "correct_answer": "weak point"
+            },
+            {
+              "number": "v",
+              "question": "The word 'dupe' means:",
+              "options": ["forgetfulness", "hope", "deceit", "remembrance"],
+              "correct_answer": "deceit"
+            },
+            {
+              "number": "vi",
+              "question": "John Keats died in early age due to:",
+              "options": ["migraine", "tuberculosis", "heart attack", "drowning"],
+              "correct_answer": "tuberculosis"
+            },
+            {
+              "number": "vii",
+              "question": "The word 'burgomaster' used in the lesson 'The Devoted Friend' is the character of:",
+              "options": ["doctor", "mayor", "lawyer", "politician"],
+              "correct_answer": "mayor"
+            },
+            {
+              "number": "viii",
+              "question": "The speech 'Pakistan and the Modern World' was delivered by Liaquat Ali Khan in:",
+              "options": ["Pakistan", "India", "America", "England"],
+              "correct_answer": "America"
+            },
+            {
+              "number": "ix",
+              "question": "The enemies of Samson were the:",
+              "options": ["Christians", "Muslims", "Jews", "Philistines"],
+              "correct_answer": "Philistines"
+            },
+            {
+              "number": "x",
+              "question": "Rudolf Rassendyll belonged to:",
+              "options": ["Germany", "England", "France", "Ruritania"],
+              "correct_answer": "England"
+            },
+            {
+              "number": "xi",
+              "question": "After the fall of the Roman Empire, the leadership in power and culture passed to the:",
+              "options": ["West", "Germans", "East", "Chinese"],
+              "correct_answer": "East"
+            },
+            {
+              "number": "xii",
+              "question": "Mrs. Jones works at the house of:",
+              "options": ["Mr. Marlowe", "Mr. Barthwick", "Mr. Snow", "Mr. Livens"],
+              "correct_answer": "Mr. Barthwick"
+            },
+            {
+              "number": "xiii",
+              "question": "The poem 'Say not the Struggle Naught Availeth' is about:",
+              "options": ["Fruits of struggle", "struggle for honour", "Pessimism about struggle", "not to surrender"],
+              "correct_answer": "Fruits of struggle"
+            },
+            {
+              "number": "xiv",
+              "question": "The man who becomes 'The Prisoner of Zenda'",
+              "options": ["Rupert of Hentzau", "Rudolf Rassendyll", "Madame de Mauban", "King Rudolf Elphberg"],
+              "correct_answer": "King Rudolf Elphberg"
+            },
+            {
+              "number": "xv",
+              "question": "The word 'shank' refers to:",
+              "options": ["hand", "leg", "heel", "toe"],
+              "correct_answer": "leg"
+            },
+            {
+              "number": "xvi",
+              "question": "Alexander Pope calls it the great teacher:",
+              "options": ["hope", "nature", "blindness", "death"],
+              "correct_answer": "death"
+            },
+            {
+              "number": "xvii",
+              "question": "Madam de Mauban wrote a letter to Princess Flavia to warn her against:",
+              "options": ["Black Michael", "Rassendyll", "Rupert", "Bersonin"],
+              "correct_answer": "Black Michael"
+            },
+            {
+              "number": "xviii",
+              "question": "Ulysses is a hero of:",
+              "options": ["Asian literature", "Greek mythology", "Chinese mythology", "Hindu mythology"],
+              "correct_answer": "Greek mythology"
+            },
+            {
+              "number": "xix",
+              "question": "Rupert killed this character",
+              "options": ["Michael", "The King", "Rassendyll", "Sapt"],
+              "correct_answer": "Michael"
+            },
+            {
+              "number": "xx",
+              "question": "According to Anthony Hope, Ruritania is situated in this continent:",
+              "options": ["Asia", "Africa", "Europe", "Australia"],
+              "correct_answer": "Europe"
+            }
+          ]
+        },
+        "B": {
+          "title": "Short Answer Questions",
+          "marks": 40,
+          "instructions": "Attempt Ten part-questions from this section, selecting at least Two part questions from each sub-section. All questions carry equal marks.",
+          "subsections": {
+            "I": {
+              "title": "Intermediate English Book II",
+              "questions": [
+                {
+                  "number": "i",
+                  "question": "Why was Mrs. Oakentubb trying to hide her identity from the man?"
+                },
+                {
+                  "number": "ii",
+                  "question": "How has Oscar Wilde portrayed the character of Little Hans?"
+                },
+                {
+                  "number": "iii",
+                  "question": "What initial problems were faced by Pakistan in its early years as mentioned by Liaquat Ali Khan in his speech?"
+                },
+                {
+                  "number": "iv",
+                  "question": "What is Einstein's idea of human freedom?"
+                }
+              ]
+            },
+            "II": {
+              "title": "Selections From English Verse: Part-II",
+              "questions": [
+                {
+                  "number": "v",
+                  "question": "Describe the last scene of man's life in the poem, 'The Seven Ages of Man'."
+                },
+                {
+                  "number": "vi",
+                  "question": "What does Thomas Campion's upright man think about worldly life?"
+                },
+                {
+                  "number": "vii",
+                  "question": "How does Ulysses motivate his fellow mariners to set out in search of a newer world?"
+                },
+                {
+                  "number": "viii",
+                  "question": "Why does G. Allana feel that he has become a different man as compared to that of his early life?"
+                }
+              ]
+            },
+            "III": {
+              "title": "The Prisoner of Zenda",
+              "questions": [
+                {
+                  "number": "ix",
+                  "question": "Give description of the loyalty and wisdom of Colonel Sapt."
+                },
+                {
+                  "number": "x",
+                  "question": "Why was Black Michael not eligible to become the king of Ruritania?"
+                },
+                {
+                  "number": "xi",
+                  "question": "How does Rassendyll behave as the king when he takes part in the procession before the coronation?"
+                },
+                {
+                  "number": "xii",
+                  "question": "Why did lady De Mauban extend support to Rudolf Rassendyll?"
+                }
+              ]
+            },
+            "IV": {
+              "title": "Grammar",
+              "questions": [
+                {
+                  "number": "xiii",
+                  "question": "Use any Two of the following pair of words in your sentences: brake, break; prey, pray; merry, marry; knight, night; whole, hole; sea, see."
+                },
+                {
+                  "number": "xiv",
+                  "question": "Use any Two of the following phrasal verbs in your sentences: look forward to, wind up, pass away, turn down, make out"
+                },
+                {
+                  "number": "xv",
+                  "question": "Match any Four of the following words of column 'A' with the meanings in column 'B'"
+                }
+              ]
+            }
+          }
+        },
+        "C": {
+          "title": "Detailed Answer Questions",
+          "marks": 40,
+          "instructions": "Answer all questions from this section. All questions carry equal marks.",
+          "questions": [
+            {
+              "number": "3",
+              "question": "Write a character sketch of Rudolf Rassendyll. OR Give the critical analysis of the poem, 'The Solitary Reaper'."
+            },
+            {
+              "number": "4",
+              "question": "Write an essay on any one of the following topics: (i) Technology - Pros and Cons (ii) Why I like Reading Books (iii) Importance of Tree Plantation (iv) Effects of Media on Society"
+            },
+            {
+              "number": "5",
+              "question": "Change the narration of the given sentences."
+            },
+            {
+              "number": "6",
+              "question": "Read the following passage and answer the questions given below."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

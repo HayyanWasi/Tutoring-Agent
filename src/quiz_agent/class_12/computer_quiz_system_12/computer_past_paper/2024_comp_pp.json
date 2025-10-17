@@ -1,0 +1,203 @@
+{
+  "examination": {
+    "subject": "COMPUTER SCIENCE",
+    "year": 2024,
+    "group": "Science General Group",
+    "option": "Programming using 'C'",
+    "duration": "3 Hours",
+    "total_marks": 75,
+    "sections": [
+      {
+        "section_name": "SECTION 'A' (Multiple Choice Questions)",
+        "total_marks": 15,
+        "instructions": "Choose the correct answer for each from the given options:",
+        "questions": [
+          {
+            "id": "i",
+            "question": "This is valid C expression:",
+            "options": ["int num = 100;", "int num = ab 10;", "int my num = 100;", "Int num = 100;"],
+            "correct_answer": "int num = 100;"
+          },
+          {
+            "id": "ii",
+            "question": "In the context of while loop and do while loop in C, this is not true:",
+            "options": ["Both the loops are repetitive", "both will be executed at least one", "both loop has multiple executed", "both loop as unexpected conditions"],
+            "correct_answer": "both will be executed at least one"
+          },
+          {
+            "id": "iii",
+            "question": "The full form of IDE is:",
+            "options": ["integrated design environment", "integrated development environment", "internal design environment", "interconnected design environment"],
+            "correct_answer": "integrated development environment"
+          },
+          {
+            "id": "iv",
+            "question": "This format specifies it used for integer data type:",
+            "options": ["% f", "% c", "% d", "% If"],
+            "correct_answer": "% d"
+          },
+          {
+            "id": "v",
+            "question": "Collection of related files is called:",
+            "options": ["Files", "Database", "Records", "Reports"],
+            "correct_answer": "Database"
+          },
+          {
+            "id": "vi",
+            "question": "This is a primary object in Ms-Access:",
+            "options": ["Table", "Form", "Query", "Report"],
+            "correct_answer": "Table"
+          },
+          {
+            "id": "vii",
+            "question": "One-to-many refers to:",
+            "options": ["Cardinality", "Constraint", "Join", "Union"],
+            "correct_answer": "Cardinality"
+          },
+          {
+            "id": "viii",
+            "question": "An object whose value can be changed during the program execution is called:",
+            "options": ["Symbol", "Variable", "Constant", "Operator"],
+            "correct_answer": "Variable"
+          },
+          {
+            "id": "ix",
+            "question": "A pictorial representation of program logic is called:",
+            "options": ["Flow chart", "Procedure", "Source code", "Algorithm"],
+            "correct_answer": "Flow chart"
+          },
+          {
+            "id": "x",
+            "question": "Loop within the loop is called:",
+            "options": ["Nested loop", "Infinite loop", "Inner loop", "Outer loop"],
+            "correct_answer": "Nested loop"
+          },
+          {
+            "id": "xi",
+            "question": "The C pre-processors directives specified with this symbol:",
+            "options": ["#", "%", "$", "&"],
+            "correct_answer": "#"
+          },
+          {
+            "id": "xii",
+            "question": "Every C program must contains:",
+            "options": ["Atleast one function", "No function", "No value from command line", "multiple functions"],
+            "correct_answer": "Atleast one function"
+          },
+          {
+            "id": "xiii",
+            "question": "In database, columns are called:",
+            "options": ["Topics", "Field", "Keys", "Files"],
+            "correct_answer": "Field"
+          },
+          {
+            "id": "xiv",
+            "question": "scan() is predefined function in this header file:",
+            "options": ["stdlib.h", "stype.h", "stdio.h", "stdrag.h"],
+            "correct_answer": "stdio.h"
+          },
+          {
+            "id": "xv",
+            "question": "The format specifier % f is used for:",
+            "options": ["int", "char", "float", "double"],
+            "correct_answer": "float"
+          }
+        ]
+      },
+      {
+        "section_name": "SECTION 'B' (Short Answer Question)",
+        "total_marks": 30,
+        "instructions": "Attempt any TEN part questions in all. All part questions carry equal marks. Answer should not exceed 6 to 7 lines",
+        "questions": [
+          {
+            "id": "2i",
+            "question": "What is meaning of two void in any function declaration? i.e void ABC(void);"
+          },
+          {
+            "id": "2ii",
+            "question": "Differentiate between any one. a) Source Code and Object Code b) Variable and Local Variable"
+          },
+          {
+            "id": "2iii",
+            "question": "What are pre-processor directives in C language? Name any two:"
+          },
+          {
+            "id": "2iv",
+            "question": "Write a program to display the following output: 6 12 18 7 14 21 8 16 24"
+          },
+          {
+            "id": "2v",
+            "question": "What will be the output of the C code: main(){ int a = 11; while(a<=20){ printf('%d\\n',a); a += 2;}}"
+          },
+          {
+            "id": "2vi",
+            "question": "Convert the following mathematical expression into C expression: a.Y = (x + y) - (a² + b³) b. c = √(x + y + z) c.P = (a² + b²)/(a - b)²"
+          },
+          {
+            "id": "2vii",
+            "question": "Define any two input and output functions in C."
+          },
+          {
+            "id": "2viii",
+            "question": "Differentiate between while loop and do while loop."
+          },
+          {
+            "id": "2ix",
+            "question": "What is the purpose of the main(function in any C program?"
+          },
+          {
+            "id": "2x",
+            "question": "What is the function of 'break' statement in C?"
+          },
+          {
+            "id": "2xi",
+            "question": "What is a DBMS?"
+          },
+          {
+            "id": "2xii",
+            "question": "Define primary key and foreign key."
+          },
+          {
+            "id": "2xiii",
+            "question": "Write the full form of any three of the following acronyms: * DML * DDL * SQL * IDE * RDBMS"
+          },
+          {
+            "id": "2xiv",
+            "question": "Write a program in C to check weather the entered number is even or odd:"
+          },
+          {
+            "id": "2xv",
+            "question": "What is the role of DBA in DBMS?"
+          }
+        ]
+      },
+      {
+        "section_name": "SECTION 'C' (Detailed -Answer Question)",
+        "total_marks": 30,
+        "instructions": "Attempt any THREE question from this section. All questions carry equal marks.",
+        "questions": [
+          {
+            "id": 3,
+            "question": "What is user-defined function? How is it differ from library function? Write any two with examples."
+          },
+          {
+            "id": 4,
+            "question": "What is relationship in database? Define three types of relationships in database with examples."
+          },
+          {
+            "id": 5,
+            "question": "Explain various types of database models."
+          },
+          {
+            "id": 6,
+            "question": "What is control structure? Explain selection control structure."
+          },
+          {
+            "id": 7,
+            "question": "Explain all the data types in C language."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "subject": "ZOOLOGY",
+  "year": 2024,
+  "groups": "Science Pre-Medical Groups",
+  "time": "2 Hours",
+  "total_marks": 40,
+  "sections": {
+    "A": {
+      "title": "Multiple Choice Questions",
+      "marks": 8,
+      "instructions": "i) This section consists of 16 part questions and all are to be answered. Each part question carries ½ mark.\nii) Do not copy the part questions in your answer book. Write only the answer in full against the proper number of the question and its part.",
+      "questions": [
+        {
+          "number": "i",
+          "question": "The simplest amino acid is:",
+          "options": ["Alanine", "Serine", "Glycine", "Valine"],
+          "correct_answer": "Glycine"
+        },
+        {
+          "number": "ii",
+          "question": "This organelle of cell contains information of protein synthesis:",
+          "options": ["Nucleus", "Mitochondria", "Chloroplast", "Cell Membrane"],
+          "correct_answer": "Nucleus"
+        },
+        {
+          "number": "iii",
+          "question": "Chondrichthyes (cartilaginous fish) are characterized by:",
+          "options": ["Terminal Mouth", "Placoid Scales", "Ctenoid scales and ventral mouth", "Ventricular Systol"],
+          "correct_answer": "Placoid Scales"
+        },
+        {
+          "number": "iv",
+          "question": "In ECG the T-waves represent:",
+          "options": ["Atrial Diastole", "Atrial Systol", "Ventricular Diastole", "Ventricular Systol"],
+          "correct_answer": "Ventricular Diastole"
+        },
+        {
+          "number": "v",
+          "question": "This molecule binds to the active site of an enzyme:",
+          "options": ["Allosteric Activator", "Allosteric Inhibitor", "Competitive Inhibitor", "Non-Competitive Inhibitor"],
+          "correct_answer": "Competitive Inhibitor"
+        },
+        {
+          "number": "vi",
+          "question": "This organ functions as an air conditioner:",
+          "options": ["Larynx", "Pharynx", "Nasal Chambers", "Trachea"],
+          "correct_answer": "Nasal Chambers"
+        },
+        {
+          "number": "vii",
+          "question": "The human enzymes are highly active at this temperature:",
+          "options": ["37°C", "37°F", "39°C", "39°F"],
+          "correct_answer": "37°C"
+        },
+        {
+          "number": "viii",
+          "question": "Lungs volume is measured by this special device:",
+          "options": ["Thermometer", "Spirometer", "Glucometer", "Sphygmomanometer"],
+          "correct_answer": "Spirometer"
+        },
+        {
+          "number": "ix",
+          "question": "All these animals belong to Phylum Cnidaria except:",
+          "options": ["Hydra", "Physalia", "Sea Anemone", "Sea Urchin"],
+          "correct_answer": "Sea Urchin"
+        },
+        {
+          "number": "x",
+          "question": "Pulmonary veins supply blood to the:",
+          "options": ["Left Atrium", "Right Atrium", "Left Ventricle", "Right Ventricle"],
+          "correct_answer": "Left Atrium"
+        },
+        {
+          "number": "xi",
+          "question": "It is not involved in antigen presentation:",
+          "options": ["Macrophages", "Dendritic Cells", "Neutrophils", "Monocytes"],
+          "correct_answer": "Neutrophils"
+        },
+        {
+          "number": "xii",
+          "question": "Deoxygenated blood to carried to the lungs by:",
+          "options": ["Coronary Artery", "Renal Artery", "Pulmonary Artery", "Carotid Artery"],
+          "correct_answer": "Pulmonary Artery"
+        },
+        {
+          "number": "xiii",
+          "question": "The study of functioning and disorders of immune system is termed as:",
+          "options": ["Parasitology", "Ophthalmology", "Immunology", "Dermatology"],
+          "correct_answer": "Immunology"
+        },
+        {
+          "number": "xiv",
+          "question": "Number of milk teeth in human is:",
+          "options": ["10", "15", "20", "25"],
+          "correct_answer": "20"
+        },
+        {
+          "number": "xv",
+          "question": "Partial negative charge and partial positive charge of water molecules attract to each other due to:",
+          "options": ["Hydrogen Bond", "Covalent Bond", "Ionic Bond", "Peptide Bond"],
+          "correct_answer": "Hydrogen Bond"
+        },
+        {
+          "number": "xvi",
+          "question": "Animals with dry scaly skin, egg with amniotic coat and three chambered heart are found in this class:",
+          "options": ["Amphibia", "Aves", "Reptilia", "Mammalia"],
+          "correct_answer": "Reptilia"
+        }
+      ]
+    },
+    "B": {
+      "title": "Short Answer Questions",
+      "marks": 16,
+      "instructions": "Attempt any EIGHT part questions in all. Select FOUR Reasoning Questions and FOUR Non-Reasoning Questions. All part questions carry equal marks.",
+      "subsections": {
+        "reasoning_questions": {
+          "title": "REASONING QUESTIONS",
+          "questions": [
+            {
+              "number": "i",
+              "question": "How does Bile help in digestion of fats?"
+            },
+            {
+              "number": "ii",
+              "question": "Why are water molecules called amphoteric in nature?"
+            },
+            {
+              "number": "iii",
+              "question": "Why are enzymes temperature sensitive?"
+            },
+            {
+              "number": "iv",
+              "question": "Artificial sweetener is not harmful to diabetic patient. Why?"
+            },
+            {
+              "number": "v",
+              "question": "Why in Antipyretic therapy used?"
+            },
+            {
+              "number": "vi",
+              "question": "Why is S.A. Node called pacemaker of the heart?"
+            },
+            {
+              "number": "vii",
+              "question": "Why is haemoglobin called as respiratory pigment?"
+            },
+            {
+              "number": "viii",
+              "question": "How is stomach protected from HCl?"
+            }
+          ]
+        },
+        "non_reasoning_questions": {
+          "title": "NON-REASONING QUESTIONS",
+          "questions": [
+            {
+              "number": "ix",
+              "question": "Mention the role of arteriole in vasodilation and vasoconstriction."
+            },
+            {
+              "number": "x",
+              "question": "List the four basic characteristics of Chordates."
+            },
+            {
+              "number": "xi",
+              "question": "Differentiate between Polyp and Medusa."
+            },
+            {
+              "number": "xii",
+              "question": "Write four characteristics of enzymes."
+            },
+            {
+              "number": "xiii",
+              "question": "Define Sinuses and write their types."
+            },
+            {
+              "number": "xiv",
+              "question": "Write note on Subclass Ratitae and Carinatae."
+            },
+            {
+              "number": "xv",
+              "question": "Define Diploblastic and Triploblastic animals with examples."
+            },
+            {
+              "number": "xvi",
+              "question": "Differentiate between single and double circuit circulation with examples."
+            }
+          ]
+        }
+      }
+    },
+    "C": {
+      "title": "Detailed Answer Questions",
+      "marks": 16,
+      "instructions": "Attempt any TWO question from this section. All questions carry equal marks.",
+      "questions": [
+        {
+          "number": "3",
+          "options": [
+            {
+              "type": "explanation",
+              "question": "Explain lower respiratory tract diseases."
+            },
+            {
+              "type": "definition_and_classification",
+              "question": "Define Lipids or Carbohydrates. Write their classifications and functions with examples."
+            }
+          ]
+        },
+        {
+          "number": "4",
+          "options": [
+            {
+              "type": "characteristics",
+              "question": "Write the general characteristics, evolutionary adaptations and economic importance of Phylum Annelida"
+            },
+            {
+              "type": "characteristics",
+              "question": "Write the general characteristics, evolutionary adaptations and economic importance of Phylum Arthropoda"
+            }
+          ]
+        },
+        {
+          "number": "5",
+          "options": [
+            {
+              "type": "explanation",
+              "question": "Explain first line of defense with reference of Digestive Tracts and Respiratory Tracts."
+            },
+            {
+              "type": "description",
+              "question": "Describe Thrombus, Atherosclerosis and Angina Pectoris. Explain coronary bypass and Angioplasty."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

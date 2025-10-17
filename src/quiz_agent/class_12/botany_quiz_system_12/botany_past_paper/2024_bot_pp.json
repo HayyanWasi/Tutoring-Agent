@@ -1,0 +1,301 @@
+{
+  "exam": {
+    "subject": "BOTANY",
+    "year": 2024,
+    "group": "Science Pre-Medical Groups",
+    "time": "2 Hours",
+    "total_marks": 45,
+    "sections": [
+      {
+        "section_name": "SECTION A",
+        "description": "Multiple Choice Questions",
+        "marks": 9,
+        "notes": [
+          "This section consists of 18 part questions and all are to be answered. Each question carries ½ mark.",
+          "Do not copy the part questions in your answerbook. Write only the answer in full against the proper number of the question and its part."
+        ],
+        "questions": [
+          {
+            "number": "i",
+            "question": "These organelles contain DNA.",
+            "options": [
+              "Golgi bodies and Lysosome",
+              "Mitochondria and Chloroplast",
+              "Cell wall and Cell membrane",
+              "Peroxisome and Glyoxysome"
+            ]
+          },
+          {
+            "number": "ii",
+            "question": "These cell organelles take part in detoxification of alcohol:",
+            "options": [
+              "Chloroplast",
+              "Golgi bodies",
+              "Peroxisome",
+              "Mitochondria"
+            ]
+          },
+          {
+            "number": "iii",
+            "question": "During photosynthesis, light gathering part of chlorophyll is called:",
+            "options": [
+              "Antenna Complex",
+              "Retina Complex",
+              "Spectrum",
+              "Photon"
+            ]
+          },
+          {
+            "number": "iv",
+            "question": "The most common C₄ plants are:",
+            "options": [
+              "Potato",
+              "Sugarcane",
+              "Cactus",
+              "Wheat"
+            ]
+          },
+          {
+            "number": "v",
+            "question": "RUBISCO function as carboxylase as well as:",
+            "options": [
+              "Oxido-reductase",
+              "Hydrolase",
+              "Oxygenase",
+              "Ligase"
+            ]
+          },
+          {
+            "number": "vi",
+            "question": "The gametophyte of fern is called:",
+            "options": [
+              "Archegonium",
+              "Antheridium",
+              "Cones",
+              "Prosthallus"
+            ]
+          },
+          {
+            "number": "vii",
+            "question": "Aedes mosquito is the vector of:",
+            "options": [
+              "Dengue Virus",
+              "Ebola Virus",
+              "Hepatitis Virus",
+              "Measles Virus"
+            ]
+          },
+          {
+            "number": "viii",
+            "question": "Fungus Phytophthora causes this disease:",
+            "options": [
+              "late blight of potato",
+              "late blight of tomato",
+              "early blight of potato",
+              "early blight of tomato"
+            ]
+          },
+          {
+            "number": "ix",
+            "question": "Prokaryotes evolved from the ancestors:",
+            "options": [
+              "Virion",
+              "Eukaryote",
+              "RNA",
+              "Protobionts"
+            ]
+          },
+          {
+            "number": "x",
+            "question": "The most important cellulose degraders in ecosystem are:",
+            "options": [
+              "Basidiomycota",
+              "Ascomycota",
+              "Zygomycota",
+              "Deutromycota"
+            ]
+          },
+          {
+            "number": "xi",
+            "question": "The type of alternation of generation in Ulva is:",
+            "options": [
+              "Heterotrophic",
+              "Heteromorphic",
+              "Isomorphic",
+              "Autotrophic"
+            ]
+          },
+          {
+            "number": "xii",
+            "question": "Spores of land plants tough, flexible and resistant to biodegradation are due to:",
+            "options": [
+              "Chitin",
+              "Waxes",
+              "Sporopollenin",
+              "Pectin"
+            ]
+          },
+          {
+            "number": "xiii",
+            "question": "Legumes belongs to this family:",
+            "options": [
+              "Solanaceae",
+              "Fabaceae",
+              "Cucurbitaceae",
+              "Brassicaceae"
+            ]
+          },
+          {
+            "number": "xiv",
+            "question": "Double fertilization is the characteristics of:",
+            "options": [
+              "Bryophyta",
+              "Gymnosperm",
+              "Angiosperm",
+              "Pteridophyta"
+            ]
+          },
+          {
+            "number": "xv",
+            "question": "Insectivorous plants live in soil deficient in:",
+            "options": [
+              "Nitrogen",
+              "Calcium",
+              "Magnesium",
+              "Potassium"
+            ]
+          },
+          {
+            "number": "xvi",
+            "question": "The water potential of pure water is:",
+            "options": [
+              "-10",
+              "zero",
+              "10",
+              "100"
+            ]
+          },
+          {
+            "number": "xvii",
+            "question": "The growth of pollen tube through style to the ovary is this type of movement:",
+            "options": [
+              "Geotropism",
+              "Chemotropism",
+              "Hydrotropism",
+              "Phototropism"
+            ]
+          },
+          {
+            "number": "xviii",
+            "question": "Guttation occurs through:",
+            "options": [
+              "Lenticels",
+              "Hydathodes",
+              "Stomata",
+              "Bark"
+            ]
+          }
+        ]
+      },
+      {
+        "section_name": "SECTION B",
+        "description": "Short Answer Question",
+        "marks": 18,
+        "instruction": "Answer any NINE part questions. All part question carries equal marks.",
+        "questions": [
+          {
+            "number": "i",
+            "question": "Why Lysosome is called suicidal sac?"
+          },
+          {
+            "number": "ii",
+            "question": "Why are chloroplast and mitochondria considered as semiautonomous organelles?"
+          },
+          {
+            "number": "iii",
+            "question": "Write a note on any one of the following:",
+            "subparts": [
+              "CAM Plants",
+              "C₄ Plants"
+            ]
+          },
+          {
+            "number": "iv",
+            "question": "Why photorespiration considered as wasteful process?"
+          },
+          {
+            "number": "v",
+            "question": "What are the symptoms of AIDS?"
+          },
+          {
+            "number": "vi",
+            "question": "What are the various methods of control harmful bacteria?"
+          },
+          {
+            "number": "vii",
+            "question": "Differentiate between Gram positive and Gram negative bacteria."
+          },
+          {
+            "number": "viii",
+            "question": "How prokaryotes are different from eukaryotes?"
+          },
+          {
+            "number": "ix",
+            "question": "What features allow fungi to survive in all environments?"
+          },
+          {
+            "number": "x",
+            "question": "Give botanical names of any two of the following:",
+            "subparts": [
+              "Tulsi",
+              "Amaltas",
+              "Mulethi",
+              "Mako"
+            ]
+          },
+          {
+            "number": "xi",
+            "question": "Write three steps in evolution of seed."
+          },
+          {
+            "number": "xii",
+            "question": "Why cold treatment is necessary for germination of seed in some plants?"
+          },
+          {
+            "number": "xiii",
+            "question": "Differentiate between Monocotyledon and Dicotyledon."
+          },
+          {
+            "number": "xiv",
+            "question": "Define Cymose Inflorescence."
+          }
+        ]
+      },
+      {
+        "section_name": "SECTION C",
+        "description": "Detailed-Answer Question",
+        "marks": 18,
+        "note": "Attempt any TWO question from this section. All questions carry equal marks.",
+        "questions": [
+          {
+            "number": "3",
+            "question": "Describe the life cycle of fern OR Flowering plants."
+          },
+          {
+            "number": "4",
+            "question": "Describe Cyclic and Non-cyclic phosphorylation during light reaction.",
+            "alternative": "OR Explain the structure and composition of Cell Wall."
+          },
+          {
+            "number": "5",
+            "question": "Define Ascent of Sap. Describe the cohesion and tension theory of water movement through xylem."
+          },
+          {
+            "number": "6",
+            "question": "What are Bacteria? Describe the structure of bacteria with the help of labelled diagram."
+          }
+        ]
+      }
+    ]
+  }
+}

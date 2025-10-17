@@ -1,0 +1,265 @@
+{
+  "exam": {
+    "subject": "CHEMISTRY",
+    "year": 2019,
+    "time": "2 Hours 40 Minutes",
+    "total_marks": 68,
+    "sections": [
+      {
+        "section_name": "SECTION B",
+        "description": "SHORT-ANSWER QUESTIONS",
+        "marks": 40,
+        "note": "Answer 10 questions in all. Select five part question from Inorganic Chemistry and five part questions from Organic Chemistry",
+        "subsections": [
+          {
+            "name": "INORGANIC CHEMISTRY",
+            "questions": [
+              {
+                "number": "2(i)",
+                "parts": [
+                  {
+                    "subpart": "(a)",
+                    "instruction": "State the following laws:",
+                    "items": [
+                      "Dobereiner's law of Triads",
+                      "Newlands law of Octaves"
+                    ]
+                  },
+                  {
+                    "subpart": "(b)",
+                    "instruction": "Identify the group, period and block of elements having atomic no:",
+                    "items": [
+                      "Z = 36",
+                      "Z = 24"
+                    ]
+                  }
+                ]
+              },
+              {
+                "number": "2(ii)",
+                "content": "Write two methods for the separation of Hydrogen from Water gas. Give the reactions of Atomic hydrogen with the following: * Phosphorus * Cupric oxide"
+              },
+              {
+                "number": "2(iii)",
+                "content": "Refer to the list of the given table:",
+                "table": {
+                  "headers": ["Compound", "A", "B", "C", "D"],
+                  "specific_names": ["Carnalite", "Water glass", "Corundum", "Lunar Caustic"]
+                },
+                "tasks": [
+                  "Write the formulae of A and C.",
+                  "Write the equation for the preparation of B.",
+                  "Write the equation for the reaction of D to heat at 450°C.",
+                  "Give any one use of D."
+                ]
+              },
+              {
+                "number": "2(iv)",
+                "instruction": "Give scientific reasons for any four of the following:",
+                "items": [
+                  "Boric acid is weak monobasic acid.",
+                  "Alkali metals form cations easily.",
+                  "Plastic sulphur is elastic.",
+                  "Graphite conducts electricity parallel to the plane.",
+                  "Transition metals form non-stoichiometric compounds."
+                ]
+              },
+              {
+                "number": "2(v)",
+                "instruction": "Give complete and balanced equation for any Four of the following:",
+                "items": [
+                  "Saturated solution of Soda ash treated with Carbon dioxide.",
+                  "Action of superheated Water on Boron nitride.",
+                  "Reduction of Sulphuric acid with Hydrogen sulphide.",
+                  "Reaction of Sulphur dioxide with Chlorine gas.",
+                  "Blue vitriol heated to 230°C."
+                ]
+              },
+              {
+                "number": "2(vi)",
+                "instruction": "Write the I.U.P.A.C. names of the following complexes:",
+                "complexes": [
+                  "[Co(en)3](NO3)3",
+                  "[Cu(NH3)4]2+",
+                  "[Au Cl4]-1",
+                  "Na3[Fe(CN)6NO]"
+                ]
+              },
+              {
+                "number": "2(vii)",
+                "content": "Describe the refining of Copper by electrolysis of blister copper."
+              },
+              {
+                "number": "2(viii)",
+                "content": "Write about the manufacturing of Chlorine gas by Nelson cell."
+              }
+            ]
+          },
+          {
+            "name": "ORGANIC CHEMISTRY",
+            "questions": [
+              {
+                "number": "2(ix)",
+                "instruction": "Define the following:",
+                "terms": [
+                  "Homologous series",
+                  "Metamerism",
+                  "Peptide bond",
+                  "Randdiffcation"
+                ]
+              },
+              {
+                "number": "2(x)",
+                "content": "Write the classification of Organic compounds with examples."
+              },
+              {
+                "number": "2(xi)",
+                "content": "Define Free radical. Give stepwise mechanism for the chlorination of Methane:"
+              },
+              {
+                "number": "2(xii)",
+                "content": "Draw the orbital structure of Ethylene and give equations for the formation of the following from Ethene: * Mustard gas * Glycol"
+              },
+              {
+                "number": "2(xiii)",
+                "content": "Why does Benzene give electrophilic substitution reactions? Give stepwise mechanism of nitration and chlorination in Benzene."
+              },
+              {
+                "number": "2(xiv)",
+                "instruction": "Write the I.U.P.A.C. names for any four of the following:",
+                "compounds": [
+                  "CH3-CH(OH)-CH=CH2",
+                  "CH3-CH2-CH(OH)-CH2-COOH",
+                  "C2H5-CH2-C(O)-OCH(CH3)2",
+                  "C2H5-O-CH2-C(CH3)3",
+                  "NO2"
+                ]
+              },
+              {
+                "number": "2(xv)",
+                "content": "What is organometallic compound? How is it prepared? Starting from CH3MgI, prepare the following: * Ethane * Ethanoic acid * Ter-butyl alcohol"
+              },
+              {
+                "number": "2(xvi)",
+                "instruction": "Write equations for the preparation of any four of the following compounds:",
+                "items": [
+                  "Oxime from Formaldehyde",
+                  "Phenol from Chlorobenzene",
+                  "Diethyl ether from Chloroethane",
+                  "Acetic anhydride from Sodium ethanoate",
+                  "Red solid from Acetylene"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_name": "SECTION C",
+        "description": "DETAILED-ANSWER QUESTIONS",
+        "marks": 28,
+        "note": "Attempt any two questions – One from Inorganic Chemistry and one from Organic Chemistry",
+        "subsections": [
+          {
+            "name": "INORGANIC CHEMISTRY",
+            "questions": [
+              {
+                "number": "3",
+                "parts": [
+                  {
+                    "subpart": "(a)",
+                    "content": "Describe the extraction of 99.99% pure Aluminium from Bauxite ore containing excess of Ferric oxide."
+                  },
+                  {
+                    "subpart": "(b)",
+                    "instruction": "Complete and balance the following equations:",
+                    "equations": [
+                      "Cu + H2SO4 ______ →",
+                      "K2MnO4 + Cl2 →",
+                      "HCOOH + H2SO4 ______ →",
+                      "K2Cr2O7 + KOH →",
+                      "CuFeS2 + O2 →"
+                    ]
+                  },
+                  {
+                    "subpart": "(c)",
+                    "content": "Write the types of elements in the periodic table based on electronic configuration."
+                  }
+                ]
+              },
+              {
+                "number": "4",
+                "parts": [
+                  {
+                    "subpart": "(a)",
+                    "content": "Describe the manufacture of Caustic soda by Castner-Kellner process. (Diagram is not needed). Write the advantages and disadvantages of the process."
+                  },
+                  {
+                    "subpart": "(b)",
+                    "content": "What is meant by Binary compounds of Hydrogen? Give their classification and discuss the preparation and properties of salt-like hydrides."
+                  },
+                  {
+                    "subpart": "(c)",
+                    "instruction": "Write notes on any two of the following:",
+                    "items": [
+                      "Borax Photography",
+                      "Bleaching powder",
+                      "Silvering of mirror"
+                    ]
+                  },
+                  {
+                    "subpart": "OR",
+                    "content": "Describe Ostwald's method for the manufacture of Nitric acid by the oxidation of Ammonia."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "ORGANIC CHEMISTRY",
+            "questions": [
+              {
+                "number": "5",
+                "parts": [
+                  {
+                    "subpart": "(a)",
+                    "content": "Explain Molecular Orbital treatment of Benzene."
+                  },
+                  {
+                    "subpart": "(b)",
+                    "instruction": "Draw the molecular structures of any 5 of the following:",
+                    "compounds": [
+                      "Catechol",
+                      "Adipic acid",
+                      "Nicotinamide",
+                      "Picric acid",
+                      "Isobutyraldehyde",
+                      "Terephthalic acid"
+                    ]
+                  },
+                  {
+                    "subpart": "(c)",
+                    "content": "Define Amino acids. How are they classified? Explain the rule of Amino acids in the human body."
+                  }
+                ]
+              },
+              {
+                "number": "6",
+                "parts": [
+                  {
+                    "subpart": "(a)",
+                    "content": "What are Nucleophilic substitution reactions? Explain the reaction mechanism of SN2 and SN1 with examples."
+                  },
+                  {
+                    "subpart": "(b)",
+                    "content": "Complete any five of the following reaction:"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

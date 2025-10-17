@@ -1,0 +1,222 @@
+{
+  "subject": "MATHEMATICS",
+  "year": 2024,
+  "group": "Science Pre-Engineering",
+  "time": "3 Hours",
+  "total_marks": 100,
+  "sections": {
+    "A": {
+      "title": "Multiple Choice Questions",
+      "marks": 40,
+      "instructions": "This section consists of 20 part questions and all are to be answered. Each part question carries one mark. Do not copy the part questions in your answer script. Write only the answer in full against the proper number of the question and its part.",
+      "questions": [
+        {
+          "number": "i",
+          "question": "Multiplicative inverse of (-3, 4) is:",
+          "options": ["(3/25, 4/25)", "(3/25, -4/25)", "(-3/25, -4/25)", "(1, 0)"]
+        },
+        {
+          "number": "ii",
+          "question": "Real part of (2+i)/i is:",
+          "options": ["-1", "1", "1/2", "2"]
+        },
+        {
+          "number": "iii",
+          "question": "A square matrix A is skew-symmetric if:",
+          "options": ["Aᵗ = A", "(Ā)ᵗ = A", "Aᵗ = -A", "Aᵗ = |A|"]
+        },
+        {
+          "number": "iv",
+          "question": "If A = [-7], then |A| =:",
+          "options": ["4", "3", "7", "-7"]
+        },
+        {
+          "number": "v",
+          "question": "The number of non-zero rows in echelon form of matrix is called:",
+          "options": ["Order of matrix", "Leading rows", "Leading columns", "Rank of a matrix"]
+        },
+        {
+          "number": "vi",
+          "question": "If three vectors a, b and c are coplanar, then [a b c] =:",
+          "options": ["0", "a", "b", "c"]
+        },
+        {
+          "number": "vii",
+          "question": "k × j =:",
+          "options": ["i", "-i", "j", "-j"]
+        },
+        {
+          "number": "viii",
+          "question": "No term in G.P is:",
+          "options": ["1", "-1", "0", "i"]
+        },
+        {
+          "number": "ix",
+          "question": "If a = 3, d = 7 and aₙ = 59 then n is equal to:",
+          "options": ["2", "4", "9", "11"]
+        },
+        {
+          "number": "x",
+          "question": "∑n is equal to:",
+          "options": ["n(n+1)(2n+1)/6", "n(n+1)/2", "[n(n+1)/2]²", "n(n+1)/4"]
+        },
+        {
+          "number": "xi",
+          "question": "If n = r, then ⁿPᵣ =:",
+          "options": ["(n-r)!", "1", "0", "n!"]
+        },
+        {
+          "number": "xii",
+          "question": "1 - x + x² - x³ + ... =:",
+          "options": ["(1-x)⁻¹", "(1+x)⁻¹", "(1+x)⁻²", "(1-x)⁻²"]
+        },
+        {
+          "number": "xiii",
+          "question": "One to one function is called:",
+          "options": ["Inverse function", "Surjective function", "Bijective function", "Injective function"]
+        },
+        {
+          "number": "xiv",
+          "question": "A function f(x) = |x| - x² is a/an:",
+          "options": ["odd", "Even", "Linear", "Circular"]
+        },
+        {
+          "number": "xv",
+          "question": "(sin(θ/2) - cos(θ/2))² =:",
+          "options": ["1 - cosθ", "1 + cosθ", "1 + sinθ", "1 - sinθ"]
+        },
+        {
+          "number": "xvi",
+          "question": "If f(x) = 2x + 5, then find f(2):",
+          "options": ["12", "11", "10", "9"]
+        },
+        {
+          "number": "xvii",
+          "question": "The region of solution in L.P problem is called:",
+          "options": ["Infeasible region", "Unbounded region", "Infinite region", "Feasible region"]
+        },
+        {
+          "number": "xviii",
+          "question": "In any triangle ABC, Area of triangle is:",
+          "options": ["½ ab sinγ", "ab sinγ", "½ ab sinα", "½ ab sinβ"]
+        },
+        {
+          "number": "xix",
+          "question": "The period of sin(x/2) =:",
+          "options": ["π", "2π", "3π", "4π"]
+        },
+        {
+          "number": "xx",
+          "question": "sec[sin⁻¹(-1/2)]:",
+          "options": ["1/2", "√3/2", "2/√3", "-2/√3"]
+        }
+      ]
+    },
+    "B": {
+      "title": "Short-Answer Questions",
+      "marks": 40,
+      "instructions": "Attempt any TEN part questions in all. All questions carry equal marks. (i.e. 4 marks of each part).",
+      "questions": [
+        {
+          "number": "i",
+          "question": "Solve the following complex equation: (x, y)(2, 3) = (-4, 7)"
+        },
+        {
+          "number": "ii",
+          "question": "If A = [[-2,1,0],[-1,4,3],[0,8,5]] then find A² - 5A + 4I"
+        },
+        {
+          "number": "iii",
+          "question": "Using properties of determinants prove that: |b+c a a; b c+a b; c c a+b| = 4abc"
+        },
+        {
+          "number": "iv",
+          "question": "Calculate the projection of b along a when a = i - 2j + 3k and b = 3i - j - 5k"
+        },
+        {
+          "number": "v",
+          "question": "Find Arithmetic, Geometric and Harmonic means between 1 and 9. Also verify that AH = G²"
+        },
+        {
+          "number": "vi",
+          "question": "Find the sum of the series 3 + 6 + 21 + 96 + 471 + ... to n terms"
+        },
+        {
+          "number": "vii",
+          "question": "How many words can be formed by 3 vowels and 4 consonants out of 5 vowels and 7 consonants? OR How many arrangements can be formed using all the letters of the word 'MATHEMATICS'?"
+        },
+        {
+          "number": "viii",
+          "question": "Using the principle of mathematical induction for every positive integer n, prove that: 1/(1.2) + 1/(2.3) + 1/(3.4) + ... + 1/[n(n+1)] = n/(n+1)"
+        },
+        {
+          "number": "ix",
+          "question": "Find the middle term in the expansion of (a/b - b/a)¹⁸ OR find the term independent of 'x' in (2x + 1/x²)⁹"
+        },
+        {
+          "number": "x",
+          "question": "Let f: R → R be the function defined by f(x) = √(x + 7), x ≥ -7, find the value of f⁻¹(x)"
+        },
+        {
+          "number": "xi",
+          "question": "If A + B + C = 180° then prove that cos((B+C)/2) = sin(A/2)"
+        },
+        {
+          "number": "xii",
+          "question": "Find the smallest angle in ΔABC when a = 25cm, b = 18cm and c = 21cm"
+        },
+        {
+          "number": "xiii",
+          "question": "Prove that 1/r₁² + 1/r₂² + 1/r₃² = (a² + b² + c²)/Δ²"
+        },
+        {
+          "number": "xiv",
+          "question": "Solve the equation cosθ - θ = 0 graphically for interval -π/2 ≤ θ ≤ π/2. OR Show that 2tan⁻¹(2/3) = cos⁻¹(5/13)"
+        },
+        {
+          "number": "xv",
+          "question": "Find the point of intersection of the following functions graphically: f(x) = x + 4 and g(x) = x² - 6x + 10"
+        }
+      ]
+    },
+    "C": {
+      "title": "Detailed Answer Questions",
+      "marks": 40,
+      "instructions": "Attempt any FIVE question from this section. All questions carry equal marks.",
+      "questions": [
+        {
+          "number": "3",
+          "question": "Solve the non-homogenous system of linear equations using Gauss Elimination method: -x + y + z = 0, x + 2y = 5, -3x + 2y - z = -2"
+        },
+        {
+          "number": "4",
+          "question": "If the 3rd term and the 7th term of a H.P are 2/9 and 2/25 respectively, find the sequence"
+        },
+        {
+          "number": "5",
+          "question": "In a three child family, find the probability of: (a) Three boys (b) Exactly two boys (c) At least one girl"
+        },
+        {
+          "number": "6",
+          "question": "Use Binomial Theorem to show: 1 + 1/4 + (1.3)/(4.6) + (1.3.5)/(4.6.8) + ... = ∛4"
+        },
+        {
+          "number": "7",
+          "question": "Find the volume of the tetrahedron whose vertices are A(2,1,8), B(3,2,9), C(2,1,4) and D(3,3,10) OR Prove Hexagon Law of vector addition"
+        },
+        {
+          "number": "8",
+          "question": "Solve the Linear programming by graphical method when x ≥ 0 and y ≥ 0 Maximize Z(x,y) = 30x + 36y subject to: 4x + 2y ≤ 12; 6x + 5y ≤ 20"
+        },
+        {
+          "number": "9",
+          "question": "Prove fundamental law cos(α-β) = cosα cosβ + sinα sinβ OR Prove that: (i) cos4θ = 8cos⁴θ - 8cos²θ + 1 (ii) (sin6θ + sin4θ)/(cos6θ + cos4θ) = tan5θ"
+        },
+        {
+          "number": "10",
+          "question": "Find the general solution set of the trigonometric equation cosecθ = √3 + cotθ and also verify the solution"
+        }
+      ]
+    }
+  }
+}

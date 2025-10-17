@@ -1,0 +1,211 @@
+{
+  "year": 2019,
+  "subject": "ENGLISH",
+  "sections": [
+    {
+      "name": "SECTION A - Multiple Choice Questions",
+      "time_allotted": "20 Minutes",
+      "instructions": "Choose the correct answer for each from the given options",
+      "questions": [
+        {
+          "number": "i",
+          "question": "Charton robbed a case full of:",
+          "options": ["dollars", "ponds", "rupees", "Gold coins"]
+        },
+        {
+          "number": "ii", 
+          "question": "This mood of northern ballad is:",
+          "options": ["tragic", "enigmatic", "cheerful", "humorous"]
+        },
+        {
+          "number": "iii",
+          "question": "'To the vile dust from whence he sprung, — Unwept, unhonoured and sung' is the fate of one who is:",
+          "options": ["unpatriotic", "hardworking", "spiritual", "patriotic"]
+        },
+        {
+          "number": "iv",
+          "question": "'This city now doth like a garment wear.' The city referred to is:",
+          "options": ["Manchester", "London", "Paris", "Normandy"]
+        },
+        {
+          "number": "v",
+          "question": "'All Paris is ringing with it' means the people of Paris are talking about it • ringing bells • singing happily • making a noise",
+          "options": ["talking about it", "ringing bells", "singing happily", "making a noise"]
+        },
+        {
+          "number": "vi",
+          "question": "A scientific work is unprejudiced which means that it is not based on:",
+          "options": ["sound judgment", "likes and dislikes", "imagination", "truth"]
+        },
+        {
+          "number": "vii",
+          "question": "'An organized butchery is a planned:",
+          "options": ["operation", "attack", "killing", "action"]
+        },
+        {
+          "number": "viii",
+          "question": "'Carols' are traditional Christmas:",
+          "options": ["dresses", "hymns", "games", "meals"]
+        },
+        {
+          "number": "ix",
+          "question": "When Eddie was killed, he was sitting in a:",
+          "options": ["trunk", "trench", "bunker", "cell"]
+        },
+        {
+          "number": "x",
+          "question": "This part of the UN's work fills us with hope:",
+          "options": ["preventing wars", "Giving loans", "fighting social evils", "translating speeches"]
+        },
+        {
+          "number": "xi",
+          "question": "The old English language is also called:",
+          "options": ["Chaucerian", "Anglo-Saxon", "Welsh", "Gaelic"]
+        },
+        {
+          "number": "xii",
+          "question": "In 'The Abbot of Canterbry', Abbot was the head of alan:",
+          "options": ["industry", "military", "judiciary", "monastery"]
+        },
+        {
+          "number": "xiii",
+          "question": "According to Henry Wotton, deepest wounds are given by:",
+          "options": ["craze", "praise", "maize", "gaze"]
+        },
+        {
+          "number": "xiv",
+          "question": "'I see the cloud on your brow' are the words spoken by:",
+          "options": ["Albert", "Norrel", "Monte Cristo", "The Countess"]
+        },
+        {
+          "number": "xv",
+          "question": "Mrs. Meldon was alan:",
+          "options": ["anxious mother", "happy mother", "experienced mother", "bereaved mother"]
+        },
+        {
+          "number": "xvi", 
+          "question": "According to Henry Corrie, women are:",
+          "options": ["fussy", "frustrated", "fabulous", "great"]
+        },
+        {
+          "number": "xvii",
+          "question": "The person who knew the true story of the castle of Cernogratz was:",
+          "options": ["The Baroness", "Amalie", "Conrad", "The Baron"]
+        },
+        {
+          "number": "xviii",
+          "question": "The duel between the Count and Albert was to be fought with:",
+          "options": ["spears", "swords", "pistols", "rifles"]
+        },
+        {
+          "number": "xix",
+          "question": "'The Count's Revenge' ends in the death of:",
+          "options": ["Monte Cristo", "Morcerf", "Albert", "The Countess"]
+        },
+        {
+          "number": "xx",
+          "question": "Professor Righi was the teacher of:",
+          "options": ["Marconi", "Newton", "Einstein", "Helsenberg"]
+        }
+      ]
+    },
+    {
+      "name": "SECTION B - Short Answer Questions",
+      "time_allotted": "2 Hours 40 Minutes",
+      "total_marks": 80,
+      "instructions": "Answer any 10 questions from this section",
+      "subsections": [
+        {
+          "name": "SUB-SECTION I (Intermediate English book-I)",
+          "questions": [
+            "Why was the UN founded?",
+            "How do scientist prove that their facts are correct?",
+            "Who was Wappi and why was it shivering?",
+            "Why was overone suspicious of Mr. King?"
+          ]
+        },
+        {
+          "name": "SUB-SECTION II (Selection From English Verse: Part I)",
+          "questions": [
+            "Why is Lucu Gray believed to be a living child even after her death?",
+            "How is the song 'Under the Greenwood Tree' relevant to the Duke's situation?",
+            "What was the name of the 'Deserted Village'? Who were its charms?",
+            "How did the boy prove his loyalty to his country in 'Incident of the French Camp'?"
+          ]
+        },
+        {
+          "name": "SUB-SECTION III (Two One Act Plays)",
+          "questions": [
+            "Describe the 'Corrie's Bomb'.",
+            "Why is Mrs. Meldon interested in the abolition of wars?",
+            "Why did the Count of Monte Cristo write his will?",
+            "'The Count of Morcerf was a real villain'. Justify the statement."
+          ]
+        },
+        {
+          "name": "SUB-SECTION IV (Grammar)",
+          "questions": [
+            {
+              "type": "error_correction",
+              "instructions": "Correct the errors / omissions of verbs, preposition and articles:",
+              "sentences": [
+                "Sarah doesn't gives me the book.",
+                "She has been salting for you from 11 O' clock.",
+                "I will sail my house next year.",
+                "This is the most easiest question.",
+                "An umbrella which his father has bought is very beautiful."
+              ]
+            },
+            {
+              "type": "word_usage",
+              "instructions": "Use each word in sentences from any three of the following pairs to distinguish the meaning:",
+              "word_pairs": [
+                ["heroin", "heroine"],
+                ["super", "supper"],
+                ["ball", "bale"],
+                ["wet", "wait"],
+                ["fair", "fare"],
+                ["pray", "prey"]
+              ]
+            },
+            {
+              "type": "matching",
+              "instructions": "Match any Five of the following phrases / idioms of column A with the meaning in column B",
+              "pairs": [
+                {"phrase": "fish out of water", "meaning": "feeling uncomfortable"},
+                {"phrase": "sight-seeing", "meaning": "visiting places as a tourist"},
+                {"phrase": "at a snail's pace", "meaning": "very slowly"},
+                {"phrase": "on the same page", "meaning": "in agreement"},
+                {"phrase": "sleights of art", "meaning": "viewer tricks"},
+                {"phrase": "a burning question", "meaning": "a very important & urgent problem"}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SECTION C - Detailed Answer Questions",
+      "total_marks": 30,
+      "instructions": "Answer all questions from this section",
+      "questions": [
+        {
+          "type": "letter_or_story",
+          "options": [
+            "Write a letter to the editor of a newspaper, expressing your concern over water crisis in the city.",
+            "Write a story on any one of the following: (a) One good turn deserves another (b) A stitch in time saves nine."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "instructions": "Write a paragraph of about 120 to 150 words on any one of the following topics:",
+          "topics": ["PSL, 2019", "Read to Lead", "Benefits of Internet", "Tik Tok Craze"]
+        },
+        {
+          "type": "translation",
+          "instructions": "Translate any 5 of the following sentences into English"
+        }
+      ]
+    }
+  ]
+}

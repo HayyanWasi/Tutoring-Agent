@@ -1,0 +1,348 @@
+{
+  "examination": {
+    "title": "CHEMISTRY (THEORY) CLASS XII (SCIENCE)",
+    "academic_year": "2023",
+    "duration": "3 Hours",
+    "total_marks": 85,
+    "sections": [
+      {
+        "section_name": "SECTION ‘A’ (Multiple Choice Questions)",
+        "total_questions": 17,
+        "marks_per_question": 1,
+        "total_marks": 17,
+        "note": "This section consists of 17 part questions and all are to be answered. Each question carries one mark.",
+        "questions": [
+          {
+            "id": 1,
+            "question": "The oxidation states of the elements of group VA:",
+            "options": {
+              "A": "+1 and +3",
+              "B": "-3 and -5",
+              "C": "-3, +3 and +5",
+              "D": "+1, -1 and +3"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "id": 2,
+            "question": "Which of the following s-block element form super oxide when burn in air:",
+            "options": {
+              "A": "Li",
+              "B": "Na",
+              "C": "K",
+              "D": "Mg"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "id": 3,
+            "question": "In the equilibrium of dichromate-chromate ion the colour of CrO₄² is:",
+            "options": {
+              "A": "Orange",
+              "B": "Green",
+              "C": "Yellow",
+              "D": "Red"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "id": 4,
+            "question": "The coordination number of cobalt in Na₃[Co(C₂O₄)₃] is:",
+            "options": {
+              "A": "3",
+              "B": "4",
+              "C": "6",
+              "D": "7"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "id": 5,
+            "question": "The knocking of internal combustion engine can be reduced by the following petroleum process:",
+            "options": {
+              "A": "Reforming",
+              "B": "Refining",
+              "C": "Distillation",
+              "D": "Condensation"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "id": 6,
+            "question": "How many optical isomers are possible for CH(OH)COOH CH(Br)COOH?",
+            "options": {
+              "A": "2",
+              "B": "3",
+              "C": "4",
+              "D": "5"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "id": 7,
+            "question": "Which of the following pairs of compounds represent functional group isomerism:",
+            "options": {
+              "A": "1-butene and 2-butene",
+              "B": "Ethanol and dimethyl ether",
+              "C": "n-butane and iso butane",
+              "D": "Diethyl ketone and methyl propyl ketone"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "id": 8,
+            "question": "Benzene burns with Smokey flame because of its:",
+            "options": {
+              "A": "Inflammability",
+              "B": "High carbon % age",
+              "C": "High resonance energy",
+              "D": "Aromaticity"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "id": 9,
+            "question": "The Kinetics of Elimination biomolecular reaction is:",
+            "options": {
+              "A": "Zero order",
+              "B": "First order",
+              "C": "Second Order",
+              "D": "Third order"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "id": 10,
+            "question": "Lucas reagent is a mixture of:",
+            "options": {
+              "A": "Zn and Hg",
+              "B": "Zn and HCl",
+              "C": "ZnCl₂ and HCl",
+              "D": "NaOH and CaO"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "id": 11,
+            "question": "Clemmensen reduction is the conversion of aldehydes and ketones into:",
+            "options": {
+              "A": "Alkanes",
+              "B": "Alkenes",
+              "C": "Alkyl halides",
+              "D": "Alcohols"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "id": 12,
+            "question": "Formic acid is naturally found in:",
+            "options": {
+              "A": "Valciran root",
+              "B": "Bees string",
+              "C": "Vinegar",
+              "D": "Butter"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "id": 13,
+            "question": "An example of quaternary structure of protein is:",
+            "options": {
+              "A": "Myoglobin",
+              "B": "Hemoglobin",
+              "C": "Albumin",
+              "D": "Globulin"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "id": 14,
+            "question": "Drugs that lower the body temperature to normal are known as:",
+            "options": {
+              "A": "Antibiotics",
+              "B": "Antipyretic",
+              "C": "Antiallergic",
+              "D": "Anti histamins"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "id": 15,
+            "question": "An example of thermosetting plastic is:",
+            "options": {
+              "A": "Polyethene",
+              "B": "PVC",
+              "C": "Nylon",
+              "D": "Bakelite"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "id": 16,
+            "question": "The region of sphere which extend from 11km to 50km from our Earth's is known as:",
+            "options": {
+              "A": "Troposphere",
+              "B": "Stratosphere",
+              "C": "Mesosphere",
+              "D": "Thermosphere"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "id": 17,
+            "question": "Infra red spectroscopy is a technique use to determine:",
+            "options": {
+              "A": "Double and triple bonds",
+              "B": "Mass to charge ratio",
+              "C": "Functional group",
+              "D": "Conjugated system"
+            },
+            "correct_answer": "C"
+          }
+        ]
+      },
+      {
+        "section_name": "SECTION ‘B’ (Short-Answer Questions)",
+        "total_marks": 36,
+        "note": "Answer any NINE part questions. Select FOUR part questions from Inorganic-General Chemistry and FIVE part questions from Organic Chemistry. All questions carry equal marks.",
+        "subsections": [
+          {
+            "subsection_name": "INORGANIC CHEMISTRY",
+            "questions": [
+              {
+                "id": "2i",
+                "question": "Explain the general group trend and irregularities of ionization energy in the periodic table. OR Give reasons for any four of the following: *Boiling point of halogens increases down the group in the periodic table *Electronegativity decreases regularly from top to bottom in s-block elements *Alkali metals are good conductor of electricity *Fluorine is the strongest oxidizing agent *Multidentate ligands are known as chelating agents"
+              },
+              {
+                "id": "2ii",
+                "question": "Give diagonal relationship on any two of the following pair: *Li and Mg *Be and Al *B and Si"
+              },
+              {
+                "id": "2iii",
+                "question": "Why transition elements have the tendency to form alloy? Write the name of three alloys of transition element along with their compositions."
+              },
+              {
+                "id": "2iv",
+                "question": "Write down the IUPAC names of the following complexes: *[Ag(NH₃)₂]OH *[Fe(CN)₆]⁻⁴ *K₃[Cr(C₂O₄)₂Cl₂] *[Pt(en)₂(NO₂)₂]SO₄"
+              },
+              {
+                "id": "2v",
+                "question": "What are Pesticides? Write the name of three types of pesticides along with their specific use."
+              },
+              {
+                "id": "2vi",
+                "question": "How was ozone layer formed? Explain the causes of depletion of ozone layer."
+              },
+              {
+                "id": "2vii",
+                "question": "What is proton NMR spectroscopy? On what principle it works."
+              }
+            ]
+          },
+          {
+            "subsection_name": "ORGANIC CHEMISTRY",
+            "questions": [
+              {
+                "id": "2viii",
+                "question": "How is coal produced under the earth crust? Write the name of four types of coal and mention the %age of carbon content in them. OR Define Homologous series and write its three general properties."
+              },
+              {
+                "id": "2ix",
+                "question": "Draw the orbital structure of Ethyne and explain how it is distinguished from ethene by a simple chemical test. OR Give the equations and write the name of final product in the following process. *Ethyne is treated with hydrogen bromide. *1, 2-dibromoethane is heated with alcoholic KOH. *Ethene is ozonolysed *Ethyne is treated with H₂O in the presence of H₂SO₄/HgSO₄."
+              },
+              {
+                "id": "2x",
+                "question": "Write the IUPAC name of the following organic compounds: * (CH₃)₂CH - C - CH(C₂H₅)₂ * CH₃ - CH₂ - OC(CH₃)₂C₂H₅ * CH₂ = CH - C = C - CH = CH₂ * CH₃ - CH - CH - CH₂ - COOH"
+              },
+              {
+                "id": "2xi",
+                "question": "Why benzene show stability towards addition reaction? Write the mechanism of nitration of benzene. OR What is meant by sterio isomerism? Define Cis & Trans isomers with example."
+              },
+              {
+                "id": "2xii",
+                "question": "What is Grignard reagent? Write the equation of its reaction with *H₂O *CO₂ *CH₃NH₂"
+              },
+              {
+                "id": "2xiii",
+                "question": "Why are alkyl amines basic in nature? How a primary alkyl amine is converted into secondary and tertiary amine? Give the equation."
+              },
+              {
+                "id": "2xiv",
+                "question": "Name four derivative of carboxylic acid and write the equations of their preparation."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_name": "SECTION ‘C’ (Detailed Answer Questions)",
+        "total_marks": 32,
+        "note": "Attempt any TWO Questions. One question from Inorganic-General Chemistry and the other from Organic Chemistry. Both questions carry equal marks.",
+        "subsections": [
+          {
+            "subsection_name": "INORGANIC CHEMISTRY",
+            "questions": [
+              {
+                "id": 3,
+                "parts": [
+                  {
+                    "part": "a",
+                    "question": "Describe the manufacture of H₂SO₄ by contact process and show that by equation it act as an oxidizing agent and dehydrating agent"
+                  },
+                  {
+                    "part": "b",
+                    "question": "Write the balance chemical equations for the following. *A mixture of carbon and silicon is heated under elevated temperature *Phosphorus is put into water *Bleaching powder is treated with hydrochloric acid *Chlorine gas is pass through hot aqueous solution of caustic soda *Copper is treated with concentration nitric acid *A piece of chromium is put into dilute hydrochloric acid *Reaction between KMnO₄ and FeSO₄ in the presence of H₂SO₄ (write ionic equation) *Reaction between K₂Cr₂O₇ and FeSO₄ in the presence of H₂SO₄ (write ionic equation)"
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "parts": [
+                  {
+                    "part": "a",
+                    "question": "Describe various steps involve in the extraction of 99.99% pure copper from its chalcopyrite ore. OR Explain the following properties of transition elements. *Catalytic property *Variable oxidation state *Paramagnetic property *Colour formation"
+                  },
+                  {
+                    "part": "b",
+                    "question": "What is meant by acid rain describe its causes and adverse effect on human life style."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "subsection_name": "ORGANIC CHEMISTRY",
+            "questions": [
+              {
+                "id": 5,
+                "parts": [
+                  {
+                    "part": "a",
+                    "question": "What is meant by orientation of benzene? Explain ortho-para and meta directing group. Write the equation for the preparation of TNT and m-nitro toluene from benzene."
+                  },
+                  {
+                    "part": "b",
+                    "question": "Draw the structure of the following organic molecules: *Isopropylbutanoate *Ethyl neo-pentyl ether *Divinylacetylene *p-cresol *Pyrogallol *β-methyl butyric acid *Benzamide *Benzen-1,4-dioic acid"
+                  }
+                ]
+              },
+              {
+                "id": 6,
+                "parts": [
+                  {
+                    "part": "a",
+                    "question": "What is meant by nucleophile? Give the mechanism of *SN¹ reaction between 3° alkyl halide and NaOH *SN² reactions between 1° alkyl halide and NaCl. OR What are Carbohydrates? Classify them on the basis of structure and give their biological significance."
+                  },
+                  {
+                    "part": "b",
+                    "question": "Write the equation for the following reactions. *Oxidation of 2°-alcohol with K₂Cr₂O₇/H₂SO₄ *Reaction of phenol with H₂SO₄ at 20°C *Reduction of acetaldehyde with Zn(Hg) amalgam *Reaction of an aldehyde with Tollen's reagent *Dehydration of ethyl alcohol at 170°C in conc. H₂SO₄ *Reaction of ethylene glycol with periodic acid. *Reduction of acetic acid with LiAlH₄ *Oxidation of 1°-alcohol with PCC."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

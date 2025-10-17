@@ -1,0 +1,243 @@
+{
+  "subject": "MATHEMATICS",
+  "year": 2023,
+  "class": "XII",
+  "group": "SCIENCE",
+  "time": "3 Hours",
+  "total_marks": 100,
+  "sections": {
+    "A": {
+      "title": "Multiple Choice Questions",
+      "marks": 20,
+      "instructions": "Choose the correct answer for each from the given options",
+      "questions": [
+        {
+          "number": "1",
+          "question": "[3,5] - (3,5) =",
+          "options": ["∅", "(3,5)", "[3,5]", "[3,5]"],
+          "correct_answer": "(3,5)"
+        },
+        {
+          "number": "2",
+          "question": "The domain of the vector function r⃗(t) = t³t + (1/(t-1))f + ln(t-2)k⃗ is:",
+          "options": ["[t > 2, t ∈ ℝ]", "[t < 2, t ∈ ℝ]", "[t > 0, t ∈ ℝ]", "[t ≥ 2, t ∈ ℝ]"],
+          "correct_answer": "[t > 2, t ∈ ℝ]"
+        },
+        {
+          "number": "3",
+          "question": "limₓ→₀ (1-x)ˣ",
+          "options": ["e³", "e^(-½)", "e⁻¹", "e⁻¹"],
+          "correct_answer": "e⁻¹"
+        },
+        {
+          "number": "4",
+          "question": "If y = tan⁻¹√x then dy/dx =",
+          "options": ["1/(1-x²)", "1/(x+√x)", "1/(2(x+x√x))", "1/(2(√x+√x))"],
+          "correct_answer": "1/(2(√x+√x))"
+        },
+        {
+          "number": "5",
+          "question": "The derivative of cot⁻¹(2x) is:",
+          "options": ["1/(1-4x²)", "2/(1-4x²)", "2x/(1-4x²)", "2/(1-x²)"],
+          "correct_answer": "2/(1-4x²)"
+        },
+        {
+          "number": "6",
+          "question": "The derivative of 2ˣ is:",
+          "options": ["2ˣ ln 2", "-2ˣ ln 2", "2ˣ/ln 2", "-2ˣ/ln 2"],
+          "correct_answer": "2ˣ ln 2"
+        },
+        {
+          "number": "7",
+          "question": "To reset all variables we use the command:",
+          "options": [">Restart", ">Clear", ">Reset", ">Cancel"],
+          "correct_answer": ">Restart"
+        },
+        {
+          "number": "8",
+          "question": "∫ₐᵇ f(x) dx =",
+          "options": ["∫ᵇₐ f(x) dx", "∫ᵇₐ f(x) dx", "∫ₐᵇ f(x) dx", "zero"],
+          "correct_answer": "∫ₐᵇ f(x) dx"
+        },
+        {
+          "number": "9",
+          "question": "To draw a graph of a function f(x) from x = a to x = b, we use the command:",
+          "options": [">Draw(f(x), x = a, b)", ">Plot(f(x), x = a, b)", ">Curve(f(x), x = a, b)", ">Sketch(f(x), x = a, b)"],
+          "correct_answer": ">Plot(f(x), x = a, b)"
+        },
+        {
+          "number": "10",
+          "question": "∫e²ʸ/(1+e²ʸ) =",
+          "options": ["eʸ + c", "tan⁻¹ eʸ + c", "cot⁻¹ eʸ + c", "½ ln(1 + e²ʸ) + c"],
+          "correct_answer": "½ ln(1 + e²ʸ) + c"
+        },
+        {
+          "number": "11",
+          "question": "The perpendicular distance between two parallel lines y = mx + c₁ and y = mx + c₂ is:",
+          "options": ["|c₁ - c₂|/√(1+m²)", "√(1+m²)/|c₁ - c₂|", "|c₁ - c₂|/√(1-m²)", "√(1-m²)/|c₁ - c₂|"],
+          "correct_answer": "|c₁ - c₂|/√(1+m²)"
+        },
+        {
+          "number": "12",
+          "question": "For this value of k the radius of circle x² + y² + 6x - 4y + k = 0 is 5:",
+          "options": ["11", "-12", "10", "5"],
+          "correct_answer": "-12"
+        },
+        {
+          "number": "13",
+          "question": "This lines y = 2x + c will be tangent to x² + y² = 25 if:",
+          "options": ["c² = 25", "c² = 625", "c² = 50", "c² = 125"],
+          "correct_answer": "c² = 125"
+        },
+        {
+          "number": "14",
+          "question": "If the eccentricity is zero, then the conic is:",
+          "options": ["parabola", "circle", "ellipse", "hyperbola"],
+          "correct_answer": "circle"
+        },
+        {
+          "number": "15",
+          "question": "The focus of parabola x² = -16y is:",
+          "options": ["(0,0)", "(4,0)", "(-4,0)", "(0,-4)"],
+          "correct_answer": "(0,-4)"
+        },
+        {
+          "number": "16",
+          "question": "The order and degree of differential equation (d³y/dx³)² = √(dy/dx) is:",
+          "options": ["order 3, degree 4", "order 4, degree 3", "order 2, degree 1", "order 1, degree 2"],
+          "correct_answer": "order 3, degree 4"
+        },
+        {
+          "number": "17",
+          "question": "The general solution of the differential equation 9y(dy/dx) + 4x = 0 is:",
+          "options": ["4x² + 9y² = c", "9x² + 4y² = c", "4x² + y² = c", "9x² - 4y² = c"],
+          "correct_answer": "4x² + 9y² = c"
+        },
+        {
+          "number": "18",
+          "question": "A function tan(2x/3y) is a homogeneous function of degree:",
+          "options": ["3/2", "2/3", "1", "0"],
+          "correct_answer": "0"
+        },
+        {
+          "number": "19",
+          "question": "The fastest method to solve the nonlinear equation numerically is:",
+          "options": ["Bisection Method", "False Position Method", "Newton Raphson Method", "Simpson ⅓ Method"],
+          "correct_answer": "Newton Raphson Method"
+        },
+        {
+          "number": "20",
+          "question": "If plane cuts one nappe of a right circular cone perpendicularly then conic is:",
+          "options": ["Parabola", "Circle", "Ellipse", "Hyperbola"],
+          "correct_answer": "Circle"
+        }
+      ]
+    },
+    "B": {
+      "title": "Short-Answer Questions",
+      "marks": 40,
+      "instructions": "Attempt any Ten part questions in all. All questions carry equal marks. (i.e. 4 marks of each part).",
+      "questions": [
+        {
+          "number": "i",
+          "question": "Evaluate any one of the following:\na) limₓ→₁ (1/x - 1)\nb) limₓ→ₑ (ln x - 1)/(x - e)"
+        },
+        {
+          "number": "ii",
+          "question": "Find the values of m and n, so that given function f continuous at x = 3\nf(x) = { mx/n if x < 3; -2x + 9 if x > 3 }"
+        },
+        {
+          "number": "iii",
+          "question": "If y = √(tan x + √(tan x + √(tan x + ... + ∞)), prove that (2y - 1)dy/dx = sec²x"
+        },
+        {
+          "number": "iv",
+          "question": "Find dy/dx ln(cosh⁻¹x) + sinh⁻¹y = C OR Differentiate y = cos²x w.r.t sin²x"
+        },
+        {
+          "number": "v",
+          "question": "Show that f(x) = tan²x is decreasing at x = 3π/4"
+        },
+        {
+          "number": "vi",
+          "question": "A particle moves so that its position as a function of time is given by r⃗(t) = sin t + cos t + tk. Write expressions for its:\na) Velocity b) acceleration as function of time"
+        },
+        {
+          "number": "vii",
+          "question": "Compute the definite integrals by using basic properties.\n∫[-π/2 to π/2] sin²x cos²x dx"
+        },
+        {
+          "number": "viii",
+          "question": "Find the area, above the x-axis under the following curve, between the given ordinates.\ny = 6sin²x, x = 0, x = π/3"
+        },
+        {
+          "number": "ix",
+          "question": "The line segment joining P(-8,10) and Q(6,-4) is cut by x and y axes at A and B respectively. Find the ratios in which A and B divide PQ"
+        },
+        {
+          "number": "x",
+          "question": "The x-intercept of a line is the reciprocal of its y-intercept and line passes through (2,-1). Find its equation"
+        },
+        {
+          "number": "xi",
+          "question": "Find the equation of the circle passing through (-3,-4) and is concentric with the circle whose equation is x² + y² - 6x + 8y - 24 = 0"
+        },
+        {
+          "number": "xii",
+          "question": "The volume of the cone is given by formula V = ⅓πr²h. Differentiate V with respect to their independent variables"
+        },
+        {
+          "number": "xiii",
+          "question": "Find the equation of parabola whose focus is at (-4,3) and equation of directrix is y = 6"
+        },
+        {
+          "number": "xiv",
+          "question": "Find the condition when line y = √5x + c is tangent to the ellipse 4x² + 9y² = 36"
+        },
+        {
+          "number": "xv",
+          "question": "Find the orthogonal trajectory of the curve y = ax²"
+        }
+      ]
+    },
+    "C": {
+      "title": "Detailed Answer Questions",
+      "marks": 40,
+      "instructions": "Answer any FIVE questions from this section. Question No. 3 is compulsory. All questions carry equal marks.",
+      "questions": [
+        {
+          "number": "3",
+          "question": "Evaluate any two of the following:\na) ∫[-π/2 to π/2] dx\nb) ∫ e²ˣ sin 2x dx\nc) ∫[3 to 2√3] x²dx/√(x²+4)\nd) ∫ dx/((x-3)(x²+1))"
+        },
+        {
+          "number": "4",
+          "question": "Find the first four terms of the Taylor's series of f(x) = ln(1 + x) at b = 2"
+        },
+        {
+          "number": "5",
+          "question": "If A(2,5), B(3,7) and C(0,8) are the vertices of a triangle then find the equation of:\na) median through A\nb) right bisector of side AC"
+        },
+        {
+          "number": "6",
+          "question": "Find the equation of tangent(s) to the circle x² + y² = 25 which is:\na) parallel to 3x + 4y + 1 = 0\nb) perpendicular to 3x + 4y + 1 = 0"
+        },
+        {
+          "number": "7",
+          "question": "Find Centre, foci, eccentricity, length of latus rectum and vertices of hyperbola:\n16y² + 9x² + 36x + 64y = 116 = 0"
+        },
+        {
+          "number": "8",
+          "question": "Solve the differential equation (2x + y + 1)dx + (2x + y - 1)dy = 0"
+        },
+        {
+          "number": "9",
+          "question": "If u = tan⁻¹((x³ + y³)/(x - y)) then prove that x(∂u/∂x) + y(∂u/∂y) = sin 2u"
+        },
+        {
+          "number": "10",
+          "question": "Using any numerical method for finding roots of the equation up to 2 decimal places of x³ - 2x - 5 = 0. [2, 3]"
+        }
+      ]
+    }
+  }
+}

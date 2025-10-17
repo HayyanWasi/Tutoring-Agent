@@ -1,0 +1,243 @@
+{
+  "exam": {
+    "subject": "COMPUTER",
+    "year": 2023,
+    "option": "Programming using 'C'",
+    "time": "3 Hours",
+    "total_marks": 75,
+    "sections": [
+      {
+        "section_name": "SECTION A",
+        "description": "Multiple Choice Questions",
+        "marks": 15,
+        "instruction": "Choose the correct answer for each from the given options:",
+        "questions": [
+          {
+            "number": "(i)",
+            "question": "A language that differentiates between upper-case and lower-case is called:",
+            "options": [
+              "Machine Language",
+              "Visual Language",
+              "Case Sensitive",
+              "High Level Language"
+            ],
+            "correct_answer": "Case Sensitive"
+          },
+          {
+            "number": "(ii)",
+            "question": "This symbol is used for C preprocessor directive:",
+            "options": ["#", "&", "@", "%"],
+            "correct_answer": "#"
+          },
+          {
+            "number": "(iii)",
+            "question": "These cannot be declared as identifiers:",
+            "options": [
+              "Global Variable",
+              "Local Variable",
+              "Reserve Words",
+              "Formal Parameter"
+            ],
+            "correct_answer": "Reserve Words"
+          },
+          {
+            "number": "(iv)",
+            "question": "Only this special character is allowed in identifier:",
+            "options": ["_ (underscore)", "&", "@", "&&"],
+            "correct_answer": "_ (underscore)"
+          },
+          {
+            "number": "(v)",
+            "question": "Escape sequence character is followed by:",
+            "options": ["\\", "/", "%", "{"],
+            "correct_answer": "\\"
+          },
+          {
+            "number": "(vi)",
+            "question": "This function only inputs string type data:",
+            "options": ["scanf()", "gets()", "getch()", "getche()"],
+            "correct_answer": "gets()"
+          },
+          {
+            "number": "(vii)",
+            "question": "This is an address operator:",
+            "options": ["&&", "%", "&", "<>"],
+            "correct_answer": "&"
+          },
+          {
+            "number": "(viii)",
+            "question": "This statement suspends the control structure:",
+            "options": ["continue", "break", "getch()", "default"],
+            "correct_answer": "continue"
+          },
+          {
+            "number": "(ix)",
+            "question": "This statement terminates the loop:",
+            "options": ["break", "continue", "getch()", "return 0"],
+            "correct_answer": "break"
+          },
+          {
+            "number": "(x)",
+            "question": "This is correct input statement to take 'gender as char':",
+            "options": [
+              "getche(gender)",
+              "gender=getche()",
+              "getche()=gender",
+              "gender()=getche()"
+            ],
+            "correct_answer": "gender=getche()"
+          },
+          {
+            "number": "(xi)",
+            "question": "Variables defined within function definition are called:",
+            "options": [
+              "Actual Parameters",
+              "Formal Parameters",
+              "Global Variables",
+              "Local Parameters"
+            ],
+            "correct_answer": "Local Parameters"
+          },
+          {
+            "number": "(xii)",
+            "question": "It is an organized collection of related data, typically stored on disk and accessible by possibly many concurrent users:",
+            "options": ["Source Code", "Text File", "Database", "Object File"],
+            "correct_answer": "Database"
+          },
+          {
+            "number": "(xiii)",
+            "question": "This database model arrange data in a parent child relationship:",
+            "options": [
+              "Relation Model",
+              "Network Model",
+              "Hierarchical Model",
+              "Flat Model"
+            ],
+            "correct_answer": "Hierarchical Model"
+          },
+          {
+            "number": "(xiv)",
+            "question": "This database model may have more than one parents:",
+            "options": [
+              "Relation Model",
+              "Network Model",
+              "Hierarchical Model",
+              "Flat Model"
+            ],
+            "correct_answer": "Network Model"
+          },
+          {
+            "number": "(xv)",
+            "question": "In database columns are called:",
+            "options": ["Tuples", "Attributes", "Keys", "File"],
+            "correct_answer": "Attributes"
+          }
+        ]
+      },
+      {
+        "section_name": "SECTION B",
+        "description": "Short Answer Question",
+        "marks": 30,
+        "note": "Attempt any TEN part questions in all. All part questions carry equal marks. Answer should not exceed 6 to 7 lines",
+        "questions": [
+          {
+            "number": "2(i)",
+            "question": "Why C language is called case-sensitive language? Give an example"
+          },
+          {
+            "number": "2(ii)",
+            "question": "What is C-Preprocessor Directive? Define #define OR #include"
+          },
+          {
+            "number": "2(iii)",
+            "question": "Define the following functions with an example:",
+            "subparts": ["abs()", "pow()", "sqrt()"]
+          },
+          {
+            "number": "2(iv)",
+            "question": "Convert the following into C-expressions:",
+            "subparts": [
+              "A = πr²",
+              "y = -b√(b² - 4ac)/2a",
+              "a = 4/3πr³"
+            ]
+          },
+          {
+            "number": "2(v)",
+            "question": "Write a program that takes the value from user and determine its factorial."
+          },
+          {
+            "number": "2(vi)",
+            "question": "What is an Address Operator? Give an example."
+          },
+          {
+            "number": "2(vii)",
+            "question": "Write a program that takes two numbers and prints the greater number."
+          },
+          {
+            "number": "2(viii)",
+            "question": "Write a program that prints the following pattern using nested loop:\n++++\n+++\n++\n+"
+          },
+          {
+            "number": "2(ix)",
+            "question": "Write output of the given code.",
+            "code": "void main (void)\n{\nInt i,j;\nfor(i = 1; i <= 5; i++)\n{\nfor (j = 1; j <= i; j++)\nprint(\"%d\"); \nprint(\"\\n\"); \n}"
+          },
+          {
+            "number": "2(x)",
+            "question": "Define two ways in which arguments can be passed to a function."
+          },
+          {
+            "number": "2(xi)",
+            "question": "Differentiate between internal/local and external/global variables."
+          },
+          {
+            "number": "2(xii)",
+            "question": "Define any three of the following:",
+            "subparts": ["fopen()", "fscanf()", "fprintf()"]
+          },
+          {
+            "number": "2(xiii)",
+            "question": "What is a Database? Write its advantages."
+          },
+          {
+            "number": "2(xiv)",
+            "question": "What are main objects in MS ACCESS?"
+          },
+          {
+            "number": "2(xv)",
+            "question": "Define Database Relationships. Write its uses."
+          }
+        ]
+      },
+      {
+        "section_name": "SECTION C",
+        "description": "Detailed-Answer Question",
+        "marks": 30,
+        "note": "Attempt any TWO question from this section. All questions carry equal marks.",
+        "questions": [
+          {
+            "number": "3",
+            "question": "What is an Operator? Explain basic types of operators in C."
+          },
+          {
+            "number": "4",
+            "question": "Explain unformatted input and output (I/O) functions in C with syntax and examples."
+          },
+          {
+            "number": "5",
+            "question": "Explain switch statement with syntax and an example."
+          },
+          {
+            "number": "6",
+            "question": "What is a Loop? Explain while and do loop with examples."
+          },
+          {
+            "number": "7",
+            "question": "Explain the database models with diagram."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "examination": {
+    "subject": "ZOOLOGY (THEORY)",
+    "academic_year": "For Annual Examination 2024 & Onwards",
+    "groups": ["Science Pre-Medical Groups"],
+    "duration": "2 Hours",
+    "total_marks": 45,
+    "sections": [
+      {
+        "section_name": "SECTION 'A' (Multiple Choice Questions)",
+        "total_marks": 9,
+        "instructions": "i) This section consists of 18 part questions and all are to be answered. Each question carries ½ mark.\nii) Do not copy the part questions in your answerbook. Write only the answer in full against the proper number of the question and its part.",
+        "questions": [
+          {
+            "id": 1,
+            "question": "An injury sustained by the hypothalamus is most likely to interrupt:",
+            "options": {
+              "A": "Coordination during locomotion",
+              "B": "Short-term memory",
+              "C": "Regulation of body temperature",
+              "D": "Executive function like decision-making"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "id": 2,
+            "question": "Even after the brain of a frog has been crushed, it still responds to a pinch on the leg by drawing it away. This act is an example of:",
+            "options": {
+              "A": "Conditioned reflex",
+              "B": "Simple reflex",
+              "C": "Automated motor response",
+              "D": "Neurotransmitter induced response"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "id": 3,
+            "question": "In humans, Parkinson's disease is linked with the deficiency of:",
+            "options": {
+              "A": "Acetylcholine",
+              "B": "Dopamine",
+              "C": "Glutamic acid",
+              "D": "Gamma Amino Butyric Acid (GABA)"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "id": 4,
+            "question": "All of the following are hormones of the anterior pituitary except:",
+            "options": {
+              "A": "Human growth hormone (GH)",
+              "B": "Follicle-stimulating hormone (FSH)",
+              "C": "Parathyroid hormone (PTH)",
+              "D": "Thyroid-stimulating hormone (TSH)"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "id": 5,
+            "question": "The following hormones are responsible for the 'fight-or-flight' response:",
+            "options": {
+              "A": "Epinephrine and norepinephrine",
+              "B": "Insulin and glucagon",
+              "C": "Estrogen and progesterone",
+              "D": "Thyroxin and melatonin"
+            },
+            "correct_answer": "A"
+          },
+          {
+            "id": 6,
+            "question": "A characteristic of territorial behavior in animals:",
+            "options": {
+              "A": "Migration",
+              "B": "Herding",
+              "C": "Defending an area from intruders",
+              "D": "Hibernation"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "id": 7,
+            "question": "The following is an example of a learned behavior in animals:",
+            "options": {
+              "A": "Fish swimming upstream to spawn.",
+              "B": "Bee performing a waggle dance",
+              "C": "Goose flying south for the winter",
+              "D": "Rat navigating a Max"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "id": 8,
+            "question": "This is an example of innate behavior:",
+            "options": {
+              "A": "A dog learning to sit on command",
+              "B": "A bird building a nest",
+              "C": "A cat chasing a mouse",
+              "D": "A fish learning to swim in a tank"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "id": 9,
+            "question": "The correct sequence of cell stage in spermatogenesis is:",
+            "options": {
+              "A": "Spermatocytes – Spermatids – Spermatogonia – Spermatozoa",
+              "B": "Spermatogonia – Spermatids – Spermatocytes – Spermatozoa",
+              "C": "Spermatocytes – Spermatagonia – Spermatids – Spermatozoa",
+              "D": "Spermatogonia – Spermatocytes – Spermatids – Spermatozoa"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "id": 10,
+            "question": "The decreased level of this hormone causes menstruation:",
+            "options": {
+              "A": "Progesterone",
+              "B": "Luteinizing",
+              "C": "Estrogen",
+              "D": "Oxytocin"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "id": 11,
+            "question": "The period of rapid physical and sexual maturation during adolescence is called:",
+            "options": {
+              "A": "Menopause",
+              "B": "Andropause",
+              "C": "Puberty",
+              "D": "Midlife Crisis"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "id": 12,
+            "question": "This disorder is characterized by the presence of an extra X chromosome in females, resulting in infertility and developmental abnormalities:",
+            "options": {
+              "A": "Down syndrome",
+              "B": "Turner syndrome",
+              "C": "Klinefelter syndrome",
+              "D": "Fragile X syndrome"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "id": 13,
+            "question": "Aging is characterized by:",
+            "options": {
+              "A": "Increase in the consumption of oxygen",
+              "B": "Increased anabolism",
+              "C": "Increased metabolic activity",
+              "D": "A decrease in the metabolic activity"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "id": 14,
+            "question": "The only treatment in case of uremia is:",
+            "options": {
+              "A": "Dialysis",
+              "B": "Lithotripsy",
+              "C": "Lung transplant",
+              "D": "Kidney transplant"
+            },
+            "correct_answer": "D"
+          },
+          {
+            "id": 15,
+            "question": "Apart from the conventional use, Dialysis can also be used in scenarios of:",
+            "options": {
+              "A": "Blood transfusions",
+              "B": "Acute poisoning",
+              "C": "Low blood pressure",
+              "D": "Extreme fever"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "id": 16,
+            "question": "Immunosuppressant drugs are consumed with:",
+            "options": {
+              "A": "Major viruses",
+              "B": "Peritoneal dialysis",
+              "C": "Kidney transplant",
+              "D": "Haemodialysis"
+            },
+            "correct_answer": "C"
+          },
+          {
+            "id": 17,
+            "question": "This is correct for muscle contraction:",
+            "options": {
+              "A": "Shortening of actin filaments",
+              "B": "Shortening of A, H and I bands",
+              "C": "No change in a bands",
+              "D": "Sarcomere does not shorten"
+            },
+            "correct_answer": "B"
+          },
+          {
+            "id": 18,
+            "question": "Each hipbone is formed by the fusion of three bones Pubis, Ilium and:",
+            "options": {
+              "A": "Sternum",
+              "B": "Ischium",
+              "C": "Scapula",
+              "D": "Sphenoid"
+            },
+            "correct_answer": "B"
+          }
+        ]
+      },
+      {
+        "section_name": "SECTION 'B' (Short Answer Question)",
+        "total_marks": 18,
+        "instructions": "Attempt any NINE part questions in all. Select FIVE Reasoning Questions and FOUR Non-Reasoning Questions. All part questions carry equal marks.",
+        "subsections": [
+          {
+            "subsection_name": "REASONING QUESTIONS",
+            "questions": [
+              {
+                "id": "2ai",
+                "question": "How do neurotransmitters work as inhibitory and excitatory signals? Write some common examples of these neurotransmitters."
+              },
+              {
+                "id": "2aii",
+                "question": "Why does excess use of dairy products, meats, and green-leaf vegetables cause kidney stones? Mention the methods for treatment of kidney stones."
+              },
+              {
+                "id": "2aiii",
+                "question": "Why is saltatory conduction the fastest?"
+              },
+              {
+                "id": "2aiv",
+                "question": "How do aquatic osmoregulators overcome the osmoregulatory problems?"
+              },
+              {
+                "id": "2av",
+                "question": "Why the hormonal system of the female is better than the male?"
+              },
+              {
+                "id": "2avi",
+                "question": "How do bees communicate about food resources?"
+              },
+              {
+                "id": "2avii",
+                "question": "How do embryonic tissues influence other embryonic tissues?"
+              },
+              {
+                "id": "2aviii",
+                "question": "How is tetany different from tetanus, while both show some common symptoms"
+              }
+            ]
+          },
+          {
+            "subsection_name": "NON-REASONING QUESTIONS",
+            "questions": [
+              {
+                "id": "2bix",
+                "question": "Mention the role of kidney as an endocrine gland."
+              },
+              {
+                "id": "2bx",
+                "question": "Define biological rhythm. Mention that biological rhythm is important for man."
+              },
+              {
+                "id": "2bxi",
+                "question": "Define Receptors. State the gustatory receptors with their functions."
+              },
+              {
+                "id": "2bxii",
+                "question": "Explain the principal reproductive hormones of human male and explain their role in the maintenance and functioning of the reproductive system."
+              },
+              {
+                "id": "2bxiii",
+                "question": "Mention the injuries in joints (dislocation and sprain) and their first aid treatment."
+              },
+              {
+                "id": "2bxiv",
+                "question": "List some changes that occur in the system and those that occur at the cellular level during aging."
+              },
+              {
+                "id": "2bxv",
+                "question": "Write a note on taxis. Mention their types with examples."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_name": "SECTION 'C' (Detailed –Answer Question)",
+        "total_marks": 18,
+        "instructions": "Attempt any TWO question from this section. All questions carry equal marks. Draw labeled diagrams where necessary.",
+        "questions": [
+          {
+            "id": 1,
+            "question": "Explain the resting membrane potential, depolarization, action potential, synapse, and repolarization. —OR— Define skeletal muscle? Describe the mechanism of contraction of skeletal muscle with the help of diagrams."
+          },
+          {
+            "id": 2,
+            "question": "Explain the regulatory functions of the nephron with the help of a labelled diagram —OR— Explain habituation, imprinting, classic conditioning, and insight learning."
+          },
+          {
+            "id": 3,
+            "question": "Describe the maternal-derived abnormalities (Rubella, Abnormal neural tube, Thyroid dysfunction, limb development issues)."
+          }
+        ]
+      }
+    ]
+  }
+}

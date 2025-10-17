@@ -1,0 +1,217 @@
+{
+  "past_papers": [
+    {
+      "subject": "PHYSICS",
+      "year": 2019,
+      "time": "20 Minutes + 2 Hours 40 Minutes",
+      "total_marks": 85,
+      "sections": {
+        "A": {
+          "title": "Multiple Choice Questions",
+          "marks": 17,
+          "instructions": "Choose the correct answer for each from the given options:",
+          "questions": [
+            {
+              "number": "i",
+              "question": "If F = 3î and d = 6ĵ, the work done will be:",
+              "options": ["zero", "2", "9", "18"]
+            },
+            {
+              "number": "ii",
+              "question": "Beats are produced due to:",
+              "options": ["diffraction of waves in time", "reflection of waves in time", "interference of waves in time", "polarization of waves in time"]
+            },
+            {
+              "number": "iii",
+              "question": "The wave from of waves will be spherical when the rays of light are:",
+              "options": ["parallel", "perpendicular", "monochromatic", "not parallel"]
+            },
+            {
+              "number": "iv",
+              "question": "If 'F' be the limiting friction and R be the normal reaction, then the co-efficient of static friction will be equal to:",
+              "options": ["F/R", "FR", "R/F", "1/FR"]
+            },
+            {
+              "number": "v",
+              "question": "The dimensions of GG₉ are:",
+              "options": ["M⁰L¹T⁻²", "M¹L²T⁻²", "M¹L²T⁻²", "M¹L²T⁻²"]
+            },
+            {
+              "number": "vi",
+              "question": "The magnitude of resultant of two forces of magnitudes 2N and 10N cannot be:",
+              "options": ["4N", "6N", "9N", "13N"]
+            },
+            {
+              "number": "vii",
+              "question": "If a body moves in a circle, then the angle subtended at the centre of circle by an arc equals to twice of its radius will be:",
+              "options": ["2°", "57.3°", "80°", "114.6°"]
+            },
+            {
+              "number": "viii",
+              "question": "In a spectrometer, the focal length of convex lens is equal to length of its:",
+              "options": ["telescope", "obstacles", "collimator", "turntable"]
+            },
+            {
+              "number": "ix",
+              "question": "The point which describes the motion of the whole system or body is known as the:",
+              "options": ["center of gravity", "center of mass", "inertia", "moment of inertia"]
+            },
+            {
+              "number": "x",
+              "question": "The product of frequency and time period is:",
+              "options": ["1", "2", "3", "4"]
+            },
+            {
+              "number": "xi",
+              "question": "When a transverse wave travelling through a rare medium is reflected from a dense medium, then phase change produced in it will be equal to:",
+              "options": ["0°", "90°", "180°", "360°"]
+            },
+            {
+              "number": "xii",
+              "question": "The gravitational constant was determined experimentally by:",
+              "options": ["Newton", "Einstein", "Cavendish", "Maxwell"]
+            },
+            {
+              "number": "xiii",
+              "question": "A projectile is thrown upward with a certain velocity. Its time of flight will be minimum, if it is launched at an angle of:",
+              "options": ["30°", "45°", "60°", "75°"]
+            },
+            {
+              "number": "xiv",
+              "question": "(j × î) · (j × î) is:",
+              "options": ["1", "k", "-1", "zero"]
+            },
+            {
+              "number": "xv",
+              "question": "Two forces which are equal in magnitude but opposite in direction and not acting along the same straight line form a:",
+              "options": ["icle", "couple", "power", "torque"]
+            },
+            {
+              "number": "xvi",
+              "question": "If the time interval is very small (Δt → 0), the rate of change of velocity of a body is called:",
+              "options": ["Average acceleration", "Acceleration", "Instantaneous acceleration", "Constant acceleration"]
+            },
+            {
+              "number": "xvii",
+              "question": "Weber Fechner Law is:",
+              "options": ["I ∝ log L", "L ∝ log I", "I ∝ I/log L", "I ∝ log L"]
+            }
+          ]
+        },
+        "B": {
+          "title": "Short-Answer Questions",
+          "marks": 40,
+          "instructions": "Answer any 10 questions from this section.",
+          "questions": [
+            {
+              "number": "i",
+              "question": "A body starts from rest and moves with constant acceleration 10m/sec². How much distance will it travel in the 4th sec of its motion?"
+            },
+            {
+              "number": "ii",
+              "question": "An astronomical telescope having angular magnification 5 consists of two thin lenses 24cm apart. Find the power of its lenses."
+            },
+            {
+              "number": "iii",
+              "question": "What is Conservative field? Prove that Gravitational field is an example of Conservative field."
+            },
+            {
+              "number": "iv",
+              "question": "State and prove the law of conservation of Angular momentum."
+            },
+            {
+              "number": "v",
+              "question": "271 Fringes are passed through a reference point when a moveable mirror of Michelson's interferometer is moved by 0.08mm. Find wavelength of light used in Å?"
+            },
+            {
+              "number": "vi",
+              "question": "How many times in a second does a spaceship, of diameter 30m, need to be rotated in order to create artificial gravity?"
+            },
+            {
+              "number": "vii",
+              "question": "A mass at the end of spring oscillates with a period of 0.4 sec. Find acceleration when the displacement is 6cm"
+            },
+            {
+              "number": "viii",
+              "question": "What is the cause of Centripetal acceleration? Derive an expression for centripetal acceleration when a body moves with constant speed in circular path."
+            },
+            {
+              "number": "ix",
+              "question": "A uniform ladder having length 'L' and weighing 50N, rests against a smooth vertical wall. If the co-efficient of friction between the ladder and the ground is 0.40, find the minimum angle such that the ladder may not slip."
+            },
+            {
+              "number": "x",
+              "question": "In the game of cricket, why is it easy to catch a ball of high trajectory?"
+            },
+            {
+              "number": "xi",
+              "question": "Two thin convex lenses, of focal lengths 'f₁' and 'f₂', are placed in contact. Derive the formula for the focal length of the combination."
+            },
+            {
+              "number": "xii",
+              "question": "A diffraction grating produces 3rd order spectrum of light of wavelength 7000 Å at an angle of 30° from the normal. What is the grating element? Calculate the number of lines of grating per cm."
+            },
+            {
+              "number": "xiii",
+              "question": "Two vectors A and B are such that |A| = 4, and |B| = 6 and A·B = 13.5. Find the magnitude of difference of vectors and the angle between A and B"
+            },
+            {
+              "number": "xiv",
+              "question": "A string 2m long and of mass 0.004 kg, is stretched horizontally by passing one end over a pulley and attaching a 1 kg mass to it. Find the speed of the transverse waves on the string and the frequency of the second harmonic."
+            },
+            {
+              "number": "xv",
+              "question": "A 50 gm bullet is fired into 10 kg wooden block that is suspended by a long cord so that it can swing as a pendulum. If the block is displaced so that its centre of gravity rises by 10 cm what is the speed of the bullet."
+            }
+          ]
+        },
+        "C": {
+          "title": "Detailed-Answer Questions",
+          "marks": 28,
+          "instructions": "Answer 2 questions from this section.",
+          "questions": [
+            {
+              "number": "3",
+              "parts": [
+                {
+                  "letter": "a",
+                  "question": "Draw a labeled ray diagram of Compound microscope and explain its working. Also derive an expression for its angular magnification."
+                },
+                {
+                  "letter": "b",
+                  "question": "What is Doppler's effect? Derive expressions for the apparent frequency of sound heard by the listener when: (i) the listener moves towards the stationary source. (ii) the source move away from the stationary listener."
+                }
+              ]
+            },
+            {
+              "number": "4",
+              "parts": [
+                {
+                  "letter": "a",
+                  "question": "How are Newton's rings formed? Derive an expression for the radius of nth bright ring."
+                },
+                {
+                  "letter": "b",
+                  "question": "In how many ways can vectors be added? Two vectors P and Q are making angles θ₁ and θ₂ with x-axis respectively. Find the magnitude and direction of the resultant vector by rectangular components method."
+                }
+              ]
+            },
+            {
+              "number": "5",
+              "parts": [
+                {
+                  "letter": "a",
+                  "question": "What is an inclined plane? Resolve the weight of the body of mass 'm', sliding down an inclined plane into components and derive expressions for the acceleration of the body in the: (i) presence of friction (ii) absence of friction"
+                },
+                {
+                  "letter": "b",
+                  "question": "Derive expressions for the variation of acceleration due to gravity with altitude & depth from the surface of earth."
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

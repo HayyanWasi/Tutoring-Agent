@@ -1,0 +1,326 @@
+{
+  "subject": "MATHEMATICS",
+  "year": "2024",
+  "group": "Science Pre-Engineering",
+  "time": "3 Hours",
+  "total_marks": 100,
+  "sections": [
+    {
+      "section": "A",
+      "type": "Multiple Choice Questions",
+      "marks": 20,
+      "instructions": "Choose the correct answer for each from the given options",
+      "questions": [
+        {
+          "number": "i",
+          "question": "[3,5] - (3,5) =",
+          "options": [
+            "[3,5]",
+            "[3,5]",
+            "(3,5)",
+            "{ }"
+          ]
+        },
+        {
+          "number": "ii",
+          "question": "Vector function $\\vec{f}(t) = \\frac{1}{t-2} t + sint$ is continuous at:",
+          "options": [
+            "$t > 2, t \\in \\mathbb{R}$",
+            "$t \\neq 2, t \\in \\mathbb{R}$",
+            "$t \\leq 2, t \\in \\mathbb{R}$",
+            "$t \\in \\mathbb{R}$"
+          ]
+        },
+        {
+          "number": "iii",
+          "question": "$\\lim_{n \\to \\infty} \\left(1 + \\frac{1}{n}\\right)^{-7n} =$",
+          "options": [
+            "$e$",
+            "$1$",
+            "$e^{-7}$",
+            "$\\infty$"
+          ]
+        },
+        {
+          "number": "iv",
+          "question": "If $ax^2 + by^2 - ab = 0$, then $\\frac{dy}{dx} =$",
+          "options": [
+            "$\\frac{2ax}{by}$",
+            "$\\frac{bx}{ay}$",
+            "$\\frac{ax}{by}$",
+            "$\\frac{ax}{2by}$"
+          ]
+        },
+        {
+          "number": "v",
+          "question": "$\\frac{d}{dx}(\\tanh^{-1}x - \\coth^{-1}x) =$",
+          "options": [
+            "$-1$",
+            "$1$",
+            "$0$",
+            "$\\infty$"
+          ]
+        },
+        {
+          "number": "vi",
+          "question": "If $y = \\log_a x$ then $\\frac{dy}{dx}$ (if $a > 0$):",
+          "options": [
+            "$-a^x \\ln a$",
+            "$-a^x \\ln a$",
+            "$\\frac{a^x}{\\ln a}$",
+            "$\\frac{x}{\\ln a}$"
+          ]
+        },
+        {
+          "number": "vii",
+          "question": "The maple command to plot the graph of cos x on the interval $[0,2\\pi]$ is:",
+          "options": [
+            "$> \\text{plot} (\\cos(x)), x = 0, 2Pf);$",
+            "$> \\text{plot} (\\cos(x), x = 0, 2\\pi);$",
+            "$> \\text{plot} (\\cos(x)), x = 0 \\text{ to } 2\\pi);$",
+            "$> \\text{plot} (\\cos(x), x = 0 - \\pi)$"
+          ]
+        },
+        {
+          "number": "viii",
+          "question": "The 'factor' command in maple software are for $6x^2 + 18x - 24$ is:",
+          "options": [
+            "$> factor  6x^2 + 18x - 24;$",
+            "$factor  (6x^2 + 18x - 24);$",
+            "$> (6x^2 + 18x - 24)$",
+            "$factor > (6x^2 + 18x - 24);$"
+          ]
+        },
+        {
+          "number": "ix",
+          "question": "$\\int_{-a}^{a} f(x) dx =$: where $f(-x) = f(x)$:",
+          "options": [
+            "$0$",
+            "$2 \\int_{0}^{a} f(x) dx$",
+            "$\\int_{a}^{-a} f(x) dx$",
+            "$\\int_{0}^{a} f(x/dx)$"
+          ]
+        },
+        {
+          "number": "x",
+          "question": "$\\int x^2 \\ln e^{x^2} dx =$",
+          "options": [
+            "$\\frac{x^2}{4} + c$",
+            "$\\frac{x^5}{5} + c'$",
+            "$\\ln e^{x^2} + c$",
+            "$\\ln x^2 + c$"
+          ]
+        },
+        {
+          "number": "xi",
+          "question": "Let $A(x_1, y_1), B(x_2, y_2), C(x_3, y_3)$ be the vertices of triangle ABC then its centroids:",
+          "options": [
+            "$\\left( \\frac{x_1 + x_2 + x_3}{2}, \\frac{y_1 + y_2 + y_3}{2} \\right)$",
+            "$\\left( \\frac{ax_1 + bx_2 + cx_3}{a+b+c}, \\frac{ay_1 + by_2 + cy_3}{a+b+1} \\right)$",
+            "$\\left( \\frac{x_1 + x_2 + x_3}{3}, \\frac{y_1 + y_2 + y_3}{3} \\right)$",
+            "$a+b+c  x_1 + x_2 + x_3$"
+          ]
+        },
+        {
+          "number": "xii",
+          "question": "If circle $x^2 + y^2 + 2gx + 2fy + c = 0$ touches $x = ax$ is then:",
+          "options": [
+            "$r = |f|'$",
+            "$r = |g|$",
+            "$r = 0$",
+            "$r = |gf|$"
+          ]
+        },
+        {
+          "number": "xiii",
+          "question": "If the line $2x + 3y + a = 0$ is normal to the circle $x^2 + y^2 + 2x + 9 = 0$ then $a =:$",
+          "options": [
+            "$3$",
+            "$-3$",
+            "$2$",
+            "$-2$"
+          ]
+        },
+        {
+          "number": "xiv",
+          "question": "If the eccentricity is zero, then the conic is:",
+          "options": [
+            "Parabola",
+            "Circle",
+            "Ellipse",
+            "Hyperbola"
+          ]
+        },
+        {
+          "number": "xv",
+          "question": "The length of latus rectum of the parabola $(x + 5)^2 = 8(y - 3)$ is:",
+          "options": [
+            "8'",
+            "4",
+            "2",
+            "1"
+          ]
+        },
+        {
+          "number": "xvi",
+          "question": "The order and degree of differential equation $\\frac{dy^4}{dx^4} - \\left( \\frac{dy}{dx} \\right)^{\\frac{1}{2}} = 0$ are:",
+          "options": [
+            "order = 4, degree = 2'",
+            "order = 1, degree = 1",
+            "order = 4, degree = 1",
+            "order = 2, degree = 2"
+          ]
+        },
+        {
+          "number": "xvii",
+          "question": "The general solution of differential equation $\\frac{dy}{dx} + y^2 = 0$ is:",
+          "options": [
+            "$y = ce^x$",
+            "$y = \\frac{1}{x + c}$",
+            "$y = \\frac{x^3}{3} + c$",
+            "$y = \\frac{x^3}{3} + c$"
+          ]
+        },
+        {
+          "number": "xviii",
+          "question": "A function $\\tan \\left( \\frac{2x}{3y} \\right)$ is a homogenous function of degree:",
+          "options": [
+            "$\\frac{3}{2}$",
+            "$1$",
+            "$\\frac{2}{3}$",
+            "$0$"
+          ]
+        },
+        {
+          "number": "xix",
+          "question": "Newton Raphson's method fails when derivative of a function $f(x)$ becomes:",
+          "options": [
+            "$f'(x) > 0$",
+            "$f'(x) < 0$",
+            "$f'(x) = 0$",
+            "$f(x) = 0$"
+          ]
+        },
+        {
+          "number": "xx",
+          "question": "The eccentricity of rectangular hyperbola is:",
+          "options": [
+            "$1$",
+            "$2$",
+            "$\\sqrt{3}$",
+            "$\\sqrt{2}$"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "type": "Short-Answer Questions",
+      "marks": 40,
+      "instructions": "Attempt any Ten part questions in all. All questions carry equal marks. (i.e. 4 marks of each part).",
+      "questions": [
+        {
+          "number": "i",
+          "question": "Evaluate any one of the following: a) $\\lim_{x \\to 0} \\frac{\\sin x^0}{x}$ b) $\\lim_{x \\to 0} \\frac{\\ln x - 1}{x - e}$"
+        },
+        {
+          "number": "ii",
+          "question": "Test continuity and discontinuity of the following function: $f(x) = \\left\\{ \\begin{array}{ll} 2 + x, & \\text{when } x < 3 \\\\ 5 - 2x, & \\text{when } x \\geq 3 \\end{array} \\right.  at  x = 3$"
+        },
+        {
+          "number": "iii",
+          "question": "If $y = \\sqrt{\\sin x \\sqrt{\\sin x \\sqrt{\\sin x}}}  … , show that $(2y - 1) \\frac{dy}{dx} = \\cos x$",
+          "note": "The above question in the board's Paper has some typo-math error. Correct question is given below: If $y = \\sqrt{\\sin x + \\sqrt{\\sin x + \\sqrt{\\sin x}} + \\cdots}$ , show that $(2y - 1) \\frac{dy}{dx} = \\cos x$"
+        },
+        {
+          "number": "iv",
+          "question": "Differentiate any one of the following with respect to $x$. a) $y = \\tan^{-1} \\left( \\frac{\\sin 2x}{1 + \\cos 2x} \\right)$ b) $y = \\tan \\ln^{-1} (\\tan x^3)$"
+        },
+        {
+          "number": "v",
+          "question": "Find the maximum and minimum value(s) of $f(x) = x^2 - 2x + 3$"
+        },
+        {
+          "number": "vi",
+          "question": "A particle moves along a curve whose parametric equations are $x = e^{-t}$, $y = 2 \\cos 3t$ and $z = 2 \\sin 3t$. Find the magnitude of the acceleration at $t = 0$."
+        },
+        {
+          "number": "vii",
+          "question": "Compute the following definite integral by using basic properties. $\\int_{-2}^2 (x^4 + 2x^2) dx$"
+        },
+        {
+          "number": "viii",
+          "question": "Find the area, above the $x - axis$ under the curve $y = x^2 + 1$ between the given ordinates $x = 2, x = 4$."
+        },
+        {
+          "number": "ix",
+          "question": "$Z(4, 5)$ and $X(7, -1)$ are two given points and the point $Y$ divides the line segment $ZX$ eternally in the ratio 4:3. Find the coordinate of $Y$."
+        },
+        {
+          "number": "x",
+          "question": "Show that the lines $2x - 3y + 5 = 0, 3x + 4y - 7 = 0$ and $9x - 5y + 8 = 0$ are concurrent."
+        },
+        {
+          "number": "xi",
+          "question": "Find the equation of circle containing the points $(1, -2)$ and $(3, 4)$ and touching $x - axis$. OR: Find the equation of circle passing through $(-3, -4)$ and is concentric with the circle $x^2 + y^2 - 6x + 8y - 24 = 0$."
+        },
+        {
+          "number": "xii",
+          "question": "Find the equation of the parabola whose focus $(3, 4)$ and directrix is the line $x + y - 1 = 0$."
+        },
+        {
+          "number": "xiii",
+          "question": "If $e_1$ and $e_2$ are eccentricities of two conjugate hyperbolas then prove the relation $\\frac{1}{e_1^2} + \\frac{1}{e_2^2} = 1$."
+        },
+        {
+          "number": "xiv",
+          "question": "Find the orthogonal trajectory of the family of parabola $y^2 = 4ax$."
+        },
+        {
+          "number": "xv",
+          "question": "Find the eccentricity of an ellipse if length of latus rectum is equal to half of its major axis."
+        }
+      ]
+    },
+    {
+      "section": "C",
+      "type": "Detailed Answer Questions",
+      "marks": 40,
+      "instructions": "Answer any FIVE questions from this section. Question No. 3 is compulsory. All questions carry equal marks.",
+      "questions": [
+        {
+          "number": "3",
+          "question": "Evaluate any two of the following: (a) $\\int \\cos^2 x \\sin^3 x  dx$ (b) $\\int_{-6}^{\\sqrt[3]{3}} \\frac{dx}{x\\sqrt{x^2 - 9}}$ (c) $\\int \\cos (\\ln x)  dx$ (d) $\\int \\frac{\\sec^2 x  dx}{(1 + \\tan x)(2 + \\tan x)}$"
+        },
+        {
+          "number": "4",
+          "question": "Find the first four terms of Taylor's Series of $f(x) = \\ln (1 + x)$ at b = 2."
+        },
+        {
+          "number": "5",
+          "question": "Find the angle between the lines $x^2 - 5xy + 6y^2 = 0$. OR—Find the equation of a line through the intersection of the lines $5x - 6y = 1, 3x + 2y + 5 = 0$ and perpendicular to $5y - 3x = 11$."
+        },
+        {
+          "number": "6",
+          "question": "Prove that two circles $x^2 + y^2 + 2gx + c = 0$ and $x^2 + y^2 + 2fx + c = 0$ touch each other, if $\\frac{1}{f^2} + \\frac{1}{g^2} = \\frac{1}{c}$."
+        },
+        {
+          "number": "7",
+          "question": "Find the eccentricity, foci, vertices and directrices of hyperbola $9x^2 - 16y^2 - 144 = 0$."
+        },
+        {
+          "number": "8",
+          "question": "Solve the differential equation $\\frac{dy}{dx} = \\frac{x - 2y + 2}{2x + y - 1}$."
+        },
+        {
+          "number": "9",
+          "question": "Given that $u = \\sec^{-1} \\left( \\frac{x^3 - y^3}{x + y} \\right)$, show that $x \\frac{\\partial u}{\\partial x} + y \\frac{\\partial u}{\\partial y} = 2 \\cot u$."
+        },
+        {
+          "number": "10",
+          "question": "Use Regula Falsi method to find a root of the equation $x^3 - 2x - 5 = 0, [2, 3]$ upto three iterations. OR—Evaluate $\\int_0^1 e^x  dx$ by Simpson's $\\frac{1}{3} r  d$ rule with $n = 6$."
+        }
+      ]
+    }
+  ]
+}

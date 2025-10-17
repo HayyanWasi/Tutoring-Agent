@@ -1,0 +1,406 @@
+{
+  "subject": "ENGLISH",
+  "year": 2022,
+  "time": "3 Hours",
+  "total_marks": 100,
+  "sections": {
+    "A": {
+      "title": "Multiple Choice Questions (MCQs)",
+      "marks": 40,
+      "instructions": "(i) This section contains of 40 part questions and all are to be answered. Each question carries one mark.\n(ii) This section 'A' of Multiple Choice Questions (MCQs) must be solved on the provided OMR sheet.\n(iii) The correct answer bubble must be filled on OMR sheet.\n(iv) Use only blue/black ball point pen on OMR sheet.\n(v) Avoid pencil / White-o pen / correction pen / ink remover and gel pen to solve the questions on OMR sheet.",
+      "questions": [
+        {
+          "number": "i",
+          "question": "Tennyson was appointed as the Poet Laureate England after the death this poet:",
+          "options": ["Shelly", "Keats", "Milton", "Wordsworth"],
+          "correct_answer": "Wordsworth"
+        },
+        {
+          "number": "ii",
+          "question": "The poem 'Music When Soft Voices Die' consists of this number of stanzas:",
+          "options": ["two", "three", "four", "five"],
+          "correct_answer": "two"
+        },
+        {
+          "number": "iii",
+          "question": "She was the wife of Samson:",
+          "options": ["Rose", "Delilah", "Sara", "Mary"],
+          "correct_answer": "Delilah"
+        },
+        {
+          "number": "iv",
+          "question": "Samson Agonistes is the masterpiece of this poet:",
+          "options": ["Pope", "Campion", "Milton", "Keats"],
+          "correct_answer": "Milton"
+        },
+        {
+          "number": "v",
+          "question": "Tryrol' mentioned in 'The Prisoner of Zenda' is the province in this country:",
+          "options": ["Germany", "France", "Austria", "Italy"],
+          "correct_answer": "Austria"
+        },
+        {
+          "number": "vi",
+          "question": "Alexander Pope believes that this springs eternal in the human breast:",
+          "options": ["courage", "piety", "fear", "hope"],
+          "correct_answer": "hope"
+        },
+        {
+          "number": "vii",
+          "question": "The King of Ruritania was:",
+          "options": ["Rudolf Elphberg III", "Rudolf Elphberg IV", "Rudolf Elphberg V", "Rudolf Elphberg VI"],
+          "correct_answer": "Rudolf Elphberg V"
+        },
+        {
+          "number": "viii",
+          "question": "The dialogue 'Say I am a Christian - say I am jealous' was spoken by Mauban at:",
+          "options": ["coronation ceremony", "Summerhouse", "ball", "shooting lodge"],
+          "correct_answer": "Summerhouse"
+        },
+        {
+          "number": "ix",
+          "question": "'An Essay on Man' is addressed by Pope to Lord:",
+          "options": ["Charles", "Andrew", "Bolingbroke", "William"],
+          "correct_answer": "Bolingbroke"
+        },
+        {
+          "number": "x",
+          "question": "Max Hoff was stabbed to death by Rassendyll while he was sleeping in the:",
+          "options": ["boat", "bedroom", "hut", "living room"],
+          "correct_answer": "boat"
+        },
+        {
+          "number": "xi",
+          "question": "The word 'lay' mentioned in 'The Solitary Reaper' means:",
+          "options": ["elegy", "song", "monologue", "speech"],
+          "correct_answer": "song"
+        },
+        {
+          "number": "xii",
+          "question": "This character was French among the six hirelings of the Duke of Strelsau:",
+          "options": ["Krafstein", "De Gautet", "Detchard", "Bersonin"],
+          "correct_answer": "De Gautet"
+        },
+        {
+          "number": "xiii",
+          "question": "The phrase 'gloomy days' used in Endymion' means the days of:",
+          "options": ["sadness", "happiness", "celebration", "joy"],
+          "correct_answer": "sadness"
+        },
+        {
+          "number": "xiv",
+          "question": "'Heaven does not always make the right men ...' (complete the sentence):",
+          "options": ["princes", "monarchs", "kings", "dukes"],
+          "correct_answer": "kings"
+        },
+        {
+          "number": "xv",
+          "question": "The time of 'Twenty Minutes with Mrs. Oakentubb' is the evening of:",
+          "options": ["spring", "summer", "autumn", "winter"],
+          "correct_answer": "winter"
+        },
+        {
+          "number": "xvi",
+          "question": "This language was spoken in Ruritania:",
+          "options": ["French", "German", "English", "Scottish"],
+          "correct_answer": "German"
+        },
+        {
+          "number": "xvii",
+          "question": "'Burgomaster' is the fictional character of:",
+          "options": ["singer", "musician", "lawyer", "mayor"],
+          "correct_answer": "mayor"
+        },
+        {
+          "number": "xviii",
+          "question": "Schopenhauer was a German:",
+          "options": ["Philosopher", "warrior", "psychologist", "writer"],
+          "correct_answer": "Philosopher"
+        },
+        {
+          "number": "xix",
+          "question": "'The Devoted Friend' is composed in this literary form:",
+          "options": ["parable", "anecdote", "fairytale", "play"],
+          "correct_answer": "fairytale"
+        },
+        {
+          "number": "xx",
+          "question": "The story of 'The Devoted Friend' is narrated by:",
+          "options": ["water-rat", "linnet", "duck", "canary"],
+          "correct_answer": "linnet"
+        },
+        {
+          "number": "xxi",
+          "question": "Einstein thinks that the best democratic set up is in this country:",
+          "options": ["France", "Australia", "Italy", "America"],
+          "correct_answer": "America"
+        },
+        {
+          "number": "xxii",
+          "question": "The Tang Dynasty ruled over this country:",
+          "options": ["Turkey", "Russia", "China", "India"],
+          "correct_answer": "China"
+        },
+        {
+          "number": "xxiii",
+          "question": "When the rumor spread about the breaking of dam, Aunt Edith Taylor was in a:",
+          "options": ["park", "movie theatre", "mall", "mart"],
+          "correct_answer": "movie theatre"
+        },
+        {
+          "number": "xxiv",
+          "question": "The maintenance of freedom requires constant:",
+          "options": ["work", "struggle", "fight", "vigilance"],
+          "correct_answer": "vigilance"
+        },
+        {
+          "number": "xxv",
+          "question": "'Oblivion' means:",
+          "options": ["forgetfulness", "remembrance", "shadow", "deceit"],
+          "correct_answer": "forgetfulness"
+        },
+        {
+          "number": "xxvi",
+          "question": "The Coronation Ceremony was to be held at:",
+          "options": ["Zenda", "Strelsau", "Dresden", "Tyrol"],
+          "correct_answer": "Strelsau"
+        },
+        {
+          "number": "xxvii",
+          "question": "'Twenty Minutes with Mrs. Oakentubb' is a:",
+          "options": ["comedy", "satire", "melodrama", "romance"],
+          "correct_answer": "melodrama"
+        },
+        {
+          "number": "xxviii",
+          "question": "Rudolf Rassendyll impersonated as the:",
+          "options": ["king", "monarch", "prince", "duke"],
+          "correct_answer": "king"
+        },
+        {
+          "number": "xxix",
+          "question": "The man who was imprisoned in Zenda was:",
+          "options": ["Max Holf", "Rudolf Elphberg", "Johann", "Rudolf Rassendyll"],
+          "correct_answer": "Rudolf Elphberg"
+        },
+        {
+          "number": "xxx",
+          "question": "After the fall of the Roman Empire the leadership in power and culture passed to the:",
+          "options": ["West", "Germans", "East", "Chinese"],
+          "correct_answer": "East"
+        },
+        {
+          "number": "xxxi",
+          "question": "A true soldier like a true sportsman never hits below the:",
+          "options": ["neck", "head", "hat", "belt"],
+          "correct_answer": "belt"
+        },
+        {
+          "number": "xxxii",
+          "question": "Samson had been taken captive through the treachery of his:",
+          "options": ["friend", "enemy", "wife", "people"],
+          "correct_answer": "wife"
+        },
+        {
+          "number": "xxxiii",
+          "question": "'Sounding furrows' means:",
+          "options": ["noiseless waves", "speedy waves", "noisy waves", "high waves"],
+          "correct_answer": "noisy waves"
+        },
+        {
+          "number": "xxxiv",
+          "question": "'A thing of beauty is a joy for ever' is the opening line of this poem:",
+          "options": ["An Essay on Man", "Samson Agonistes", "Endymion", "The Solitary Reaper"],
+          "correct_answer": "Endymion"
+        },
+        {
+          "number": "xxxv",
+          "question": "'To strive to seek, to find and not to yield' is the message of this poem:",
+          "options": ["Lines From the Endymion", "Samson Agonistes", "Ulysses", "The Solitary Reaper"],
+          "correct_answer": "Ulysses"
+        },
+        {
+          "number": "xxxvi",
+          "question": "Honour is superior to love, is the message conveyed in:",
+          "options": ["Far From the Madding Crowd", "Hamlet", "The Prisoner of Zenda", "Macbeth"],
+          "correct_answer": "The Prisoner of Zenda"
+        },
+        {
+          "number": "xxxvii",
+          "question": "The book! Past and Present' is the masterpiece of:",
+          "options": ["Dickens", "Eliot", "Carlyle", "Hardy"],
+          "correct_answer": "Carlyle"
+        },
+        {
+          "number": "xxxviii",
+          "question": "Columbus and Vasco da Gama were the pioneers of the new western:",
+          "options": ["democracy", "imperialism", "autocracy", "feudalism"],
+          "correct_answer": "imperialism"
+        },
+        {
+          "number": "xxxix",
+          "question": "The word 'Monotheist' means believer in:",
+          "options": ["one God", "many gods", "two gods", "idols"],
+          "correct_answer": "one God"
+        },
+        {
+          "number": "xl",
+          "question": "In the poem, 'The Solitary Reaper', William Wordsworth compared the singing of the girl with that a/an:",
+          "options": ["nightingale", "eagle", "sparrow", "hawk"],
+          "correct_answer": "nightingale"
+        }
+      ]
+    },
+    "B": {
+      "title": "Short Answer Questions",
+      "marks": 40,
+      "instructions": "Attempt Ten part-questions from this section, selecting at least Two part questions from each sub-section. All questions carry equal marks.",
+      "subsections": [
+        {
+          "name": "SUB-SECTION I (Intermediate English Book II)",
+          "questions": [
+            {
+              "number": "i",
+              "question": "Why does Bertrand Russell pin hope in the East to bring peace, progress and prosperity' in the world?"
+            },
+            {
+              "number": "ii",
+              "question": "How did the panic end in 'The Day the Dam Broke'?"
+            },
+            {
+              "number": "iii",
+              "question": "What is genuine freedom according to Liaquat Ali Khan?"
+            },
+            {
+              "number": "iv",
+              "question": "What system is criticized in the play, 'Act Ill of the Silver Box'? State why."
+            }
+          ]
+        },
+        {
+          "name": "SUB-SECTION II (Selections From English Verse Part-II)",
+          "questions": [
+            {
+              "number": "v",
+              "question": "What does Thomas Campion's Upright Man think about worldly life?"
+            },
+            {
+              "number": "vi",
+              "question": "Explain the title of the poem 'Say Not the Struggle Naught Avalieth.'"
+            },
+            {
+              "number": "vii",
+              "question": "Describe the last stage of man's life as given in the poem 'The Seven Ages of Man'."
+            },
+            {
+              "number": "viii",
+              "question": "How did Ulysses inspire his sailors to embark on a new journey?"
+            }
+          ]
+        },
+        {
+          "name": "SUB-SECTION III (The Prisoner of Zenda)",
+          "questions": [
+            {
+              "number": "ix",
+              "question": "Who was Michael and how did he die?"
+            },
+            {
+              "number": "x",
+              "question": "Why did Lady Mauban extend support to Rudolf Rassendyll?"
+            },
+            {
+              "number": "xi",
+              "question": "What is a ball? State its importance in the novel."
+            },
+            {
+              "number": "xii",
+              "question": "Who was the prisoner of Zenda? Why was he imprisoned?"
+            }
+          ]
+        },
+        {
+          "name": "SUB-SECTION IV (Grammar)",
+          "questions": [
+            {
+              "number": "xiii",
+              "type": "word_usage",
+              "question": "Use any Two of the following pair of words in your sentences (Total 4 sentences):",
+              "word_pairs": [
+                ["aloud", "allowed"],
+                ["brake", "break"],
+                ["angle", "angel"],
+                ["merry", "marry"],
+                ["prey", "pray"]
+              ]
+            },
+            {
+              "number": "xiv",
+              "type": "matching",
+              "question": "Match any Four of the following words of column 'A' with the meaning in column 'B':",
+              "pairs": {
+                "Shank": "leg",
+                "Jeopardy": "in danger",
+                "yon": "there",
+                "Oriental": "eastern",
+                "strain": "song"
+              }
+            },
+            {
+              "number": "xv",
+              "type": "phrasal_verbs",
+              "question": "Use any Two of the following phrasal verbs in sentences:",
+              "verbs": ["look forward to", "take after", "wind up", "make out", "pass away", "turn down"]
+            }
+          ]
+        }
+      ]
+    },
+    "C": {
+      "title": "Detailed Answer Questions",
+      "marks": 20,
+      "instructions": "Attempt any TWO questions from this section. All questions carry equal marks.",
+      "questions": [
+        {
+          "number": "3",
+          "type": "essay",
+          "question": "Write an essay on any One of the following topics:",
+          "topics": [
+            "Need of Digital Literacy in Pakistan",
+            "Importance of Tree Plantation",
+            "Uses and Abuses of Smart Phone",
+            "Impacts of Corona on the World Economy"
+          ]
+        },
+        {
+          "number": "4",
+          "type": "narration_change",
+          "question": "Change the narration:",
+          "sentences": [
+            "The leader said, 'Let's work together for the greater good of the country.'",
+            "She said, 'Oh! I lost my laptop.'",
+            "The chief guest said, 'It is a matter of great pleasure for me to be here with you today.'",
+            "The teacher said, 'The face is the index of the mind.'",
+            "The mother said, 'Where were you yesterday, Zahid?'"
+          ]
+        },
+        {
+          "number": "5",
+          "type": "comprehension",
+          "question": "Read the following passage and answer the questions given below:",
+          "passage": "'I wanted to the anyway. I'd nothing to live for. The pain was pretty bad. I guess I fainted. When I came to, there was a Korean girl bending over me. She was about fourteen; not pretty, of course; but friendly brown eye, and long black plaits hanging in front of her shoulders. She didn't say anything. She just smiled. And I smiled back. Some busy-bodies chased her away. Then the ambulance came up and I was jolted for miles to a hospital. The pain was much worse. But I could bear it now. I didn't want to die any more. I wanted to live. I knew I should live. I had a purpose.'",
+          "questions": [
+            "Identify the title of the text and the writer.",
+            "Who wanted to die and why?",
+            "Why did the speaker want to live after meeting the Korean girl?",
+            {
+              "type": "word_classes",
+              "question": "Identify the word classes of the following words:",
+              "words": ["fourteen", "brown", "some", "worse"]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
